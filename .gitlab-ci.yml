@@ -58,7 +58,7 @@ bandit:
     allow_failure: true
 
 tests:
-    image: registry.crnd.pro/crnd/docker/odoo-ci-x:12.0-ci
+    image: registry.crnd.pro/crnd/docker/odoo-ci-x:13.0-ci
     stage: test
     <<: *pip_cache_definition
     before_script:
@@ -69,7 +69,7 @@ tests:
     allow_failure: true
 
 translation_rate_ua:
-    image: registry.crnd.pro/crnd/docker/odoo-ci-x:12.0-ci
+    image: registry.crnd.pro/crnd/docker/odoo-ci-x:13.0-ci
     stage: translation 
     <<: *pip_cache_definition
     before_script:
@@ -80,7 +80,7 @@ translation_rate_ua:
     allow_failure: true
 
 translation_rate_ru:
-    image: registry.crnd.pro/crnd/docker/odoo-ci-x:12.0-ci
+    image: registry.crnd.pro/crnd/docker/odoo-ci-x:13.0-ci
     stage: translation
     <<: *pip_cache_definition
     before_script:
