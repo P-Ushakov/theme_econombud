@@ -1,0 +1,96 @@
+<odoo>
+    <data noupdate="1">       
+
+        <record id="theme_econombud.bg-hero-hydro" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">bg-hero-hydro.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/hydro/bg-hero-hydro.jpg</field>
+        </record>
+
+        <record id="theme_econombud.bg-hydro-form" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">bg-hydro-form.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/hydro/bg-hydro-form.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-compare-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-compare-1.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/hydro/c-compare-1.png</field>
+        </record>
+
+        <record id="theme_econombud.c-compare-2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-compare-2.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/hydro/c-compare-2.png</field>
+        </record>
+
+        <record id="theme_econombud.c-compare-3" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-compare-3.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/hydro/c-compare-3.png</field>
+        </record>
+
+        <record id="theme_econombud.c-economy-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-economy-1.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/hydro/c-economy-1.svg</field>
+        </record>
+
+        <record id="theme_econombud.c-economy-2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-economy-2.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/hydro/c-economy-2.svg</field>
+        </record>
+
+        <record id="theme_econombud.c-material-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-material-1.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/hydro/c-material-1.png</field>
+        </record>
+
+        <record id="theme_econombud.hydro_1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">hydro_1.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/hydro/hydro_1.jpg</field>
+        </record>
+
+        <record id="theme_econombud.maxresdefault_h" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">maxresdefault_h.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/hydro/maxresdefault_h.jpg</field>
+        </record>
+
+        <record id="theme_econombud.p_91942_1_slidertop2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">p_91942_1_slidertop2.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/hydro/p_91942_1_slidertop2.jpg</field>
+        </record>
+
+        <record id="theme_econombud.site0" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">site0.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/hydro/site0.jpg</field>
+        </record>
+
+        <record id="theme_econombud.terrasa-18" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">terrasa-18.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/hydro/terrasa-18.jpg</field>
+        </record>       
+        
+    </data>
+</odoo>

@@ -1,0 +1,98 @@
+<odoo>
+    <data noupdate="1">
+    
+        <record id="theme_econombud.book" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">book.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/book.png</field>
+        </record>
+
+        <record id="theme_econombud.DSC07804-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">DSC07804-1.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/DSC07804-1.png</field>
+        </record>
+
+        <record id="theme_econombud.DSC07836-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">DSC07836-1.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/DSC07836-1.png</field>
+        </record>
+
+        <record id="theme_econombud.ebud-main-img" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">ebud-main-img.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/ebud-main-img.png</field>
+        </record>
+
+        <record id="theme_econombud.hero-bg_ash" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">hero-bg_ash.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/hero-bg_ash.jpg</field>
+        </record>
+
+        <record id="theme_econombud.IMG_2668" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">IMG_2668.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/IMG_2668.png</field>
+        </record>
+
+        <record id="theme_econombud.IMG_2774" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">IMG_2774.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/IMG_2774.png</field>
+        </record>
+
+        <record id="theme_econombud.ebud-pistolet" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">ebud-pistolet.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/ebud-pistolet.png</field>
+        </record>
+
+        <record id="theme_econombud.sertificate-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">sertificate-1.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/sertificate-1.jpg</field>
+        </record>
+
+        <record id="theme_econombud.sertificate-2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">sertificate-2.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/sertificate-2.jpg</field>
+        </record>
+
+        <record id="theme_econombud.sertificate-3" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">sertificate-3.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/sertificate-3.jpg</field>
+        </record>
+
+        <record id="theme_econombud.sertificate-4" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">sertificate-4.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/sertificate-4.jpg</field>
+        </record>
+
+        <record id="theme_econombud.video-prev" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">video-prev.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/video-prev.jpg</field>
+        </record>
+
+
+        
+    </data>
+</odoo>

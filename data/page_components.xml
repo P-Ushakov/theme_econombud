@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<data noupdate="0">
+		<!-- split between ir_ui_view & website_page record to keep external_id on ir_ui_view -->
+		<record id="page_components_view" model="ir.ui.view">
+			<field name="name">components</field>
+			<field name="type">qweb</field>
+			<field name="key">website.components</field>
+			<field name="arch" type="xml">
+				<t name="components" priority="60" t-name="website.components">
+					<t t-call="website.layout">
+						<!--<t t-set="pageName" t-value="'components'"/>-->
+						<div id="wrap">
+							<div id="page-top"/>
+							<div class="oe_structure">
+								<!--start of main carousel-->
+								<section class="main_carousel">
+									<div id="myCarousel1590767560896" class="s_carousel carousel carousel-fade slide s_carousel_default" data-interval="10000" data-name="Carousel">
+										<ol class="carousel-indicators">
+											<li data-target="#myCarousel1590767560896" data-slide-to="0" class="active"/>
+											<li data-target="#myCarousel1590767560896" data-slide-to="1"/>
+											<li data-target="#myCarousel1590767560896" data-slide-to="2"/>
+										</ol>
+										<div class="carousel-inner ">
+											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item bg-black-50 pb16 active" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-50" style="background-image: url(&quot;/theme_econombud/static/src/img/common/bg/2020095720_w640_h640_2020095720.webp&quot;); background-position: 48.49% 19.09%;"/>
+												<div class="container">
+													<div class="row s_nb_column_fixed">
+														<div class="col-lg-9 bg-none jumbotron pt32 pb32 rounded" data-name="Box">
+															<div class="row">
+																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
+																	<h4>Продажа компонентов для гидро- и теплоизоляции</h4>
+																</div>
+																<div class="col-lg-12 s_title s_col_no_bgcolor pb0" data-name="Title">
+																	<h1 class="s_title_thin">
+																		<font style="" class="o_default_snippet_text">
+																			<b>
+																				<span class="text-warning">
+																					<strong>Выгодные компоненты</strong>
+																				</span>	с доставкой по всей Украине																																				
+																			</b>
+																		</font>
+																	</h1>
+																</div>
+																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
+																	<h3>Качественные компоненты для																		<b>полимочевины</b> и																		<b>пенополиуретана</b> по ценам от производителя и доставкой по всей Украине
+																	</h3>
+																</div>
+																<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
+																	<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<section class="s_three_columns pt0 pb0" data-name="Columns" style="">
+													<div class="container-fluid">
+														<div class="row d-flex align-items-stretch">
+															<div class="s_col_no_bgcolor pb16 pt0 col-lg-1 col-md-2">
+																<div class="card bg-black-50">
+																	<div class="card-footer row d-flex align-items-stretch">
+																		<div class="s_share col-lg-12 text-center" data-name="Share">
+																			<p>
+																				<a href="website.social_facebook" class="btn btn-sm btn-link my_grid_title">
+																					<i class="fa fa-3x fa-facebook-square"/>
+																				</a>
+																				<a href="website.social_youtube" class="btn btn-sm btn-link my_grid_title">
+																					<i class="fa fa-3x fa-youtube-play"/>
+																				</a>
+																				<a href="website.social_instagram" class="btn btn-sm btn-link my_grid_title">
+																					<i class="fa fa-3x fa-instagram"/>
+																				</a>
+																			</p>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<div class="card-footer">
+																		<h3 class="card-title">
+																			Почему
+																			<span class="text-warning">
+																				<strong>выгодно</strong>
+																			</span> заказывать компоненты у нас:
+																		</h3>
+																		<p class="card-text"/>
+																	</div>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<span class="card-img-top d-block fa fa-truck mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h4 class="card-title text-center">Доставка по всей Украине</h4>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<span class="card-img-top d-block fa fa-gift mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h4 class="card-title text-center">Отправляем от 20 кг</h4>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<span class="card-img-top d-block fa fa-gears mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h4 class="card-title text-center">Цены от производителя</h4>
+																</div>
+															</div>
+														</div>
+													</div>
+												</section>
+											</section>
+											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item bg-black-50 pb16" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-50" style="background-image: url(&quot;/theme_econombud/static/src/img/common/bg/1067100831_w640_h640_1067100831.webp&quot;); background-position: 48.49% 19.09%;"/>
+												<div class="container">
+													<div class="row s_nb_column_fixed">
+														<div class="col-lg-9 bg-none jumbotron pt32 pb32 rounded" data-name="Box">
+															<div class="row">
+																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
+																	<h4>Продажа компонентов для гидро- и теплоизоляции</h4>
+																</div>
+																<div class="col-lg-12 s_title s_col_no_bgcolor pb0" data-name="Title">
+																	<h1 class="s_title_thin">
+																		<font style="" class="o_default_snippet_text">
+																			<b>
+																				<span class="text-warning">
+																					<strong>Выгодные компоненты</strong>
+																				</span>	с доставкой по всей Украине																																				
+																			</b>
+																		</font>
+																	</h1>
+																</div>
+																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
+																	<h3>Качественные компоненты для																		<b>полимочевины</b> и																		<b>пенополиуретана</b> по ценам от производителя и доставкой по всей Украине
+																	</h3>
+																</div>
+																<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
+																	<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<section class="s_three_columns pt0 pb0" data-name="Columns" style="">
+													<div class="container-fluid">
+														<div class="row d-flex align-items-stretch">
+															<div class="s_col_no_bgcolor pb16 pt0 col-lg-1 col-md-2">
+																<div class="card bg-black-50">
+																	<div class="card-footer row d-flex align-items-stretch">
+																		<div class="s_share col-lg-12 text-center" data-name="Share">
+																			<p>
+																				<a href="website.social_facebook" class="btn btn-sm btn-link my_grid_title">
+																					<i class="fa fa-3x fa-facebook-square"/>
+																				</a>
+																				<a href="website.social_youtube" class="btn btn-sm btn-link my_grid_title">
+																					<i class="fa fa-3x fa-youtube-play"/>
+																				</a>
+																				<a href="website.social_instagram" class="btn btn-sm btn-link my_grid_title">
+																					<i class="fa fa-3x fa-instagram"/>
+																				</a>
+																			</p>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<div class="card-footer">
+																		<h3 class="card-title">
+																			Почему
+																			<span class="text-warning">
+																				<strong>выгодно</strong>
+																			</span> заказывать компоненты у нас:
+																		</h3>
+																		<p class="card-text"/>
+																	</div>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<span class="card-img-top d-block fa fa-truck mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h4 class="card-title text-center">Доставка по всей Украине</h4>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<span class="card-img-top d-block fa fa-gift mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h4 class="card-title text-center">Отправляем от 20 кг</h4>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<span class="card-img-top d-block fa fa-gears mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h4 class="card-title text-center">Цены от производителя</h4>
+																</div>
+															</div>
+														</div>
+													</div>
+												</section>
+											</section>
+											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item bg-black-50 pb16" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-50" style="background-image: url(&quot;/theme_econombud/static/src/img/components/bg-greeting-components.jpg&quot;); background-position: 48.49% 19.09%;"/>
+												<div class="container">
+													<div class="row s_nb_column_fixed">
+														<div class="col-lg-9 bg-none jumbotron pt32 pb32 rounded" data-name="Box">
+															<div class="row">
+																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
+																	<h4>Продажа компонентов для гидро- и теплоизоляции</h4>
+																</div>
+																<div class="col-lg-12 s_title s_col_no_bgcolor pb0" data-name="Title">
+																	<h1 class="s_title_thin">
+																		<font style="" class="o_default_snippet_text">
+																			<b>
+																				<span class="text-warning">
+																					<strong>Выгодные компоненты</strong>
+																				</span>	с доставкой по всей Украине																																				
+																			</b>
+																		</font>
+																	</h1>
+																</div>
+																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
+																	<h3>Качественные компоненты для																		<b>полимочевины</b> и																		<b>пенополиуретана</b> по ценам от производителя и доставкой по всей Украине
+																	</h3>
+																</div>
+																<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
+																	<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<section class="s_three_columns pt0 pb0" data-name="Columns" style="">
+													<div class="container-fluid">
+														<div class="row d-flex align-items-stretch">
+															<div class="s_col_no_bgcolor pb16 pt0 col-lg-1 col-md-2">
+																<div class="card bg-black-50">
+																	<div class="card-footer row d-flex align-items-stretch">
+																		<div class="s_share col-lg-12 text-center" data-name="Share">
+																			<p>
+																				<a href="website.social_facebook" class="btn btn-sm btn-link my_grid_title">
+																					<i class="fa fa-3x fa-facebook-square"/>
+																				</a>
+																				<a href="website.social_youtube" class="btn btn-sm btn-link my_grid_title">
+																					<i class="fa fa-3x fa-youtube-play"/>
+																				</a>
+																				<a href="website.social_instagram" class="btn btn-sm btn-link my_grid_title">
+																					<i class="fa fa-3x fa-instagram"/>
+																				</a>
+																			</p>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<div class="card-footer">
+																		<h3 class="card-title">
+																			Почему
+																			<span class="text-warning">
+																				<strong>выгодно</strong>
+																			</span> заказывать компоненты у нас:
+																		</h3>
+																		<p class="card-text"/>
+																	</div>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<span class="card-img-top d-block fa fa-truck mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h4 class="card-title text-center">Доставка по всей Украине</h4>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<span class="card-img-top d-block fa fa-gift mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h4 class="card-title text-center">Отправляем от 20 кг</h4>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<span class="card-img-top d-block fa fa-gears mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h4 class="card-title text-center">Цены от производителя</h4>
+																</div>
+															</div>
+														</div>
+													</div>
+												</section>
+											</section>
+										</div>
+										<!-- <div class="carousel-control-prev" data-target="#myCarousel1590767560896" data-slide="prev" role="img" aria-label="Previous" title="Previous">
+											<span class="carousel-control-prev-icon"/>
+											<span class="sr-only o_default_snippet_text">Previous</span>
+										</div>
+										<div class="carousel-control-next" data-target="#myCarousel1590767560896" data-slide="next" role="img" aria-label="Next" title="Next">
+											<span class="carousel-control-next-icon"/>
+											<span class="sr-only o_default_snippet_text">Next</span>
+									</div> -->
+									</div>
+								</section>
+								<!--end of main carousel-->
+
+								<section class="pb0 pt32" data-name="Title">
+									<div class="container">
+										<div class="row s_nb_column_fixed">
+											<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
+												<h2 class="s_title_default">
+													<b>
+														<span class="blue-text">Продукция</span>
+													</b>
+													<!-- <br/> -->
+												</h2>
+											</div>
+										</div>
+									</div>
+								</section>
+
+								<section class="pb0 pt0" data-name="Title">
+									<div class="container">
+										<div class="row s_nb_column_fixed">
+											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
+												<h3 class="s_title_default">лучшие материалы и компоненты на рынке</h3>
+											</div>
+										</div>
+									</div>
+								</section>
+
+								<section class="row d-flex justify-content-center">
+									<div class="col-6 col-lg-3 blue-line">
+										<hr/>
+									</div>
+								</section>
+
+								<section class="s_three_columns bg-200 pb24 pt24" data-name="Columns">
+									<div class="container">
+										<div class="row d-flex align-items-stretch">
+											<div class="col-lg-6 s_col_no_bgcolor pt16 pb16">
+												<div class="card bg-white">
+													<div class="card-image mt128 mb120">
+														<img class="card-img-top" src="/theme_econombud/static/src/img/components/c-product-simple-1.png" alt="Полимочевина" data-original-title="" title="" aria-describedby="tooltip947811"/>
+													</div>
+													<div class="card-body">
+														<h3 class="card-title text-center">
+															<b>Полимочевина</b>
+														</h3>
+														<p class="card-text" style="text-align: center;">толстослойное, сверхэластичное монолитное покрытие в виде пленки</p>
+													</div>
+													<div class="col-lg-12 s_btn text-center pb16 pt0" data-name="Button">
+														<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">ПОДРОБНЕЕ О МАТЕРИАЛЕ</a>
+													</div>
+												</div>
+											</div>
+											<div class="col-lg-6 s_col_no_bgcolor pt16 pb16">
+												<div class="card bg-white">
+													<div class="card-image mt16">
+														<img class="card-img-top" src="/theme_econombud/static/src/img/components/c-product-simple-2.png" alt="Пенополиуретан" data-original-title="" title="" aria-describedby="tooltip947811"/>
+													</div>
+													<div class="card-body">
+														<h3 class="card-title text-center">
+															<b>Пенополиуретан</b>
+														</h3>
+														<p class="card-text" style="text-align: center;">перспективный синтетический утеплитель, состоящий из затвердевшей полимерной пены</p>
+													</div>
+													<div class="col-lg-12 s_btn text-center pb16 pt0" data-name="Button">
+														<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">ПОДРОБНЕЕ О МАТЕРИАЛЕ</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</section>
+
+								<section class="s_cover parallax s_parallax_is_fixed bg-black-50 pt64 pb64 s_parallax_no_overflow_hidden" data-scroll-background-ratio="1" data-name="Cover" style="background-image: none;">
+									<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/common/bg/bg-gydro-quality.jpg'); background-position: 50% 0;"/>
+									<div class="container">
+										<div class="row s_nb_column_fixed">
+											<div class="col-lg-12 s_btn text-left pt8 pb16" data-name="Buttons">
+												<h3 class="btn btn-light o_default_snippet_text">БЕСПЛАТНО</h3>
+											</div>
+											<!-- <div class="col-lg-12 s_btn text-left pt16 pb16" data-name="Buttons">
+											<a href="#" class="btn btn-delta rounded-circle o_default_snippet_text">БЕСПЛАТНО</a>											
+										</div>
+
+										<div class="col-lg-12 s_title" data-name="Title">
+											<h1 class="s_title_thin o_default_snippet_text" style="text-align: left;">Хотите <span class="text-warning">проверить качество</span> материалов?
+											</h1>
+										</div>
+										<div class="col-lg-12 s_text pt16 pb16" data-name="Text">
+											<h3 class="lead o_default_snippet_text" style="text-align: left;">Оставьте контакты и мы отправим образец в любой город Новой Почтой</h3>
+										</div> -->
+
+											<form action="/website_form/" method="post" class="s_website_form container-fluid mt32 o_fake_not_editable" enctype="multipart/form-data" data-name="Form Builder" data-model_name="crm.lead" data-success_page="/contactus-thank-you">
+												<div class="container">
+													<h2 class="o_form_heading">
+														<strong>Хотите															<span class="text-warning">проверить качество</span> материалов?
+														</strong>
+													</h2>
+													<h3 class="o_form_heading">Оставьте контакты и мы отправим образец в любой город Новой Почтой</h3>
+													<div class="form-group row form-field o_website_form_required_custom">
+														<div class="col-lg-3 col-md-4">
+															<label class="col-form-label o_fake_editable" for="contact_name">Ваше имя</label>
+														</div>
+														<div class="col-lg-7 col-md-8">
+															<input type="text" class="form-control o_website_form_input" name="contact_name" required=""/>
+														</div>
+													</div>
+													<div class="form-group row form-field o_fake_not_editable">
+														<div class="col-lg-3 col-md-4">
+															<label class="col-form-label o_fake_editable" for="phone">Ваш номер</label>
+														</div>
+														<div class="col-lg-7 col-md-8">
+															<input type="text" class="form-control o_website_form_input" name="phone" required=""/>
+														</div>
+													</div>
+													<div class="form-group row form-field o_website_form_required o_fake_not_editable" style="visibility: hidden">
+														<div class="col-lg-3 col-md-4">
+															<label class="col-form-label o_fake_editable" for="name">Subject</label>
+														</div>
+														<div class="col-lg-7 col-md-8">
+															<input type="text" class="form-control o_website_form_input" name="name" value="Компоненты/запрос материалов"/>
+														</div>
+													</div>
+													<div class="row form-group form-field d-none">
+														<div class="col-lg-3 col-md-4">
+															<label class="col-form-label" for="team_id">
+
+															</label>
+														</div>
+														<div class="col-lg-7 col-md-8">
+															<input type="text" class="form-control o_website_form_input" name="team_id" value="1"/>
+														</div>
+													</div>
+													<div class="row form-group form-field d-none">
+														<div class="col-lg-3 col-md-4">
+															<label class="col-form-label" for="user_id">
+
+															</label>
+														</div>
+														<div class="col-lg-7 col-md-8">
+															<input type="text" class="form-control o_website_form_input" name="user_id" value="2"/>
+														</div>
+													</div>
+													<div class="form-group row">
+														<div class="offset-lg-3 offset-md-4 col-md-8 col-lg-7">
+															<button class="btn btn-warning rounded-circle btn-lg o_website_form_send o_default_snippet_text">заказать образец</button>
+															<span id="o_website_form_result"/>
+														</div>
+													</div>
+												</div>
+											</form>
+
+										</div>
+									</div>
+								</section>
+
+								<section class="pb0 pt0" data-name="Title">
+									<div class="container">
+										<div class="row s_nb_column_fixed">
+											<div class="col-lg-12 s_title pb0 pt64" style="text-align: left;">
+												<h2 class="s_title_default">
+													<strong>
+														<span class="blue-text">Преимущества</span> компонентов,
+													</strong>
+												</h2>
+											</div>
+										</div>
+									</div>
+								</section>
+
+								<section class="pt0 pb0" data-name="Title">
+									<div class="container">
+										<div class="row s_nb_column_fixed">
+											<div class="col-lg-12 s_title pt0 pb0" style="text-align: left;">
+												<h3 class="s_title_default">проверенные на практике и многолетнем опыте</h3>
+											</div>
+											<section class="container">
+												<div class="row">
+													<div class="col-6 col-lg-3 blue-line">
+														<hr/>
+													</div>
+												</div>
+											</section>
+											<div class="col-lg-8 pb4 pt24">
+												<p class="lead">
+													<font>Мы знаем, что у каждой задачи есть множество вариантов решения, поэтому всегда ищем оптимальный путь достижения результата.</font>
+												</p>
+											</div>
+										</div>
+									</div>
+								</section>
+
+
+								<section class="s_three_columns pt32 pb16" data-name="Columns" style="">
+									<div class="container">
+										<div class="row d-flex align-items-stretch">
+											<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+												<div class="bg-white-25 row" style="">
+													<div class="pt16 mt32 col-lg-12 s_title pb8" style="text-align: center; ">
+														<img class="img-fluid o_we_custom_image" src="/theme_econombud/static/src/img/common/icons/i-components-1.svg"/>
+													</div>
+													<div class="col-lg-12 s_title pb0 pt16">
+														<h3 class="card-title text-center">
+															<b>Гарантия от производителя</b>
+														</h3>
+													</div>
+													<div class="col-lg-12 lead pb0 pt0">
+														<p class="card-body text-left">Вся продукция сертифицирована и имеет гарантийные сертификаты от производителя</p>
+													</div>
+												</div>
+											</div>
+											<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+												<div class="bg-white-25 row" style="">
+													<div class="pt16 mt32 col-lg-12 s_title pb8" style="text-align: center; ">
+														<img class="img-fluid o_we_custom_image" src="/theme_econombud/static/src/img/common/icons/i-components-2.svg"/>
+													</div>
+													<div class="col-lg-12 s_title pb0 pt16">
+														<h3 class="card-title text-center">
+															<b>Под любой объект</b>
+														</h3>
+													</div>
+													<div class="col-lg-12 lead pb0 pt0">
+														<p class="card-body text-left">Подбор лучшей модели пенополиуретана и полимочевины из десятка вариантов для вашей цели</p>
+													</div>
+												</div>
+											</div>
+											<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+												<div class="bg-white-25 row" style="">
+													<div class="pt16 mt32 col-lg-12 s_title pb8" style="text-align: center; ">
+														<img class="img-fluid o_we_custom_image" src="/theme_econombud/static/src/img/common/icons/i-components-3.svg"/>
+													</div>
+													<div class="col-lg-12 s_title pb0 pt16">
+														<h3 class="card-title text-center">
+															<b>Проверено на практике</b>
+														</h3>
+													</div>
+													<div class="col-lg-12 lead pb0 pt0">
+														<p class="card-body text-left">Продукция прошла проверку качества на сотнях объектов наших партнеров и объектов франшизы по всей Украине</p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</section>
+
+								<section class="pb0 pt32" data-name="Title">
+									<div class="container">
+										<div class="row s_nb_column_fixed">
+											<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
+												<h2 class="s_title_default">
+													<b>Используйте компоненты 
+														<span class="blue-text">правильно</span>
+													</b>
+													<!-- <br/> -->
+												</h2>
+											</div>
+										</div>
+									</div>
+								</section>
+
+								<section class="pb0 pt0" data-name="Title">
+									<div class="container">
+										<div class="row s_nb_column_fixed">
+											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
+												<h3 class="s_title_default">узнайте больше о нюансах работы с материалами</h3>
+											</div>
+										</div>
+									</div>
+								</section>
+
+								<section class="row d-flex justify-content-center">
+									<div class="col-6 col-lg-3 blue-line">
+										<hr/>
+									</div>
+								</section>
+
+								<section class="s_three_columns bg-200 pt16 pb0" data-name="Columns">
+									<div class="container">
+										<div class="row d-flex align-items-stretch">
+											<div class="s_col_no_bgcolor pt16 col-lg-6 pb16">
+												<section class="s_picture bg-200 pt0 pb0" data-name="Picture">
+													<div class="container">
+														<div class="row s_nb_column_fixed">
+															<div class="pb0 col-lg-12">
+																<figure class="figure">
+																</figure>
+																<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/lU6y3lbKh6g?autoplay=0&amp;rel=0">
+																	<div class="css_editable_mode_display" data-original-title="Утепление церкви" title="Утепление церкви"></div>
+																	<div class="media_iframe_video_size">&amp;nbsp;</div>
+																	<iframe src="//www.youtube.com/embed/lU6y3lbKh6g?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
+																</div>
+																<figure class="figure">
+																	<figcaption class="figure-caption py-3 text-center">
+																		<i class="fa fa-1x fa-picture-o mr-2"/>Утепление церкви
+																	</figcaption>
+																</figure>
+															</div>
+														</div>
+													</div>
+												</section>
+
+											</div>
+											<div class="s_col_no_bgcolor pt16 col-lg-6 pb16">
+												<section class="s_picture bg-200 pt0 pb0" data-name="Picture">
+													<div class="container">
+														<div class="row s_nb_column_fixed">
+															<div class="pb0 col-lg-12">
+																<figure class="figure">
+																</figure>
+																<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/H740RDFGG1s?autoplay=0&amp;rel=0">
+																	<div class="css_editable_mode_display" data-original-title="Теплоизоляция дома" title="Теплоизоляция дома"></div>
+																	<div class="media_iframe_video_size">&amp;nbsp;</div>
+																	<iframe src="//www.youtube.com/embed/H740RDFGG1s?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
+																</div>
+																<figure class="figure">
+																	<figcaption class="figure-caption py-3 text-center">
+																		<i class="fa fa-1x fa-picture-o mr-2"/>Теплоизоляция дома
+																	</figcaption>
+																</figure>
+															</div>
+														</div>
+													</div>
+
+												</section>
+											</div>
+										</div>
+									</div>
+								</section>
+
+								<section>
+									<div class="container">
+										<div class="row">
+											<div class="col-lg-12 s_btn text-center pb32 pt32" data-name="Button">
+												<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg" class="btn btn-danger rounded-circle btn-lg" target="_blank">
+													<b>БОЛЬШЕ НА НАШЕМ YOUTUBE КАНАЛЕ</b>
+												</a>
+											</div>
+										</div>
+									</div>
+								</section>
+
+
+							</div>
+						</div>
+					</t>
+				</t>
+			</field>
+		</record>
+
+		<record id="page_components_page" model="website.page">
+			<field name="url">/components</field>
+			<field name="is_published">True</field>
+			<field name="view_id" ref="page_components_view" />
+			<field name="is_homepage">False</field>
+		</record>
+		<record id="menu_components" model="website.menu">
+			<field name="name">Компоненты</field>
+			<field name="url">/components</field>
+			<field name="parent_id" ref="website.main_menu" />
+			<field name="sequence" type="int">50</field>
+			<field name="page_id" ref="page_components_page" />
+			<!-- <field name="website_id" ref="website.default_website" /> -->
+		</record>
+	</data>
+</odoo>

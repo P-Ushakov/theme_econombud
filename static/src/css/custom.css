@@ -1,0 +1,80 @@
+
+h1 {
+    font-size: 48px;    
+    font-size: calc(200% + 1.2vw);
+}
+
+h2 {
+    font-size: 36px;
+    font-size: calc(150% + 1vw);
+}
+
+h3 {
+    font-size: 24px;
+    font-size: calc(120% + 0.5vw);
+}
+
+h4 {
+    font-size: 16px;
+    font-size: calc(100% + 0.2vw);
+}
+
+p {
+    font-size: 16px;
+    font-size: calc(100% + 0.2vw);
+}
+
+
+.card-text 
+{
+    text-align: center;
+}
+
+.navbar .nav-item {    
+    border-right: 1px solid #8d8d8d;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.blue-text {
+     
+    color: #0041F1; 
+}
+
+hr {
+    border: 0;
+    height: 3px;
+    background-image: linear-gradient(to right, rgba(0, 0, 255, 0), rgba(0, 0, 255, 0.75), rgba(0, 0, 255, 0));
+}
+
+.my_grid_title {
+    text-align: left;
+    font-weight: bold;
+    /* font-size: 1.6em; */
+    color: white;
+}
+
+.my_grid_title:hover {    
+    color: #FFC107;
+}
+
+.my_grid_text {
+    text-align: left;
+    color:rgb(186, 188, 189);
+}
+
+.my_grid_text:hover {    
+    color: white;
+}
+
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+ /*  background-color: #4a36fe !important; */
+ color: blue !important;
+}
+
+
+

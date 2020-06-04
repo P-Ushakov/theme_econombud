@@ -1,0 +1,159 @@
+<odoo>
+    <data noupdate="1">
+
+        <record id="theme_econombud.886_original" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">886_original.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/886_original.jpg</field>
+        </record>
+
+        <record id="theme_econombud.875176320_w640_h640_ekstrudirovannyj-penopolistirol-ekobord" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">875176320_w640_h640_ekstrudirovannyj-penopolistirol-ekobord.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/875176320_w640_h640_ekstrudirovannyj-penopolistirol-ekobord.png</field>
+        </record>         
+
+        <record id="theme_econombud.bg-hero-teplo" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">bg-hero-teplo.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/bg-hero-teplo.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-material" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-material.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/c-material.png</field>
+        </record>
+
+        <record id="theme_econombud.c-reasons" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-reasons.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/c-reasons.svg</field>
+        </record>
+
+        <record id="theme_econombud.c-teplo-compare-2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-teplo-compare-2.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/c-teplo-compare-2.png</field>
+        </record>
+
+        <record id="theme_econombud.c-teplo-compare-3" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-teplo-compare-3.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/c-teplo-compare-3.png</field>
+        </record>
+
+        <record id="theme_econombud.c-types-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-types-1.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/c-types-1.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-types-2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-types-2.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/c-types-2.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-types-3" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-types-3.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/c-types-3.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-types-4" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-types-4.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/c-types-4.jpg</field>
+        </record>      
+
+        <record id="theme_econombud.c-types-5" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-types-5.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/c-types-5.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-types-6" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-types-6.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/c-types-6.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-types-7" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-types-7.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/c-types-7.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-types-8" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-types-8.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/c-types-8.jpg</field>
+        </record>
+
+        <record id="theme_econombud.image-1-600x400" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">image-1-600x400.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/image-1-600x400.jpg</field>
+        </record>
+
+        <record id="theme_econombud.maxresdefault_1_t" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">maxresdefault_1_t.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/maxresdefault_1_t.jpg</field>
+        </record>
+
+        <record id="theme_econombud.maxresdefault_t" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">maxresdefault_t.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/maxresdefault_t.jpg</field>
+        </record>
+
+        <record id="theme_econombud.stena" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">stena.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/stena.jpg</field>
+        </record>
+
+        <record id="theme_econombud.teplo_2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">teplo_2.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/teplo_2.jpg</field>
+        </record>
+
+        <record id="theme_econombud.teplo_1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">teplo_1.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/teplo_1.jpg</field>
+        </record>
+
+        <record id="theme_econombud.xpenoplast" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">xpenoplast.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/teplo/xpenoplast.jpg</field>
+        </record>
+        
+    </data>
+</odoo>

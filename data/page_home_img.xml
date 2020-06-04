@@ -1,0 +1,117 @@
+<odoo>
+    <data noupdate="1">
+
+        <record id="theme_econombud.bg-hero-index-minified" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">bg-hero-index-minified.jpg</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/bg-hero-index-minified.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-owner-1" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">c-owner-1.jpg</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/c-owner-1.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-directions-1-362x400" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">c-directions-1-362x400.jpg</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/c-directions-1-362x400.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-directions-2-362x400" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">c-directions-2-362x400.jpg</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/c-directions-2-362x400.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-directions-3-362x400" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">c-directions-3-362x400.jpg</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/c-directions-3-362x400.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-directions-4-362x400" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">c-directions-4-362x400.jpg</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/c-directions-4-362x400.jpg</field>
+        </record>
+
+        <record id="theme_econombud.Бизнес-в-гараже-400x400" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">Бизнес-в-гараже-400x400.jpg</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/Бизнес-в-гараже-400x400.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-oriented-1" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">c-oriented-1.jpg</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/c-oriented-1.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-oriented-2" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">c-oriented-2.jpg</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/c-oriented-2.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-oriented-3" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">c-oriented-3.jpg</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/c-oriented-3.jpg</field>
+        </record>
+
+        <record id="theme_econombud.35-vmv-holding-e1570697782774" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">35-vmv-holding-e1570697782774.jpg</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/35-vmv-holding-e1570697782774.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-clients-3" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">c-clients-3.png</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/c-clients-3.png</field>
+        </record>
+
+        <record id="theme_econombud.c-clients-2" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">c-clients-2.png</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/c-clients-2.png</field>
+        </record>
+
+        <record id="theme_econombud.zakarpatie" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">zakarpatie.svg</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/zakarpatie.svg</field>
+        </record>
+
+        <record id="theme_econombud.maxresdefault" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">maxresdefault.jpg</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/maxresdefault.jpg</field>
+        </record>
+
+        <record id="theme_econombud.maxresdefault_1" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">maxresdefault_1.jpg</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/img/home/maxresdefault_1.jpg</field>
+        </record>
+
+    </data>
+</odoo>

@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<data noupdate="0">
+		<!-- split between ir_ui_view & website_page record to keep external_id on ir_ui_view -->
+		<record id="page_home_view" model="ir.ui.view">
+			<field name="name">Home</field>
+			<field name="type">qweb</field>
+			<field name="key">website.econombud</field>
+			<field name="arch" type="xml">
+				<t name="ECONOMBUD" priority="10" t-name="website.econombud">
+					<t t-call="website.layout">
+						<!-- <t t-set="pageName" t-value="'homepage'"/> -->
+						<t t-set="pageName" t-value="'econombud'"/>
+						<div id="page-top" />
+						<div id="wrap" class="oe_structure">
+							<!--start of main carousel-->
+							<section class="main_carousel">
+								<div id="myCarousel1590767560896" class="s_carousel carousel carousel-fade slide s_carousel_default" data-interval="10000" data-name="Carousel">
+									<ol class="carousel-indicators">
+										<li data-target="#myCarousel1590767560896" data-slide-to="0" class="active"/>
+										<li data-target="#myCarousel1590767560896" data-slide-to="1"/>
+										<li data-target="#myCarousel1590767560896" data-slide-to="2"/>
+									</ol>
+									<div class="carousel-inner ">
+										<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item bg-black-50 pb0 active" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
+											<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/home/bg-hero-index-minified.jpg&quot;); background-position: 48.49% 19.09%;"/>
+											<div class="container">
+												<div class="row s_nb_column_fixed">
+													<div class="col-lg-9 bg-none jumbotron pt32 pb32 rounded" data-name="Box">
+														<div class="row">
+															<div class="col-lg-12 s_title s_col_no_bgcolor pb0" data-name="Title">
+																<h1 class="s_title_thin">
+																	<font style="" class="o_default_snippet_text">
+																		<b>EKONOMBUD - это 																				
+																			<span class="text-warning">
+																				<strong>лидеры</strong>
+																			</span>
+																			<br/>в тепло- и гидроизоляции																			
+																		</b>
+																	</font>
+																</h1>
+															</div>
+															<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
+																<br/>
+															</div>
+															<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
+																<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<section class="s_three_columns pt0 pb16" data-name="Columns" style="">
+												<div class="container-fluid">
+													<div class="row d-flex align-items-stretch">
+														<div class="s_col_no_bgcolor pb16 pt0 col-lg-4 col-md-6">
+															<div class="card bg-black-50">
+																<div class="card-footer">
+																	<h2 class="card-title">
+																		<font style="" class="o_default_snippet_text">Наши преимущества перед																			<span class="text-warning">85%</span> компаний на рынке:
+																		</font>
+																	</h2>
+																	<p class="card-text"/>
+																</div>
+																<div class="card-footer row d-flex align-items-stretch">
+																	<div class="s_share col-lg-12 text-center" data-name="Share">
+																		<p>
+																			<a href="website.social_facebook" class="btn btn-sm btn-link my_grid_title">
+																				<i class="fa fa-3x fa-facebook-square"/>
+																			</a>
+																			<a href="website.social_youtube" class="btn btn-sm btn-link my_grid_title">
+																				<i class="fa fa-3x fa-youtube-play"/>
+																			</a>
+																			<a href="website.social_instagram" class="btn btn-sm btn-link my_grid_title">
+																				<i class="fa fa-3x fa-instagram"/>
+																			</a>
+																		</p>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+															<div class="card bg-black-50" style="">
+																<span class="card-img-top d-block fa fa-flask mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																<h3 class="card-title text-center">Инновационные технологии</h3>
+															</div>
+														</div>
+														<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+															<div class="card bg-black-50" style="">
+																<span class="card-img-top d-block fa fa-truck mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																<h3 class="card-title text-center">Работаем по Украине</h3>
+															</div>
+														</div>
+														<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+															<div class="card bg-black-50" style="">
+																<span class="card-img-top d-block fa fa-gears mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																<h3 class="card-title text-center">Собственная линейка оборудования</h3>
+															</div>
+														</div>
+													</div>
+												</div>
+											</section>
+										</section>
+										<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item bg-black-50 pb0" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
+											<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/hydro/bg-hero-hydro.jpg&quot;); background-position: 62.44% 29.14%;"/>
+											<div class="container">
+												<div class="row s_nb_column_fixed">
+													<div class="col-lg-9 bg-none jumbotron rounded pb0 pt0" data-name="Box">
+														<div class="row">
+															<div class="col-lg-12 s_title s_col_no_bgcolor" data-name="Title">
+																<h1 class="s_title_thin">
+																	<font style="">
+																		<b>EKONOMBUD - это
+																			<br/>
+																			<span class="text-warning">
+																				<strong>комплексная компания</strong>
+																			</span>
+																			<br/>в тепло- и гидроизоляции																			
+																		</b>
+																	</font>
+																</h1>
+															</div>
+															<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb4" data-name="Title">
+																<br/>
+															</div>
+															<div class="col-lg-12 s_btn text-left pb32 pt16" data-name="Button">
+																<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<section class="s_three_columns pb0 pt16" data-name="Columns" style="">
+												<div class="container-fluid">
+													<div class="row d-flex align-items-stretch">
+														<div class="s_col_no_bgcolor pb16 pt0 col-lg-4 col-md-6">
+															<div class="card bg-black-50">
+																<div class="card-footer">
+																	<h2 class="card-title">
+																		<font style="" class="o_default_snippet_text">Наши преимущества перед																			<span class="text-warning">85%</span> компаний на рынке:
+																		</font>
+																	</h2>
+																	<p class="card-text"/>
+																</div>
+																<div class="card-footer row d-flex align-items-stretch">
+																	<div class="s_share col-lg-12 text-center" data-name="Share">
+																		<p>
+																			<a href="website.social_facebook" class="btn btn-sm btn-link my_grid_title">
+																				<i class="fa fa-3x fa-facebook-square"/>
+																			</a>
+																			<a href="website.social_youtube" class="btn btn-sm btn-link my_grid_title">
+																				<i class="fa fa-3x fa-youtube-play"/>
+																			</a>
+																			<a href="website.social_instagram" class="btn btn-sm btn-link my_grid_title">
+																				<i class="fa fa-3x fa-instagram"/>
+																			</a>
+																		</p>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+															<div class="card bg-black-50" style="">
+																<span class="card-img-top d-block fa fa-flask mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																<h3 class="card-title text-center">Инновационные технологии</h3>
+															</div>
+														</div>
+														<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+															<div class="card bg-black-50" style="">
+																<span class="card-img-top d-block fa fa-truck mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																<h3 class="card-title text-center">Работаем по Украине</h3>
+															</div>
+														</div>
+														<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+															<div class="card bg-black-50" style="">
+																<span class="card-img-top d-block fa fa-gears mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																<h3 class="card-title text-center">Собственная линейка оборудования</h3>
+															</div>
+														</div>
+													</div>
+												</div>
+											</section>
+										</section>
+										<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden bg-black-50 carousel-item pb0" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
+											<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/hydro/bg-hydro-form.jpg&quot;); background-position: 40.12% 33.65%;"/>
+											<div class="container">
+												<div class="row s_nb_column_fixed">
+													<div class="col-lg-9 bg-none jumbotron rounded pb0 pt0" data-name="Box">
+														<div class="row">
+															<div class="col-lg-12 s_title s_col_no_bgcolor" data-name="Title">
+																<h1 class="s_title_thin">
+																	<font style="">
+																		<b>EKONOMBUD - это 
+																			<span class="text-warning">
+																				<strong>тепло и уют</strong>
+																			</span>
+																			<br/>в каждый дом																			
+																		</b>
+																	</font>
+																</h1>
+															</div>
+															<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb4" data-name="Title">
+																<br/>
+															</div>
+															<div class="col-lg-12 s_btn text-left pt72 pb16" data-name="Button">
+																<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<section class="s_three_columns pb32 pt32" data-name="Columns" style="">
+												<div class="container-fluid">
+													<div class="row d-flex align-items-stretch">
+														<div class="s_col_no_bgcolor pb16 pt0 col-lg-4 col-md-6">
+															<div class="card bg-black-50">
+																<div class="card-footer">
+																	<h2 class="card-title">
+																		<font style="" class="o_default_snippet_text">Наши преимущества перед																			<span class="text-warning">85%</span> компаний на рынке:
+																		</font>
+																	</h2>
+																	<p class="card-text"/>
+																</div>
+																<div class="card-footer row d-flex align-items-stretch">
+																	<div class="s_share col-lg-12 text-center" data-name="Share">
+																		<p>
+																			<a href="website.social_facebook" class="btn btn-sm btn-link my_grid_title">
+																				<i class="fa fa-3x fa-facebook-square"/>
+																			</a>
+																			<a href="website.social_youtube" class="btn btn-sm btn-link my_grid_title">
+																				<i class="fa fa-3x fa-youtube-play"/>
+																			</a>
+																			<a href="website.social_instagram" class="btn btn-sm btn-link my_grid_title">
+																				<i class="fa fa-3x fa-instagram"/>
+																			</a>
+																		</p>
+																	</div>
+																</div>
+															</div>
+														</div>
+														<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+															<div class="card bg-black-50" style="">
+																<span class="card-img-top d-block fa fa-flask mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																<h3 class="card-title text-center">Инновационные технологии</h3>
+															</div>
+														</div>
+														<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+															<div class="card bg-black-50" style="">
+																<span class="card-img-top d-block fa fa-truck mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																<h3 class="card-title text-center">Работаем по Украине</h3>
+															</div>
+														</div>
+														<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+															<div class="card bg-black-50" style="">
+																<span class="card-img-top d-block fa fa-gears mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																<h3 class="card-title text-center">Собственная линейка оборудования</h3>
+															</div>
+														</div>
+													</div>
+												</div>
+											</section>
+										</section>
+									</div>
+									<!-- <div class="carousel-control-prev" data-target="#myCarousel1590767560896" data-slide="prev" role="img" aria-label="Previous" title="Previous">
+											<span class="carousel-control-prev-icon"/>
+											<span class="sr-only o_default_snippet_text">Previous</span>
+										</div>
+										<div class="carousel-control-next" data-target="#myCarousel1590767560896" data-slide="next" role="img" aria-label="Next" title="Next">
+											<span class="carousel-control-next-icon"/>
+											<span class="sr-only o_default_snippet_text">Next</span>
+									</div> -->
+								</div>
+							</section>
+							<!--end of main carousel-->
+
+							<section class="pb0 pt32" data-name="Title">
+								<div class="container">
+									<div class="row s_nb_column_fixed">
+										<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
+											<h2 class="s_title_default">
+												<b>Компания в													<span class="blue-text">цифрах</span>
+												</b>
+												<!-- <br/> -->
+											</h2>
+										</div>
+									</div>
+								</div>
+							</section>
+							<section class="pb0 pt0" data-name="Title">
+								<div class="container">
+									<div class="row s_nb_column_fixed">
+										<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
+											<h3 class="s_title_default"> за годы работы мы достигли таких результатов</h3>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section class="row d-flex justify-content-center">
+								<div class="col-6 col-lg-3 blue-line">
+									<hr/>
+								</div>
+							</section>
+
+							<section class="s_features pt16 pb0" data-name="Features">
+								<div class="container">
+									<div class="row no-gutters">
+										<div class="pt0 pb0 text-center col-lg-4">
+											<h2 style="font-stretch:condensed;">
+												<b>
+													<span class="text-warning" style="font-size:1.4em;">200</span> объектов
+												</b>
+											</h2>
+											<p class="text-secondary">Помогаем сэкономить на коммунальных услугах и ремонте гидроизоляции, а также на подготовительных работах.</p>
+										</div>
+										<div class="pt0 pb0 text-center col-lg-4">
+											<h2 style="font-stretch:condensed;">
+												<b>
+													<span class="text-warning" style="font-size:1.4em;">140 000</span> м													<sup>2</sup>
+												</b>
+											</h2>
+											<p class="text-secondary">Успешно реализовано за последние 2 года</p>
+										</div>
+										<div class="pt0 pb0 text-center col-lg-4">
+											<h2 style="font-stretch:condensed;">
+												<b>
+													<span class="text-warning" style="font-size:1.4em;">10 000 000</span> грн
+												</b>
+											</h2>
+											<p class="text-secondary">Уже сэкономили клиенты благодаря нашим услугам</p>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section class="s_text_image pt64 pb32" data-name="Image - Text">
+								<div class="container">
+									<div class="row align-items-center d-flex">
+										<div class="col-lg-6 pt16 pb16">
+											<img src="/theme_econombud/static/src/img/home/c-owner-1.jpg" class="img img-fluid mx-auto" alt="House" data-original-title="" title="" aria-describedby="tooltip710106"/>
+										</div>
+										<div class="col-lg-6 pt16 pb16">
+											<h2>
+												<strong style="font-stretch:condensed; font-size:0.9em;">EKONOMBUD — это <span class="blue-text">17 лет опыта</span>
+												</strong>
+											</h2>
+											<h3>в строительной сфере</h3>
+											<hr/>
+											<p class="text-secondary">Мы выбрали всего два основных направления и делаем все, чтобы стать в них компанией №1 в стране</p>
+											<p class="text-secondary">За 6 лет существования мы успели поработать с крупнейшими промышленными объектами страны, создать собственные модели оборудования, свою технологию нанесения полимочевины и пенополиуретана и обучить представителей по всей Украине.</p>
+											<h4>
+												<strong>Бондар Андрей</strong>
+											</h4>
+											<p class="text-secondary" style="font-size:0.8em;">
+												<span>основатель компании</span>
+											</p>
+											<!-- <div class="s_btn text-left pt16 pb16" data-name="Button">
+												<a href="#" class="btn btn-outline-primary o_default_snippet_text">Discover more</a>
+											</div> -->
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section class="pb0 pt0" data-name="Title">
+								<div class="container">
+									<div class="row s_nb_column_fixed">
+										<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
+											<h2 class="s_title_default">
+												<strong>
+													<span class="blue-text">6</span> основных направлений
+												</strong>
+											</h2>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section class="pt0 pb0" data-name="Title">
+								<div class="container">
+									<div class="row s_nb_column_fixed">
+										<div class="col-lg-12 s_title pt0 pb0" style="text-align: center;">
+											<h3 class="s_title_default">развития стратегии нашей компании</h3>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section class="row d-flex justify-content-center">
+								<div class="col-6 col-lg-3 blue-line">
+									<hr/>
+								</div>
+							</section>
+
+							<section class="s_three_columns bg-200 pb0 pt16" data-name="Columns">
+								<div class="container">
+									<div class="row d-flex align-items-stretch">
+										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+											<section class="s_cover parallax bg-black-50 s_parallax_no_overflow_hidden pt0 pb0" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/c-directions-1-362x400.jpg'); background-position: 50% 0;"/>
+												<a id="link_page_hydro" href="/hydro">
+													<div class="container">
+														<div class="row s_nb_column_fixed">
+															<div class="s_title offset-1 col-11 pt200" data-name="Title">
+																<h3 class="s_title_thin my_grid_title">Гидроизоляция полимочевиной</h3>
+															</div>
+															<div class="s_text pt16 pb16 offset-1 col-11 my_grid_text" data-name="Text">
+																<p class="lead" style="text-align: left;">Сэкономьте от 10 000 грн на плановом ремонте гидроизоляции с гарантией до 30 лет.</p>
+															</div>
+														</div>
+													</div>
+												</a>
+											</section>
+										</div>
+										<div class="col-lg-4 s_col_no_bgcolor pb16 pt16">
+											<section class="s_cover parallax bg-black-50 s_parallax_no_overflow_hidden pt0 pb0" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/c-directions-2-362x400.jpg'); background-position: 50% 0;"/>
+												<a id="link_page_teplo" href="/teplo">
+													<div class="container">
+														<div class="row s_nb_column_fixed">
+															<div class="s_title offset-1 col-11 pt224" data-name="Title">
+																<h3 class="s_title_thin my_grid_title">Теплоизоляция пенополиуретаном</h3>
+															</div>
+															<div class="s_text pt16 pb16 offset-1 col-11 my_grid_text" data-name="Text">
+																<p class="lead" style="text-align: left;">Сократите расходы на отопление и кондиционирование до 60%.</p>
+															</div>
+														</div>
+													</div>
+												</a>
+											</section>
+										</div>
+										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+											<section class="s_cover parallax bg-black-50 s_parallax_no_overflow_hidden pt0 pb0" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/c-directions-3-362x400.jpg'); background-position: 50% 0;"/>
+												<a id="link_page_machine" href="/machine">
+													<div class="container">
+														<div class="row s_nb_column_fixed">
+															<div class="s_title offset-1 col-11 pt200" data-name="Title">
+																<h3 class="s_title_thin my_grid_title">Оборудование для																	<br/>
+ гидро- и теплозиоляции</h3>
+															</div>
+															<div class="s_text pt16 pb16 offset-1 col-11 my_grid_text" data-name="Text">
+																<p class="lead" style="text-align: left;">Продажа установок для нанесения гидроизоляции с улучшенными характеристиками.</p>
+															</div>
+														</div>
+													</div>
+												</a>
+											</section>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section class="s_three_columns bg-200 pt4 pb16" data-name="Columns">
+								<div class="container">
+									<div class="row d-flex align-items-stretch">
+										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+											<section class="s_cover parallax bg-black-50 s_parallax_no_overflow_hidden pt0 pb0" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/c-directions-4-362x400.jpg'); background-position: 50% 0;"/>
+												<a id="link_page_components" href="/components">
+													<div class="container">
+														<div class="row s_nb_column_fixed">
+															<div class="s_title offset-1 col-11 pt224" data-name="Title">
+																<h3 class="s_title_thin my_grid_title">Продажа компонентов</h3>
+															</div>
+															<div class="s_text pt16 pb16 offset-1 col-11 my_grid_text" data-name="Text">
+																<p class="lead" style="text-align: left;">Качественная полимочевина и пенополиуретан от европейского производителя с доставкой за 1 день.</p>
+															</div>
+														</div>
+													</div>
+												</a>
+											</section>
+										</div>
+										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+											<section class="s_cover parallax bg-black-50 s_parallax_no_overflow_hidden pt0 pb0" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/common/bg/wallet-with-money_400_400.jpg'); background-position: 50% 0;"/>
+												<a id="link_page_franchise" href="/franchise">
+													<div class="container">
+														<div class="row s_nb_column_fixed">
+															<div class="s_title pt224 offset-1 col-11" data-name="Title">
+																<h3 class="s_title_thin my_grid_title">Франшиза</h3>
+															</div>
+															<div class="s_text pt16 pb16 offset-1 col-11 my_grid_text" data-name="Text">
+																<p class="lead" style="text-align: left;">Начните зарабатывать на гидро- и теплозиоляции с нуля в своем городе под нашим руководством.</p>
+															</div>
+														</div>
+													</div>
+												</a>
+											</section>
+										</div>
+										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+											<section class="s_cover parallax bg-black-50 s_parallax_no_overflow_hidden pt0 pb0" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/Бизнес-в-гараже-400x400.jpg'); background-position: 50% 0;"/>
+												<a id="link_page_business2020" href="/">
+													<div class="container">
+														<div class="row s_nb_column_fixed">
+															<div class="s_title pt224 offset-1 col-11" data-name="Title">
+																<h3 class="s_title_thin my_grid_title">Бизнес 2020</h3>
+															</div>
+															<div class="s_text pt16 pb16 offset-1 col-11 my_grid_text" data-name="Text">
+																<p class="lead" style="text-align: left;">Получи готовую бизнес модель с обучением для заработка на услугах теплоизоляции и гидроизоляции.</p>
+															</div>
+														</div>
+													</div>
+												</a>
+											</section>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section class="pb0 pt0" data-name="Title">
+								<div class="container">
+									<div class="row s_nb_column_fixed">
+										<div class="col-lg-12 s_title pb0 pt64" style="text-align: left;">
+											<h2 class="s_title_default">
+												<strong>Главные													<span class="blue-text">принципы</span> нашей компании,
+												</strong>
+											</h2>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section class="pt0 pb0" data-name="Title">
+								<div class="container">
+									<div class="row s_nb_column_fixed">
+										<div class="col-lg-12 s_title pt0 pb0" style="text-align: left;">
+											<h3 class="s_title_default">которых мы придерживаемся в работе</h3>
+										</div>
+										<section class="container">
+											<div class="row">
+												<div class="col-6 col-lg-3 blue-line">
+													<hr/>
+												</div>
+											</div>
+										</section>
+										<div class="col-lg-8 pb4 pt24">
+											<p class="lead">
+												<font>Мы знаем, что у каждой задачи есть множество вариантов решения, поэтому всегда ищем оптимальный путь достижения результата.</font>
+											</p>
+										</div>
+									</div>
+								</div>
+							</section>
+
+
+							<section class="s_three_columns pt32 pb16" data-name="Columns" style="">
+								<div class="container">
+									<div class="row d-flex align-items-stretch">
+										<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+											<div class="bg-white-25 row" style="">
+												<div class="pt16 mt32 col-lg-12 s_title pb8" style="text-align: center; ">
+													<img class="img-fluid o_we_custom_image" src="/theme_econombud/static/src/img/common/icons/i-principles-1.svg"/>
+												</div>
+												<div class="col-lg-12 s_title pb0 pt16">
+													<h3 class="card-title text-center">
+														<b>Экологичность</b>
+													</h3>
+												</div>
+												<div class="col-lg-12 lead pb0 pt0">
+													<p class="card-body text-left">В своей работе используем только безопасные и нетоксичные технологии.</p>
+												</div>
+											</div>
+										</div>
+										<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+											<div class="bg-white-25 row" style="">
+												<div class="pt16 mt32 col-lg-12 s_title pb8" style="text-align: center; ">
+													<img class="img-fluid o_we_custom_image" src="/theme_econombud/static/src/img/common/icons/i-principles-2.svg"/>
+												</div>
+												<div class="col-lg-12 s_title pb0 pt16">
+													<h3 class="card-title text-center">
+														<b>Экономия</b>
+													</h3>
+												</div>
+												<div class="col-lg-12 lead pb0 pt0">
+													<p class="card-body text-left">Помогаем сэкономить на коммунальных услугах и ремонте гидроизоляции, а также на подготовительных работах.</p>
+												</div>
+											</div>
+										</div>
+										<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+											<div class="bg-white-25 row" style="">
+												<div class="pt16 mt32 col-lg-12 s_title pb8" style="text-align: center; ">
+													<img class="img-fluid o_we_custom_image" src="/theme_econombud/static/src/img/common/icons/i-principles-3.svg"/>
+												</div>
+												<div class="col-lg-12 s_title pb0 pt16">
+													<h3 class="card-title text-center">
+														<b>Развитие строительной сферы</b>
+													</h3>
+												</div>
+												<div class="col-lg-12 lead pb0 pt0">
+													<p class="card-body text-left">Вносим свой вклад в развитие строительной сферы благодаря наработкам по оборудованию и технологиям.</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section class="pb0 pt0" data-name="Title">
+								<div class="container">
+									<div class="row s_nb_column_fixed">
+										<div class="col-lg-12 s_title pb0 pt0" style="text-align: left;">
+											<h2 class="s_title_default">
+												<strong>Кому будут													<span class="blue-text">полезны</span>
+												</strong>
+											</h2>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section class="pt0 pb0" data-name="Title">
+								<div class="container">
+									<div class="row s_nb_column_fixed">
+										<div class="col-lg-12 s_title pt0 pb0" style="text-align: left;">
+											<h3 class="s_title_default">наши услуги и оборудование</h3>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section class="container">
+								<div class="row">
+									<div class="col-6 col-lg-3 blue-line">
+										<hr/>
+									</div>
+								</div>
+							</section>
+
+							<section class="s_three_columns bg-200 pb24 pt24" data-name="Columns">
+								<div class="container">
+									<div class="row d-flex align-items-stretch">
+										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+											<div class="card bg-white">
+												<img class="card-img-top" src="/theme_econombud/static/src/img/home/c-oriented-1.jpg" alt="Factory" data-original-title="" title="" aria-describedby="tooltip947811"/>
+												<div class="card-body">
+													<h3 class="card-title">
+														<b>Предприятиям разного масштаба</b>
+													</h3>
+													<p class="card-text" style="text-align: left;">Сократим расходы на отопление, повысим эффективность бизнеса за счет гидро- и теплоизоляции помещений, складов, ангаров, ферм и другое</p>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+											<div class="card bg-white">
+												<img class="card-img-top" src="/theme_econombud/static/src/img/home/c-oriented-2.jpg" alt="Shop" data-original-title="" title="" aria-describedby="tooltip947811"/>
+												<div class="card-body">
+													<h3 class="card-title">
+														<b>Торговым центрам и учреждениям</b>
+													</h3>
+													<p class="card-text" style="text-align: left;">Сэкономим десятки тысяч гривен с помощью технологии гидроизоляции полимочевиной</p>
+												</div>
+											</div>
+										</div>
+										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+											<div class="card bg-white">
+												<img class="card-img-top" src="/theme_econombud/static/src/img/home/c-oriented-3.jpg" alt="Family" data-original-title="" title="" aria-describedby="tooltip947811"/>
+												<div class="card-body">
+													<h3 class="card-title">
+														<b>Владельцам частных домов и квартир</b>
+													</h3>
+													<p class="card-text" style="text-align: left;">Поможем снизить расходы на кондиционирование и отопление до 60%. В вашем доме будет прохладно летом и тепло зимой</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section class="s_cover parallax s_parallax_is_fixed bg-black-50 pt64 pb64 s_parallax_no_overflow_hidden" data-scroll-background-ratio="1" data-name="Cover" style="background-image: none;">
+								<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/common/bg/bg-gydro-quality.jpg'); background-position: 50% 0;"/>
+								<div class="container">
+									<div class="row s_nb_column_fixed">
+										<div class="col-lg-12 s_btn text-left pt8 pb16" data-name="Buttons">
+											<h3 class="btn btn-light o_default_snippet_text">БЕСПЛАТНО</h3>
+										</div>
+										<!-- <div class="col-lg-12 s_btn text-left pt16 pb16" data-name="Buttons">
+											<a href="#" class="btn btn-delta rounded-circle o_default_snippet_text">БЕСПЛАТНО</a>											
+										</div>
+
+										<div class="col-lg-12 s_title" data-name="Title">
+											<h1 class="s_title_thin o_default_snippet_text" style="text-align: left;">Хотите <span class="text-warning">проверить качество</span> материалов?
+											</h1>
+										</div>
+										<div class="col-lg-12 s_text pt16 pb16" data-name="Text">
+											<h3 class="lead o_default_snippet_text" style="text-align: left;">Оставьте контакты и мы отправим образец в любой город Новой Почтой</h3>
+										</div> -->	
+
+										<form action="/website_form/" method="post" class="s_website_form container-fluid mt32 o_fake_not_editable" enctype="multipart/form-data" data-name="Form Builder" data-model_name="crm.lead" data-success_page="/contactus-thank-you">
+											<div class="container">
+												<h2 class="o_form_heading">
+													<strong>Хотите <span class="text-warning">проверить качество</span> материалов?</strong>
+												</h2>
+												<h3 class="o_form_heading">Оставьте контакты и мы отправим образец в любой город Новой Почтой</h3>
+												<div class="form-group row form-field o_website_form_required_custom">
+													<div class="col-lg-3 col-md-4">
+														<label class="col-form-label o_fake_editable" for="contact_name">Ваше имя</label>
+													</div>
+													<div class="col-lg-7 col-md-8">
+														<input type="text" class="form-control o_website_form_input" name="contact_name" required=""/>
+													</div>
+												</div>
+												<div class="form-group row form-field o_fake_not_editable">
+													<div class="col-lg-3 col-md-4">
+														<label class="col-form-label o_fake_editable" for="phone">Ваш номер</label>
+													</div>
+													<div class="col-lg-7 col-md-8">
+														<input type="text" class="form-control o_website_form_input" name="phone" required=""/>
+													</div>
+												</div>
+												<div class="form-group row form-field o_website_form_required o_fake_not_editable" style="visibility: hidden">
+													<div class="col-lg-3 col-md-4">
+														<label class="col-form-label o_fake_editable" for="name">Subject</label>
+													</div>
+													<div class="col-lg-7 col-md-8">
+														<input type="text" class="form-control o_website_form_input" name="name" value="Стартовая страница/запрос материалов"/>
+													</div>
+												</div>
+												<div class="row form-group form-field d-none">
+													<div class="col-lg-3 col-md-4">
+														<label class="col-form-label" for="team_id">
+
+														</label>
+													</div>
+													<div class="col-lg-7 col-md-8">
+														<input type="text" class="form-control o_website_form_input" name="team_id" value="1"/>
+													</div>
+												</div>
+												<div class="row form-group form-field d-none">
+													<div class="col-lg-3 col-md-4">
+														<label class="col-form-label" for="user_id">
+
+														</label>
+													</div>
+													<div class="col-lg-7 col-md-8">
+														<input type="text" class="form-control o_website_form_input" name="user_id" value="2"/>
+													</div>
+												</div>
+												<div class="form-group row">
+													<div class="offset-lg-3 offset-md-4 col-md-8 col-lg-7">
+														<button class="btn btn-warning rounded-circle btn-lg o_website_form_send o_default_snippet_text">заказать образец</button>
+														<span id="o_website_form_result"/>
+													</div>
+												</div>
+											</div>
+										</form>
+
+									</div>
+								</div>
+							</section>
+
+							<section class="pb0 pt32" data-name="Title">
+								<div class="container">
+									<div class="row s_nb_column_fixed">
+										<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
+											<h2 class="s_title_default">
+												<b>Нам													<span class="blue-text">доверили</span> гидроизоляцию своих объектов
+												</b>
+												<!-- <br/> -->
+											</h2>
+										</div>
+									</div>
+								</div>
+							</section>
+							<section class="pb0 pt0" data-name="Title">
+								<div class="container">
+									<div class="row s_nb_column_fixed">
+										<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
+											<h3 class="s_title_default"> и												<b>мы гордимся,</b> что оправдываем ожидания наших клиентов
+											</h3>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section class="row d-flex justify-content-center">
+								<div class="col-6 col-lg-3 blue-line">
+									<hr/>
+								</div>
+							</section>
+
+							<section class="s_three_columns pt32 pb0 bg-white" data-name="Columns" style="">
+								<div class="container">
+									<div class="row d-flex align-items-stretch">
+										<div class="s_col_no_bgcolor pt16 col-6 col-sm-6 col-lg-3 pb48">
+											<div class="card bg-white">
+												<img class="card-img-top d-block mx-auto" src="/theme_econombud/static/src/img/home/35-vmv-holding-e1570697782774.jpg" alt="brand-name furniture plant VMV Holding" data-original-title="" title="" aria-describedby="tooltip895646" style="width: 50%;"/>
+												<div class="card-body">
+													<h4 class="card-title" style="text-align: center; ">
+														<font style="color: rgb(99, 99, 99);">Мебельный завод&amp;nbsp;</font>
+													</h4>
+													<h4 class="card-title" style="text-align: center; ">
+														<font style="color: rgb(99, 99, 99);">"ВМВ Холдинг"</font>
+													</h4>
+													<!-- <p class="card-text">&amp;nbsp;</p> -->
+												</div>
+											</div>
+										</div>
+										<div class="s_col_no_bgcolor col-6 col-sm-6 col-lg-3 pt16 pb48">
+											<div class="card bg-white">
+												<div class="mt16">
+													<img class="card-img-top d-block mx-auto" src="/theme_econombud/static/src/img/home/c-clients-3.png" alt="brand-name yantar" data-original-title="" title="" aria-describedby="tooltip895646" style="width: 50%;"/>
+												</div>
+												<div class="card-body">
+													<h4 class="card-title" style="text-align: center; ">
+														<font style="color: rgb(99, 99, 99); font-size: 18px;">
+															<br/>
+														</font>
+													</h4>
+													<h4 class="card-title" style="text-align: center; ">
+														<font color="#636363">
+															<span style="">Производство «ЯНТАР»</span>
+														</font>
+														<br/>
+													</h4>
+													<p class="card-text">&amp;nbsp;</p>
+												</div>
+											</div>
+										</div>
+										<div class="s_col_no_bgcolor pt16 col-6 col-sm-6 col-lg-3 pb48">
+											<div class="card bg-white">
+												<img class="card-img-top d-block mx-auto" src="/theme_econombud/static/src/img/home/c-clients-2.png" alt="brand-name national police" data-original-title="" title="" aria-describedby="tooltip895646" style="width: 50%;"/>
+												<div class="card-body">
+													<h4 class="card-title" style="text-align: center; ">
+														<font color="#636363" style="">НАЦИОНАЛЬНАЯ ПОЛИЦИЯ</font>
+														<br/>
+													</h4>
+													<p class="card-text">&amp;nbsp;</p>
+												</div>
+											</div>
+										</div>
+										<div class="s_col_no_bgcolor pt16 col-6 col-sm-6 col-lg-3 pb48">
+											<div class="card bg-white">
+												<img class="card-img-top d-block mx-auto" src="/theme_econombud/static/src/img/home/zakarpatie.svg" alt="brand-name zakarpatie oblenergo" data-original-title="" title="" aria-describedby="tooltip895646" style="width: 50%;"/>
+												<div class="card-body">
+													<h4 class="card-title" style="text-align: center;">
+														<font color="#636363">
+															<span style="">ЗАКАРПАТЬЕ</span>
+														</font>
+														<br/>
+														<font color="#636363">
+															<span style="font-size: 18px;">ОБЛЭНЕРГО</span>
+														</font>
+														<br/>
+													</h4>
+													<p class="card-text">&amp;nbsp;</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section class="pb0 pt32" data-name="Title">
+								<div class="container">
+									<div class="row s_nb_column_fixed">
+										<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
+											<h2 class="s_title_default">
+												<b>Нам													<span class="blue-text">доверяют</span> гидроизоляцию своих объектов,
+												</b>
+												<!-- <br/> -->
+											</h2>
+										</div>
+									</div>
+								</div>
+							</section>
+							<section class="pb0 pt0" data-name="Title">
+								<div class="container">
+									<div class="row s_nb_column_fixed">
+										<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
+											<h3 class="s_title_default">и												<b>мы гордимся,</b> что оправдываем ожидания наших клиентов
+											</h3>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section class="row d-flex justify-content-center">
+								<div class="col-6 col-lg-3 blue-line">
+									<hr/>
+								</div>
+							</section>
+
+							<section class="s_three_columns bg-200 pt16 pb0" data-name="Columns">
+								<div class="container">
+									<div class="row d-flex align-items-stretch">
+										<div class="s_col_no_bgcolor pt16 col-lg-6 pb16">
+											<section class="s_picture bg-200 pt0 pb0" data-name="Picture">
+												<div class="container">
+													<div class="row s_nb_column_fixed">
+														<div class="pb0 col-lg-12">
+															<figure class="figure">
+															</figure>
+															<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/HZBMDD1Ox20?autoplay=0&amp;rel=0">
+																<div class="css_editable_mode_display" data-original-title="Гидроизоляция крыши" title="Гидроизоляция крыши"></div>
+																<div class="media_iframe_video_size">&amp;nbsp;</div>
+																<iframe src="//www.youtube.com/embed/HZBMDD1Ox20?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
+															</div>
+															<figure class="figure">
+																<figcaption class="figure-caption py-3 text-center">
+																	<i class="fa fa-1x fa-picture-o mr-2"/>
+Гидроизоляция крыши
+																</figcaption>
+															</figure>
+														</div>
+													</div>
+												</div>
+											</section>
+
+										</div>
+										<div class="s_col_no_bgcolor pt16 col-lg-6 pb16">
+											<section class="s_picture bg-200 pt0 pb0" data-name="Picture">
+												<div class="container">
+													<div class="row s_nb_column_fixed">
+														<div class="pb0 col-lg-12">
+															<figure class="figure">
+															</figure>
+															<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/tfpfvSLlb5Q?autoplay=0&amp;rel=0">
+																<div class="css_editable_mode_display" data-original-title="Экономбуд отзывы" title="Экономбуд отзывы"></div>
+																<div class="media_iframe_video_size">&amp;nbsp;</div>
+																<iframe src="//www.youtube.com/embed/tfpfvSLlb5Q?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
+															</div>
+															<figure class="figure">
+																<figcaption class="figure-caption py-3 text-center">
+																	<i class="fa fa-1x fa-picture-o mr-2"/>
+Экономбуд отзывы
+																</figcaption>
+															</figure>
+														</div>
+													</div>
+												</div>
+
+											</section>
+										</div>
+									</div>
+								</div>
+							</section>
+
+							<section>
+								<div class="container">
+									<div class="row">
+										<div class="col-lg-12 s_btn text-center pb32 pt32" data-name="Button">
+											<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg" class="btn btn-danger rounded-circle btn-lg" target="_blank">
+												<b>БОЛЬШЕ НА НАШЕМ YOUTUBE КАНАЛЕ</b>
+											</a>
+										</div>
+									</div>
+								</div>
+							</section>
+
+						</div>
+					</t>
+				</t>
+			</field>
+		</record>
+
+		<!-- disable default home page -->
+		<!-- <record id="homepage_page" model="website.page">
+            <field name="is_published">False</field>
+			<field name="url">/</field>
+            <field name="view_id" ref="website.homepage"/>            
+        </record> -->
+
+		<record id="website.homepage_page" model="website.page">
+			<field name="is_published" eval="False"/>
+		</record>
+
+		<delete model="website.menu" id="website.menu_home"/>
+		<!-- <delete model="website.page" id="homepage_page"/> -->
+
+
+		<!-- add custom home page -->
+		<record id="page_home_page" model="website.page">
+			<field name="url">/home</field>			<!-- /home -->
+			<field name="is_published">True</field>
+			<field name="view_id" ref="page_home_view" />
+			<field name="is_homepage">True</field>
+			<field name="name">ECONOMBUD</field>
+		</record>
+
+
+		<!-- <record id="menu_home" model="website.menu">
+			<field name="name">ECONOMBUD</field>
+			<field name="url">/</field>
+			<field name="parent_id" ref="website.main_menu" />
+			<field name="sequence" type="int">10</field>
+			<field name="page_id" ref="page_home_page" />			
+		</record> -->
+
+		<!-- Menu with site anchor (used for multisite) -->
+		<!-- <record id="menu_home" model="website.menu">
+			<field name="name">ECONOMBUD</field>
+			<field name="url">/</field>
+			<field name="parent_id" ref="website.main_menu" />
+			<field name="sequence" type="int">10</field>
+			<field name="page_id" ref="page_home_page" />
+			<field name="website_id" ref="website.default_website"/>
+		</record> -->
+
+		<!-- <record id="default_website" model="website">
+            <field name="name">ECONOMBUD</field>
+            <field name="domain"></field>
+            <field name="company_id" ref="base.main_company"/>
+            <field name="user_id" ref="base.public_user"/>             
+        </record> -->
+
+	</data>
+</odoo>

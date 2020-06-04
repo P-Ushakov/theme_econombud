@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+  <template id="mystyle" name="My style" inherit_id="website.assets_frontend">
+      <xpath expr="link[last()]" position="after">
+          <link rel="stylesheet" type="text/scss" href="/theme_econombud/static/src/css/custom.css"/>          
+          <script src="/theme_econombud/static/src/js/custom.js"></script>
+          <!-- 2GIS map widget loader-->
+          <script charset="utf-8" src="https://widgets.2gis.com/js/DGWidgetLoader.js"></script>
+          <!-- <script src="/theme_econombud/static/src/js/2gis_local.js"></script> -->
+      </xpath>
+  </template>
+  
+</odoo>

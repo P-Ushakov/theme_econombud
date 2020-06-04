@@ -1,0 +1,208 @@
+<odoo>
+    <data noupdate="1">
+
+        <record id="theme_econombud.ekonombud_favicon" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">ekonombud_favicon.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/ekonombud_favicon.png</field>
+        </record>
+
+        <record id="theme_econombud.i-components-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-components-1.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-components-1.svg</field>
+        </record>
+
+        <record id="theme_econombud.i-components-2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-components-2.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-components-2.svg</field>
+        </record>
+
+        <record id="theme_econombud.i-components-3" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-components-3.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-components-3.svg</field>
+        </record>
+
+        <record id="theme_econombud.i-fr-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-fr-1.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-fr-1.svg</field>
+        </record>
+
+         <record id="theme_econombud.i-fr-2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-fr-2.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-fr-2.svg</field>
+        </record>
+
+         <record id="theme_econombud.i-fr-3" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-fr-3.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-fr-3.svg</field>
+        </record>
+
+         <record id="theme_econombud.i-fr-4" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-fr-4.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-fr-4.svg</field>
+        </record>
+
+         <record id="theme_econombud.i-g-advantage-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-g-advantage-1.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-g-advantage-1.svg</field>
+        </record>
+
+        <record id="theme_econombud.i-g-advantage-2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-g-advantage-2.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-g-advantage-2.svg</field>
+        </record>
+
+        <record id="theme_econombud.i-g-advantage-3" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-g-advantage-3.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-g-advantage-3.svg</field>
+        </record>
+
+        <record id="theme_econombud.i-g-advantage-4" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-g-advantage-4.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-g-advantage-4.svg</field>
+        </record>
+
+        <record id="theme_econombud.i-get-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-get-1.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-get-1.svg</field>
+        </record>
+
+        <record id="theme_econombud.i-get-2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-get-2.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-get-2.svg</field>
+        </record>
+
+        <record id="theme_econombud.i-get-3" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-get-3.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-get-3.svg</field>
+        </record>
+
+        <record id="theme_econombud.i-principles-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-principles-1.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-principles-1.svg</field>
+        </record>
+
+        <record id="theme_econombud.i-principles-2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-principles-2.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-principles-2.svg</field>
+        </record>
+
+        <record id="theme_econombud.i-principles-3" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">i-principles-3.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/i-principles-3.svg</field>
+        </record>        
+
+        <record id="theme_econombud.i-logo_blue-black-1_page-0001" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">logo_blue-black-1_page-0001.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/logo_blue-black-1_page-0001.jpg</field>
+        </record>
+
+        <record id="theme_econombud.logo_blue-black-transparent" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">logo_blue-black-transparent.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/icons/logo_blue-black-transparent.png</field>
+        </record>
+        
+        <record id="theme_econombud.bg-gydro-quality" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">bg-gydro-quality.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/bg/bg-gydro-quality.jpg</field>
+        </record>
+        
+        <record id="theme_econombud.wallet-with-money_400_400" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">wallet-with-money_400_400.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/bg/wallet-with-money_400_400.jpg</field>
+        </record>
+
+        <record id="theme_econombud.1067100831_w640_h640_1067100831" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">1067100831_w640_h640_1067100831.webp</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/bg/1067100831_w640_h640_1067100831.webp</field>
+        </record>
+
+        <record id="theme_econombud.1067132045_w640_h640_1067132045" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">1067132045_w640_h640_1067132045.webp</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/bg/1067132045_w640_h640_1067132045.webp</field>
+        </record>
+
+        <record id="theme_econombud.1067132047_w640_h640_1067132047" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">1067132047_w640_h640_1067132047.webp</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/bg/1067132047_w640_h640_1067132047.webp</field>
+        </record>
+
+        <record id="theme_econombud.1067687547_w640_h640_1067687547" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">1067687547_w640_h640_1067687547.webp</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/bg/1067687547_w640_h640_1067687547.webp</field>
+        </record>
+
+        <record id="theme_econombud.2020095345_w640_h640_2020095345" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">2020095345_w640_h640_2020095345.webp</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/bg/2020095345_w640_h640_2020095345.webp</field>
+        </record>
+
+        <record id="theme_econombud.2020095479_w640_h640_2020095479" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">2020095479_w640_h640_2020095479.webp</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/bg/2020095479_w640_h640_2020095479.webp</field>
+        </record>
+
+        <record id="theme_econombud.2020095720_w640_h640_2020095720" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">2020095720_w640_h640_2020095720.webp</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/common/bg/2020095720_w640_h640_2020095720.webp</field>
+        </record>
+
+    </data>
+</odoo>
