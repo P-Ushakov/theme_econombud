@@ -29,6 +29,27 @@
                     <field name="url">/theme_econombud/static/src/img/machine/ebud-main-img.png</field>
         </record>
 
+        <record id="theme_econombud.ebud-main-img1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">ebud-main-img1.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/ebud-main-img1.png</field>
+        </record>
+
+        <record id="theme_econombud.ebud-main-img2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">ebud-main-img2.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/ebud-main-img2.png</field>
+        </record>
+
+        <record id="theme_econombud.ebud-main-img3" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">ebud-main-img3.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/ebud-main-img3.png</field>
+        </record>
+
         <record id="theme_econombud.hero-bg_ash" model="ir.attachment">
                     <field name="public" eval="True"/>
                     <field name="name">hero-bg_ash.jpg</field>
@@ -90,6 +111,13 @@
                     <field name="name">video-prev.jpg</field>
                     <field name="type">url</field>
                     <field name="url">/theme_econombud/static/src/img/machine/video-prev.jpg</field>
+        </record>
+
+         <record id="theme_econombud.graco_equipment" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">graco_equipment.webp</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/machine/graco_equipment.webp</field>
         </record>
 
 

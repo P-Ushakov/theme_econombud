@@ -2,13 +2,30 @@
 <odoo>
 
   <template id="mystyle" name="My style" inherit_id="website.assets_frontend">
-      <xpath expr="link[last()]" position="after">
-          <link rel="stylesheet" type="text/scss" href="/theme_econombud/static/src/css/custom.css"/>          
-          <script src="/theme_econombud/static/src/js/custom.js"></script>
-          <!-- 2GIS map widget loader-->
-          <script charset="utf-8" src="https://widgets.2gis.com/js/DGWidgetLoader.js"></script>
-          <!-- <script src="/theme_econombud/static/src/js/2gis_local.js"></script> -->
-      </xpath>
+    <xpath expr="link[last()]" position="after">
+      
+      <!-- google fonts -->
+      <!-- local -->
+      <link rel="stylesheet" type="text/scss" href="/theme_econombud/static/src/scss/fonts.scss"/>
+      <!-- remote -->
+      <link href='https://fonts.googleapis.com/css?family=Exo+2&amp;display=swap' rel='stylesheet'/>
+      <!-- main video -->
+      <link rel="stylesheet" type="text/scss" href="/theme_econombud/static/src/scss/video.scss"/>      
+      <!-- vertical timeline -->
+      <link rel="stylesheet" type="text/scss" href="/theme_econombud/static/src/css/timeline.css"/>
+      <!-- custom css-->
+      <link rel="stylesheet" type="text/scss" href="/theme_econombud/static/src/css/custom.css"/>     
+      
+    </xpath>
+    <xpath expr="//script[last()]" position="after">
+      <!-- 2GIS map widget loader-->
+      <script charset="utf-8" src="https://widgets.2gis.com/js/DGWidgetLoader.js"></script>
+      <!-- <script src="/theme_econombud/static/src/js/2gis_local.js"></script> -->
+      <!-- image zooming-->
+      <script src="/theme_econombud/static/src/js/zooming.js"></script>
+      <!-- custom js -->
+      <script src="/theme_econombud/static/src/js/custom.js"></script>
+    </xpath>
   </template>
-  
+
 </odoo>

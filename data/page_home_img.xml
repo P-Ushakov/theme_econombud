@@ -113,5 +113,12 @@
             <field name="url">/theme_econombud/static/src/img/home/maxresdefault_1.jpg</field>
         </record>
 
+        <record id="theme_econombud.hero_video" model="ir.attachment">
+            <field name="public" eval="True"/>
+            <field name="name">hero_video.webm</field>
+            <field name="type">url</field>
+            <field name="url">/theme_econombud/static/src/media/hero_video.webm</field>
+        </record>
+
     </data>
 </odoo>

@@ -1,10 +1,13 @@
+* {
+    font-family: 'Exo 2', Roboto, sans-serif;
+}
 
-h1 {
-    font-size: 48px;    
+h1 {    
+    font-size: 48px;
     font-size: calc(200% + 1.2vw);
 }
 
-h2 {
+h2 {    
     font-size: 36px;
     font-size: calc(150% + 1vw);
 }
@@ -25,21 +28,24 @@ p {
 }
 
 
-.card-text 
-{
+.card-text {
     text-align: center;
 }
 
-.navbar .nav-item {    
+.navbar .nav-item {
     border-right: 1px solid #8d8d8d;
     padding-top: 10px;
     padding-bottom: 10px;
-    
+
 }
 
 .blue-text {
-     
-    color: #0041F1; 
+
+    color: #0041F1;
+}
+
+.bg-light-blue {
+    background-color: rgb(235, 245, 255);
 }
 
 hr {
@@ -55,26 +61,78 @@ hr {
     color: white;
 }
 
-.my_grid_title:hover {    
+.my_grid_title:hover {
     color: #FFC107;
 }
 
 .my_grid_text {
     text-align: left;
-    color:rgb(186, 188, 189);
+    color: rgb(186, 188, 189);
 }
 
-.my_grid_text:hover {    
+.my_grid_text:hover {
     color: white;
 }
 
+.my_grid_row:hover {
+    background-color: rgb(235, 245, 255);
+    color: #0041F1;
+}
 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
- /*  background-color: #4a36fe !important; */
- color: blue !important;
+    /*  background-color: #4a36fe !important; */
+    color: blue !important;
 }
 
 
+/* Yellow Card Snippet */
+.yellow-card {
+    position: absolute;
+    left: 40%;
+    top: -20px;
+    border-radius: 50%;
+}
 
+.yellow-card+div>h3 {
+    font-size: calc(100% + 0.5vw);
+}
+
+/* B&W to color transition */
+.img-b_w {
+    transition: filter .2s ease-in-out;
+    -webkit-filter: grayscale(100%);
+    /* Ch 23+, Saf 6.0+, BB 10.0+ */
+    filter: grayscale(100%);
+    /* FF 35+ */
+}
+
+.img-b_w:hover {
+    /* transition: filter .5s ease-in-out; */
+    -webkit-filter: grayscale(0%);
+    /* Ch 23+, Saf 6.0+, BB 10.0+ */
+    filter: grayscale(0%);
+    /* FF 35+ */
+}
+
+.img-box_shadow {
+    box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.img-box_shadow:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+.card-selection-effect {
+    box-shadow: 0 1px 2px rgba(0,0,0,0.15);   
+    filter: sepia(0%);
+    transition: box-shadow 0.15s ease-in-out;
+    transition: filter 0.15s ease-in-out;
+}
+
+.card-selection-effect:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.8);    
+    filter: sepia(80%);
+}

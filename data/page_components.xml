@@ -58,16 +58,16 @@
 														<div class="row d-flex align-items-stretch">
 															<div class="s_col_no_bgcolor pb16 pt0 col-lg-1 col-md-2">
 																<div class="card bg-black-50">
-																	<div class="card-footer row d-flex align-items-stretch">
+																	<div class="row d-flex align-items-stretch no-gutters">
 																		<div class="s_share col-lg-12 text-center" data-name="Share">
-																			<p>
-																				<a href="website.social_facebook" class="btn btn-sm btn-link my_grid_title">
+																			<p class="pt16">
+																				<a href="https://www.facebook.com/ekonombud.kiev" class="btn btn-md btn-link my_grid_title">
 																					<i class="fa fa-3x fa-facebook-square"/>
 																				</a>
-																				<a href="website.social_youtube" class="btn btn-sm btn-link my_grid_title">
+																				<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured" class="btn btn-md btn-link my_grid_title">
 																					<i class="fa fa-3x fa-youtube-play"/>
 																				</a>
-																				<a href="website.social_instagram" class="btn btn-sm btn-link my_grid_title">
+																				<a href="https://www.instagram.com/ekonombud_ua" class="btn btn-md btn-link my_grid_title">
 																					<i class="fa fa-3x fa-instagram"/>
 																				</a>
 																			</p>
@@ -146,16 +146,16 @@
 														<div class="row d-flex align-items-stretch">
 															<div class="s_col_no_bgcolor pb16 pt0 col-lg-1 col-md-2">
 																<div class="card bg-black-50">
-																	<div class="card-footer row d-flex align-items-stretch">
+																	<div class="row d-flex align-items-stretch no-gutters">
 																		<div class="s_share col-lg-12 text-center" data-name="Share">
-																			<p>
-																				<a href="website.social_facebook" class="btn btn-sm btn-link my_grid_title">
+																			<p class="pt16">
+																				<a href="https://www.facebook.com/ekonombud.kiev" class="btn btn-md btn-link my_grid_title">
 																					<i class="fa fa-3x fa-facebook-square"/>
 																				</a>
-																				<a href="website.social_youtube" class="btn btn-sm btn-link my_grid_title">
+																				<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured" class="btn btn-md btn-link my_grid_title">
 																					<i class="fa fa-3x fa-youtube-play"/>
 																				</a>
-																				<a href="website.social_instagram" class="btn btn-sm btn-link my_grid_title">
+																				<a href="https://www.instagram.com/ekonombud_ua" class="btn btn-md btn-link my_grid_title">
 																					<i class="fa fa-3x fa-instagram"/>
 																				</a>
 																			</p>
@@ -234,16 +234,16 @@
 														<div class="row d-flex align-items-stretch">
 															<div class="s_col_no_bgcolor pb16 pt0 col-lg-1 col-md-2">
 																<div class="card bg-black-50">
-																	<div class="card-footer row d-flex align-items-stretch">
+																	<div class="row d-flex align-items-stretch no-gutters">
 																		<div class="s_share col-lg-12 text-center" data-name="Share">
-																			<p>
-																				<a href="website.social_facebook" class="btn btn-sm btn-link my_grid_title">
+																			<p class="pt16">
+																				<a href="https://www.facebook.com/ekonombud.kiev" class="btn btn-md btn-link my_grid_title">
 																					<i class="fa fa-3x fa-facebook-square"/>
 																				</a>
-																				<a href="website.social_youtube" class="btn btn-sm btn-link my_grid_title">
+																				<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured" class="btn btn-md btn-link my_grid_title">
 																					<i class="fa fa-3x fa-youtube-play"/>
 																				</a>
-																				<a href="website.social_instagram" class="btn btn-sm btn-link my_grid_title">
+																				<a href="https://www.instagram.com/ekonombud_ua" class="btn btn-md btn-link my_grid_title">
 																					<i class="fa fa-3x fa-instagram"/>
 																				</a>
 																			</p>
@@ -324,9 +324,11 @@
 									</div>
 								</section>
 
-								<section class="row d-flex justify-content-center">
-									<div class="col-6 col-lg-3 blue-line">
-										<hr/>
+								<section class="container-fluid">
+									<div class="row d-flex justify-content-center">
+										<div class="col-6 col-lg-3 blue-line">
+											<hr/>
+										</div>
 									</div>
 								</section>
 
@@ -388,7 +390,7 @@
 											<h3 class="lead o_default_snippet_text" style="text-align: left;">Оставьте контакты и мы отправим образец в любой город Новой Почтой</h3>
 										</div> -->
 
-											<form action="/website_form/" method="post" class="s_website_form container-fluid mt32 o_fake_not_editable" enctype="multipart/form-data" data-name="Form Builder" data-model_name="crm.lead" data-success_page="/contactus-thank-you">
+											<form action="/website_form/" method="post" class="col-lg-12 px-3 s_website_form container-fluid mt32 o_fake_not_editable" enctype="multipart/form-data" data-name="Form Builder" data-model_name="crm.lead" data-success_page="/contactus-thank-you">
 												<div class="container">
 													<h2 class="o_form_heading">
 														<strong>Хотите															<span class="text-warning">проверить качество</span> материалов?
@@ -541,7 +543,7 @@
 									</div>
 								</section>
 
-								<section class="pb0 pt32" data-name="Title">
+								<section class="pb0 pt32 bg-200" data-name="Title">
 									<div class="container">
 										<div class="row s_nb_column_fixed">
 											<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
@@ -556,7 +558,7 @@
 									</div>
 								</section>
 
-								<section class="pb0 pt0" data-name="Title">
+								<section class="pb0 pt0 bg-200" data-name="Title">
 									<div class="container">
 										<div class="row s_nb_column_fixed">
 											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
@@ -566,13 +568,15 @@
 									</div>
 								</section>
 
-								<section class="row d-flex justify-content-center">
-									<div class="col-6 col-lg-3 blue-line">
-										<hr/>
+								<section class="container-fluid bg-200">
+									<div class="row d-flex justify-content-center">
+										<div class="col-6 col-lg-3 blue-line">
+											<hr/>
+										</div>
 									</div>
 								</section>
 
-								<section class="s_three_columns bg-200 pt16 pb0" data-name="Columns">
+								<section class="s_three_columns bg-200 pt0 pb0" data-name="Columns">
 									<div class="container">
 										<div class="row d-flex align-items-stretch">
 											<div class="s_col_no_bgcolor pt16 col-lg-6 pb16">
@@ -589,7 +593,8 @@
 																</div>
 																<figure class="figure">
 																	<figcaption class="figure-caption py-3 text-center">
-																		<i class="fa fa-1x fa-picture-o mr-2"/>Утепление церкви
+																		<i class="fa fa-1x fa-picture-o mr-2"/>
+Утепление церкви
 																	</figcaption>
 																</figure>
 															</div>
@@ -612,7 +617,8 @@
 																</div>
 																<figure class="figure">
 																	<figcaption class="figure-caption py-3 text-center">
-																		<i class="fa fa-1x fa-picture-o mr-2"/>Теплоизоляция дома
+																		<i class="fa fa-1x fa-picture-o mr-2"/>
+Теплоизоляция дома
 																	</figcaption>
 																</figure>
 															</div>
@@ -625,10 +631,10 @@
 									</div>
 								</section>
 
-								<section>
+								<section class="bg-200">
 									<div class="container">
 										<div class="row">
-											<div class="col-lg-12 s_btn text-center pb32 pt32" data-name="Button">
+											<div class="col-lg-12 s_btn text-center pb32 pt16" data-name="Button">
 												<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg" class="btn btn-danger rounded-circle btn-lg" target="_blank">
 													<b>БОЛЬШЕ НА НАШЕМ YOUTUBE КАНАЛЕ</b>
 												</a>

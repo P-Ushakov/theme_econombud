@@ -3,16 +3,17 @@
 
     <!-- Econombud custom footer -->
     <template id="footer_custom" inherit_id="website.layout" name="Footer">
-        
+
         <!-- Econombud custom footer -->
         <xpath expr="//div[@id='footer']" position="replace">
             <div id="footer" class="oe_structure oe_structure_solo" t-ignore="true" t-if="not no_footer">
 
+                <!--Form section-->
                 <section class="s_three_columns bg-800 pt16 pb16" data-name="Columns">
                     <div class="container">
-                        <div class="row d-flex align-items-center">
-                            <div class="s_col_no_bgcolor pt16 col-lg-6 pb0">
-                                
+                        <div class="row d-flex align-items-start justify-content-around">
+                            <div class="pt16 col-lg-6 pb0">
+
                                 <section>
                                     <div class="dg-widget" style="text-align:right">
                                         <script charset="utf-8">new DGWidgetLoader({"width":540,"height":359,"borderColor":"#a3a3a3","pos":{"lat":50.463205,"lon":30.586782,"zoom":16},"opt":{"city":"kiev"},"org":[{"id":"70000001029954672"}]});</script>
@@ -20,108 +21,95 @@
                                 </section>
 
                             </div>
-                            <div class="s_col_no_bgcolor pt16 col-lg-6 pb0">                                
+                            <div class="pt16 col-lg-6 pb0">
 
-                                <form action="/website_form/" method="post" class="s_website_form container-fluid mt32 o_fake_not_editable" enctype="multipart/form-data" data-name="Form Builder" data-model_name="crm.lead" data-success_page="/contactus-thank-you">
+                                <form action="/website_form/" method="post" class="s_website_form container-fluid o_fake_not_editable" enctype="multipart/form-data" data-name="Form Builder" data-model_name="crm.lead" data-success_page="/contactus-thank-you">
                                     <div class="container">
-                                        <h2 class="o_form_heading">
-                                            <strong>Остались вопросы?<br/>Мы Вам <span class="text-warning">перезвоним!</span>
-                                            </strong>
-                                        </h2>
-                                        <div class="form-group row form-field o_website_form_required_custom">
-                                            <div class="col-lg-3 col-md-4">
-                                                <label class="col-form-label o_fake_editable" for="contact_name">Ваше имя</label>
+                                        <div class="d-flex row">
+                                            <h2 class="col-lg-12 pt16 pb0 o_form_heading">
+                                                <strong>Остались вопросы?                                                    <br/>
+Мы Вам                                                    <span class="text-warning">перезвоним!</span>
+                                                </strong>
+                                            </h2>
+                                            <div class="form-group col-md-12 col-lg-10 pt16 pb0 row form-field o_website_form_required_custom">
+                                                <div class="col-lg-12">
+                                                    <label class="col-form-label o_fake_editable" for="contact_name">Ваше имя</label>
+                                                </div>
+                                                <div class="col-lg-12">
+                                                    <input type="text" class="form-control o_website_form_input" name="contact_name" required=""/>
+                                                </div>
                                             </div>
-                                            <div class="col-lg-7 col-md-8">
-                                                <input type="text" class="form-control o_website_form_input" name="contact_name" required=""/>
+                                            <div class="form-group col-md-12 col-lg-10 pt16 pb0 row form-field o_fake_not_editable">
+                                                <div class="col-lg-12">
+                                                    <label class="col-form-label o_fake_editable" for="phone">Ваш номер</label>
+                                                </div>
+                                                <div class="col-lg-12">
+                                                    <input type="text" class="form-control o_website_form_input" name="phone" required=""/>
+                                                </div>
                                             </div>
-                                        </div>
-                                        <div class="form-group row form-field o_fake_not_editable">
-                                            <div class="col-lg-3 col-md-4">
-                                                <label class="col-form-label o_fake_editable" for="phone">Ваш номер</label>
+                                            <div class="form-group row form-field o_website_form_required o_fake_not_editable d-none">
+                                                <div class="col-lg-3 col-md-4">
+                                                    <label class="col-form-label o_fake_editable" for="name">Subject</label>
+                                                </div>
+                                                <div class="col-lg-7 col-md-8">
+                                                    <input type="text" class="form-control o_website_form_input" name="name" value="Футер/запрос консультации"/>
+                                                </div>
                                             </div>
-                                            <div class="col-lg-7 col-md-8">
-                                                <input type="text" class="form-control o_website_form_input" name="phone" required=""/>
-                                            </div>
-                                        </div>
-                                        <div class="form-group row form-field o_website_form_required o_fake_not_editable" style="visibility: hidden">
-                                            <div class="col-lg-3 col-md-4">
-                                                <label class="col-form-label o_fake_editable" for="name">Subject</label>
-                                            </div>
-                                            <div class="col-lg-7 col-md-8">
-                                                <input type="text" class="form-control o_website_form_input" name="name" value="Футер/запрос консультации"/>
-                                            </div>
-                                        </div>
-                                        <div class="row form-group form-field d-none">
-                                            <div class="col-lg-3 col-md-4">
-                                                <label class="col-form-label" for="team_id">
+                                            <div class="row form-group form-field d-none">
+                                                <div class="col-lg-3 col-md-4">
+                                                    <label class="col-form-label" for="team_id">
 
-                                                </label>
+                                                    </label>
+                                                </div>
+                                                <div class="col-lg-7 col-md-8">
+                                                    <input type="text" class="form-control o_website_form_input" name="team_id" value="1"/>
+                                                </div>
                                             </div>
-                                            <div class="col-lg-7 col-md-8">
-                                                <input type="text" class="form-control o_website_form_input" name="team_id" value="1"/>
-                                            </div>
-                                        </div>
-                                        <div class="row form-group form-field d-none">
-                                            <div class="col-lg-3 col-md-4">
-                                                <label class="col-form-label" for="user_id">
+                                            <div class="row form-group form-field d-none">
+                                                <div class="col-lg-3 col-md-4">
+                                                    <label class="col-form-label" for="user_id">
 
-                                                </label>
+                                                    </label>
+                                                </div>
+                                                <div class="col-lg-7 col-md-8">
+                                                    <input type="text" class="form-control o_website_form_input" name="user_id" value="2"/>
+                                                </div>
                                             </div>
-                                            <div class="col-lg-7 col-md-8">
-                                                <input type="text" class="form-control o_website_form_input" name="user_id" value="2"/>
-                                            </div>
-                                        </div>
-                                        <div class="form-group row">
-                                            <div class="offset-lg-3 offset-md-4 col-md-8 col-lg-7">
-                                                <button class="btn btn-warning rounded-circle btn-lg o_website_form_send o_default_snippet_text">ПОЛУЧИТЬ БЕСПЛАТНУЮ КОНСУЛЬТАЦИЮ</button>
-                                                <span id="o_website_form_result"/>
+                                            <div class="form-group col-lg-12 pt16 pb0 row">
+                                                <div class="col-lg-12 no-gutters">
+                                                    <button class="btn btn-warning rounded-circle btn-lg o_website_form_send o_default_snippet_text">ПОЛУЧИТЬ БЕСПЛАТНУЮ КОНСУЛЬТАЦИЮ</button>
+                                                    <span id="o_website_form_result"/>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </form>
-                                
+
                             </div>
                         </div>
                     </div>
                 </section>
 
+                <!--Social section-->
                 <section class="s_text_block pt16 pb8 bg-800">
                     <div class="container">
-                        <div class="row">
-                            <!-- <div class="col-lg-6 row"> -->
-                                <!-- <h5>Our Products &amp; Services</h5>
-                                <ul class="list-unstyled">
-                                    <li>
-                                        <a href="/">Home</a>
-                                    </li>
-                                </ul> -->
+                        <div class="d-flex row justify-content-start align-items-center">
                             <div class="col-lg-4">
                                 <a href="http://2gis.ua/kiev/firm/70000001029954672/center/30.586782,50.463205/zoom/16?utm_medium=widget-source&amp;utm_campaign=firmsonmap&amp;utm_source=bigMap" target="_blank">
-                                    <h4 class="my_grid_title"><i class="fa fa-map-marker"/> Киев, улица Евгения Маланюка 100а</h4>
+                                    <h4 class="my_grid_title">
+                                        <i class="fa fa-map-marker"/>
+ Киев, улица Евгения Маланюка 100а</h4>
                                 </a>
                             </div>
-                            <div class="col-lg-4 my_grid_title">
+                            <div class="col-lg-3 my_grid_title">
                                 <a href="/contactus">
-                                    <h4 class="my_grid_title"><i class="fa fa-phone"/> +38 067 371 48 12</h4>
+                                    <h4 class="my_grid_title">
+                                        <i class="fa fa-phone"/>
+ +38 067 371 48 12</h4>
                                 </a>
                             </div>
-                            <!-- </div> -->
-                            <div class="col-lg-4 text-left" id="connect">
-                                <!-- <h5>Connect with us</h5>
-                                <ul class="list-unstyled">
-                                    <li>
-                                        <a href="/contactus">Contact us</a>
-                                    </li>
-                                    <li>
-                                        <i class="fa fa-phone"/>
-                                        <span class="o_force_ltr" t-field="res_company.phone"/>
-                                    </li>
-                                    <li>
-                                        <i class="fa fa-envelope"/>
-                                        <span t-field="res_company.email"/>
-                                    </li>
-                                </ul> -->
+
+                            <div class="col-lg-4 text-left ml-lg-5" id="connect">
                                 <p>
                                     <a t-if="website.social_facebook" t-att-href="website.social_facebook" class="btn btn-sm btn-link my_grid_title">
                                         <i class="fa fa-3x fa-facebook-square"/>
@@ -143,62 +131,16 @@
                                     </a>
                                 </p>
                             </div>
-                            <!-- <div class="col-lg-4">
-                                <h5>
-                                    <span t-field="res_company.name"/>
-                                    <small> -                                        <a href="/aboutus">About us</a>
-                                    </small>
-                                </h5>
-                                <p>
-                                We are a team of passionate people whose goal is to improve everyone's
-                                life through disruptive products. We build great products to solve your
-                                business problems.
-                                </p>
-                                <p>
-                                Our products are designed for small to medium size companies willing to optimize
-                                their performance.
-                                </p>
-                            </div> -->
                         </div>
                     </div>
                 </section>
             </div>
         </xpath>
 
-        <!--adding disclaymer-->
-        <!-- <xpath expr="//div[hasclass('o_footer_copyright')]//span[@t-field='res_company.name']" position="after">
-            <div class="row ">
-                <div class="col-md-12 col-lg-4">
-                    <a href="/denial-of-responsibility">Отказ от ответственности</a>
-                </div>
-                <div class="col-md-12 col-lg-4">
-                    <a href="/privacy-policy">Политика конфиденциальности</a>
-                </div>
-                <div class="col-md-12 col-lg-4">
-                    <a href="/exchange-consent">Соглашение с рассылкой</a>
-                </div>
-            </div>
-        </xpath> -->
 
-         
-        
         <!--adding disclaymer-->
-        <!-- <xpath expr="//div[hasclass('o_footer_copyright')]//span[@t-field='res_company.name']" position="after"> -->
         <xpath expr="//div[hasclass('o_footer_copyright')]/div/div/div[last()]" position="after">
-            <!-- <div class="container">
-                <div class="row text-center">
-                    <div class="col-sm-12 col-lg-4">
-                        <a href="/denial-of-responsibility">Отказ от ответственности</a>
-                    </div>
-                    <div class="col-sm-12 col-lg-4">
-                        <a href="/privacy-policy">Политика конфиденциальности</a>
-                    </div>
-                    <div class="col-sm-12 col-lg-4">
-                        <a href="/exchange-consent">Соглашение с рассылкой</a>
-                    </div>
-                </div>
-            </div> -->
-                
+
             <div class="col-sm text-center">
                 <a href="/denial-of-responsibility">Отказ от ответственности</a>
             </div>
@@ -209,51 +151,34 @@
                 <a href="/exchange-consent">Соглашение с рассылкой</a>
             </div>
 
-        </xpath>  
+        </xpath>
 
     </template>
+    <!--end of custom footer-->
 
 
     <!-- Econombud social -->
     <template id="theme_econombud.social" name="Econombud social">
         <p>
-            <a t-if="website.social_facebook" t-att-href="website.social_facebook" class="btn btn-sm btn-link my_grid_title">
+            <a t-if="website.social_facebook" t-att-href="website.social_facebook" class="btn btn-sm btn-link my_social_links">
                 <i class="fa fa-3x fa-facebook-square"/>
             </a>
-            <a t-if="website.social_twitter" t-att-href="website.social_twitter" class="btn btn-sm btn-link my_grid_title">
+            <a t-if="website.social_twitter" t-att-href="website.social_twitter" class="btn btn-sm btn-link my_social_links">
                 <i class="fa fa-3x fa-twitter"/>
             </a>
-            <a t-if="website.social_linkedin" t-att-href="website.social_linkedin" class="btn btn-sm btn-link my_grid_title">
+            <a t-if="website.social_linkedin" t-att-href="website.social_linkedin" class="btn btn-sm btn-link my_social_links">
                 <i class="fa fa-3x fa-linkedin"/>
             </a>
-            <a t-if="website.social_youtube" t-att-href="website.social_youtube" class="btn btn-sm btn-link my_grid_title">
+            <a t-if="website.social_youtube" t-att-href="website.social_youtube" class="btn btn-sm btn-link my_social_links">
                 <i class="fa fa-3x fa-youtube-play"/>
             </a>
-            <a t-if="website.social_github" t-att-href="website.social_github" class="btn btn-sm btn-link my_grid_title">
+            <a t-if="website.social_github" t-att-href="website.social_github" class="btn btn-sm btn-link my_social_links">
                 <i class="fa fa-3x fa-github"/>
             </a>
-            <a t-if="website.social_instagram" t-att-href="website.social_instagram" class="btn btn-sm btn-link my_grid_title">
+            <a t-if="website.social_instagram" t-att-href="website.social_instagram" class="btn btn-sm btn-link my_social_links">
                 <i class="fa fa-3x fa-instagram"/>
             </a>
         </p>
     </template>
-
-    <!-- <template id="theme_econombud.disclaymer" inherit_id="website.layout" name="Econombud disclaymer">
-        <xpath expr="//div[hasclass('o_footer_copyright')]//span[@t-field='res_company.name']" position="after">
-            <div class="row">
-                <div class="col col-sm-12 col-lg-4">
-                    <a href="/denial-of-responsibility">Отказ от ответственности</a>
-                </div>
-                <div class="col col-sm-12 col-lg-4">
-                    <a href="/privacy-policy">Политика конфиденциальности</a>
-                </div>
-                <div class="col col-sm-12 col-lg-4">
-                    <a href="/exchange-consent">Соглашение с рассылкой</a>
-                </div>
-            </div>
-        </xpath>
-    </template> -->
-
-       
 
 </odoo>

@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-	<data noupdate="0">
+    <data noupdate="0">
+        <record id="page_denial-of-responsibility_view" model="ir.ui.view">
+            <field name="name">denial-of-responsibility</field>
+            <field name="type">qweb</field>
+            <field name="key">website.denial-of-responsibility</field>
+            <field name="arch" type="xml">
+                <t name="denial-of-responsibility" priority="12" t-name="website.denial-of-responsibility">
+                    <t t-call="website.layout">
+                        <!--<t t-set="pageName" t-value="'denial-of-responsibility'"/>-->
+                        <div id="wrap">
+                            <div id="page-top"/>
+                            <div class="oe_structure">
+                                <div class="s_title pt16 pb16" data-name="Title">
+                                    <div class="container">
+                                        <div class="d-flex row">
+                                            <h1 class="s_title_thin o_default_snippet_text col-lg-12 text-center">ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ</h1>
+                                            <p class="col-lg-12 text-justify">В соответствии с действующим законодательством, Администрация отказывается от каких-либо заверений и гарантий, предоставление которых может иным образом подразумеваться, и отказывается от ответственности в отношении Сайта, Содержимого и их использования.</p>
+                                            <p class="col-lg-12 text-justify">Ни при каких обстоятельствах Администрация Сайта не будет нести ответственности ни перед какой стороной за какой-либо прямой, непрямой, особый или иной косвенный ущерб в результате любого использования информации на этом Сайте или на любом другом сайте, на который имеется гиперссылка с нашего cайта, возникновение зависимости, снижения продуктивности, увольнения или прерывания трудовой активности, а равно и отчисления из учебных учреждений, за любую упущенную выгоду, приостановку хозяйственной деятельности, потерю программ или данных в Ваших информационных системах или иным образом, возникшие в связи с доступом, использованием или невозможностью использования Сайта, Содержимого или какого-либо связанного интернет-сайта, или неработоспособностью, ошибкой, упущением, перебоем, дефектом, простоем в работе или задержкой в передаче, компьютерным вирусом или системным сбоем, даже если администрация будет явно поставлена в известность о возможности такого ущерба.</p>
+                                            <p class="col-lg-12 text-justify">Пользователь соглашается с тем, что все возможные споры будут разрешаться по нормам права.</p>
+                                            <p class="col-lg-12 text-justify">Пользователь соглашается с тем, что нормы и законы о защите прав потребителей не могут быть применимы к использованию им Сайта, поскольку он не оказывает возмездных услуг.</p>
+                                            <p class="col-lg-12 text-justify">Используя данный Сайт, Вы выражаете свое согласие с «Отказом от ответственности» и установленными Правилами и принимаете всю ответственность, которая может быть на Вас возложена.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </t>
+                </t>
+            </field>
+        </record>
+        <record id="page_denial-of-responsibility_page" model="website.page">
+            <field name="url">/denial-of-responsibility</field>
+            <field name="is_published">True</field>
+            <field name="view_id" ref="page_denial-of-responsibility_view" />
+            <field name="is_homepage">False</field>
+        </record>
+
+        <!-- <record id="menu_denial-of-responsibility" model="website.menu">
+            <field name="name">Отказ от ответственности</field>
+            <field name="url">/denial-of-responsibility</field>
+            <field name="parent_id" ref="website.main_menu" />
+            <field name="sequence" type="int">80</field>
+            <field name="page_id" ref="page_denial-of-responsibility_page" />            
+        </record> -->
+        <!-- <field name="website_id" ref="website.default_website" /> -->
 
     </data>
 </odoo>

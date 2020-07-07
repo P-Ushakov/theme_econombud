@@ -26,25 +26,26 @@
 											<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/home/bg-hero-index-minified.jpg&quot;); background-position: 48.49% 19.09%;"/>
 											<div class="container">
 												<div class="row s_nb_column_fixed">
-													<div class="col-lg-9 bg-none jumbotron pt32 pb32 rounded" data-name="Box">
+													<div class="col-lg-9 bg-none jumbotron pt0 pb64 rounded" data-name="Box">
 														<div class="row">
 															<div class="col-lg-12 s_title s_col_no_bgcolor pb0" data-name="Title">
 																<h1 class="s_title_thin">
 																	<font style="" class="o_default_snippet_text">
-																		<b>EKONOMBUD - это 																				
+																		<b>EKONOMBUD - это 
 																			<span class="text-warning">
 																				<strong>лидеры</strong>
 																			</span>
-																			<br/>в тепло- и гидроизоляции																			
+																			<br/>
+в тепло- и гидроизоляции
 																		</b>
 																	</font>
 																</h1>
 															</div>
-															<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
+															<div class="col-lg-12 s_col_no_bgcolor s_title pt0 pb0" data-name="Title">
 																<br/>
 															</div>
-															<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
-																<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
+															<div class="col-lg-12 s_btn text-left pt16 pb16" data-name="Button">
+																<a href="#anchor_carousel_button" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
 															</div>
 														</div>
 													</div>
@@ -65,13 +66,13 @@
 																<div class="card-footer row d-flex align-items-stretch">
 																	<div class="s_share col-lg-12 text-center" data-name="Share">
 																		<p>
-																			<a href="website.social_facebook" class="btn btn-sm btn-link my_grid_title">
+																			<a href="https://www.facebook.com/ekonombud.kiev" class="btn btn-sm btn-link my_grid_title">
 																				<i class="fa fa-3x fa-facebook-square"/>
 																			</a>
-																			<a href="website.social_youtube" class="btn btn-sm btn-link my_grid_title">
+																			<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured" class="btn btn-sm btn-link my_grid_title">
 																				<i class="fa fa-3x fa-youtube-play"/>
 																			</a>
-																			<a href="website.social_instagram" class="btn btn-sm btn-link my_grid_title">
+																			<a href="https://www.instagram.com/ekonombud_ua" class="btn btn-sm btn-link my_grid_title">
 																				<i class="fa fa-3x fa-instagram"/>
 																			</a>
 																		</p>
@@ -105,7 +106,7 @@
 											<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/hydro/bg-hero-hydro.jpg&quot;); background-position: 62.44% 29.14%;"/>
 											<div class="container">
 												<div class="row s_nb_column_fixed">
-													<div class="col-lg-9 bg-none jumbotron rounded pb0 pt0" data-name="Box">
+													<div class="col-lg-9 bg-none jumbotron pt0 pb0 rounded" data-name="Box">
 														<div class="row">
 															<div class="col-lg-12 s_title s_col_no_bgcolor" data-name="Title">
 																<h1 class="s_title_thin">
@@ -115,22 +116,23 @@
 																			<span class="text-warning">
 																				<strong>комплексная компания</strong>
 																			</span>
-																			<br/>в тепло- и гидроизоляции																			
+																			<br/>
+в тепло- и гидроизоляции																			
 																		</b>
 																	</font>
 																</h1>
 															</div>
-															<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb4" data-name="Title">
+															<div class="col-lg-12 s_col_no_bgcolor s_title pt0 pb0" data-name="Title">
 																<br/>
 															</div>
-															<div class="col-lg-12 s_btn text-left pb32 pt16" data-name="Button">
-																<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
+															<div class="col-lg-12 s_btn text-left pt16 pb16" data-name="Button">
+																<a href="#anchor_carousel_button" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
 															</div>
 														</div>
 													</div>
 												</div>
 											</div>
-											<section class="s_three_columns pb0 pt16" data-name="Columns" style="">
+											<section class="s_three_columns pt0 pb16" data-name="Columns" style="">
 												<div class="container-fluid">
 													<div class="row d-flex align-items-stretch">
 														<div class="s_col_no_bgcolor pb16 pt0 col-lg-4 col-md-6">
@@ -145,13 +147,13 @@
 																<div class="card-footer row d-flex align-items-stretch">
 																	<div class="s_share col-lg-12 text-center" data-name="Share">
 																		<p>
-																			<a href="website.social_facebook" class="btn btn-sm btn-link my_grid_title">
+																			<a href="https://www.facebook.com/ekonombud.kiev" class="btn btn-sm btn-link my_grid_title">
 																				<i class="fa fa-3x fa-facebook-square"/>
 																			</a>
-																			<a href="website.social_youtube" class="btn btn-sm btn-link my_grid_title">
+																			<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured" class="btn btn-sm btn-link my_grid_title">
 																				<i class="fa fa-3x fa-youtube-play"/>
 																			</a>
-																			<a href="website.social_instagram" class="btn btn-sm btn-link my_grid_title">
+																			<a href="https://www.instagram.com/ekonombud_ua" class="btn btn-sm btn-link my_grid_title">
 																				<i class="fa fa-3x fa-instagram"/>
 																			</a>
 																		</p>
@@ -185,7 +187,7 @@
 											<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/hydro/bg-hydro-form.jpg&quot;); background-position: 40.12% 33.65%;"/>
 											<div class="container">
 												<div class="row s_nb_column_fixed">
-													<div class="col-lg-9 bg-none jumbotron rounded pb0 pt0" data-name="Box">
+													<div class="col-lg-9 bg-none jumbotron pt0 pb64 rounded" data-name="Box">
 														<div class="row">
 															<div class="col-lg-12 s_title s_col_no_bgcolor" data-name="Title">
 																<h1 class="s_title_thin">
@@ -194,22 +196,23 @@
 																			<span class="text-warning">
 																				<strong>тепло и уют</strong>
 																			</span>
-																			<br/>в каждый дом																			
+																			<br/>
+в каждый дом																			
 																		</b>
 																	</font>
 																</h1>
 															</div>
-															<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb4" data-name="Title">
+															<div class="col-lg-12 s_col_no_bgcolor s_title pt0 pb0" data-name="Title">
 																<br/>
 															</div>
-															<div class="col-lg-12 s_btn text-left pt72 pb16" data-name="Button">
-																<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
+															<div class="col-lg-12 s_btn text-left pt16 pb16" data-name="Button">
+																<a href="#anchor_carousel_button" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
 															</div>
 														</div>
 													</div>
 												</div>
 											</div>
-											<section class="s_three_columns pb32 pt32" data-name="Columns" style="">
+											<section class="s_three_columns pt0 pb16" data-name="Columns" style="">
 												<div class="container-fluid">
 													<div class="row d-flex align-items-stretch">
 														<div class="s_col_no_bgcolor pb16 pt0 col-lg-4 col-md-6">
@@ -224,13 +227,13 @@
 																<div class="card-footer row d-flex align-items-stretch">
 																	<div class="s_share col-lg-12 text-center" data-name="Share">
 																		<p>
-																			<a href="website.social_facebook" class="btn btn-sm btn-link my_grid_title">
+																			<a href="https://www.facebook.com/ekonombud.kiev" class="btn btn-sm btn-link my_grid_title">
 																				<i class="fa fa-3x fa-facebook-square"/>
 																			</a>
-																			<a href="website.social_youtube" class="btn btn-sm btn-link my_grid_title">
+																			<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured" class="btn btn-sm btn-link my_grid_title">
 																				<i class="fa fa-3x fa-youtube-play"/>
 																			</a>
-																			<a href="website.social_instagram" class="btn btn-sm btn-link my_grid_title">
+																			<a href="https://www.instagram.com/ekonombud_ua" class="btn btn-sm btn-link my_grid_title">
 																				<i class="fa fa-3x fa-instagram"/>
 																			</a>
 																		</p>
@@ -262,18 +265,18 @@
 										</section>
 									</div>
 									<!-- <div class="carousel-control-prev" data-target="#myCarousel1590767560896" data-slide="prev" role="img" aria-label="Previous" title="Previous">
-											<span class="carousel-control-prev-icon"/>
-											<span class="sr-only o_default_snippet_text">Previous</span>
-										</div>
-										<div class="carousel-control-next" data-target="#myCarousel1590767560896" data-slide="next" role="img" aria-label="Next" title="Next">
-											<span class="carousel-control-next-icon"/>
-											<span class="sr-only o_default_snippet_text">Next</span>
-									</div> -->
+																		<span class="carousel-control-prev-icon"/>
+																		<span class="sr-only o_default_snippet_text">Previous</span>
+																	</div>
+																	<div class="carousel-control-next" data-target="#myCarousel1590767560896" data-slide="next" role="img" aria-label="Next" title="Next">
+																		<span class="carousel-control-next-icon"/>
+																		<span class="sr-only o_default_snippet_text">Next</span>
+																</div> -->
 								</div>
 							</section>
 							<!--end of main carousel-->
 
-							<section class="pb0 pt32" data-name="Title">
+							<section class="pt16 pb16 bg-200" data-name="Title" style="">
 								<div class="container">
 									<div class="row s_nb_column_fixed">
 										<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
@@ -286,26 +289,83 @@
 									</div>
 								</div>
 							</section>
-							<section class="pb0 pt0" data-name="Title">
+							<section class="pb16 pt0 bg-200" data-name="Title" style="">
 								<div class="container">
 									<div class="row s_nb_column_fixed">
 										<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-											<h3 class="s_title_default"> за годы работы мы достигли таких результатов</h3>
+											<h3 class="s_title_default">за несколько лет работы мы достигли таких результатов</h3>
 										</div>
 									</div>
 								</div>
 							</section>
 
-							<section class="row d-flex justify-content-center">
-								<div class="col-6 col-lg-3 blue-line">
-									<hr/>
+							<section class="container-fluid bg-200">
+								<div class="row d-flex justify-content-center">
+									<div class="col-6 col-lg-3 blue-line">
+										<hr/>
+									</div>
+								</div>
+							</section>
+							<!-- Timeline block -->
+							<section class=" bg-200">
+								<div class="jumbotron">
+									<div class="row d-flex align-items-stretch justify-content-between">
+										<div class="col col-md card border-warning bg-warning shadow mx-lg-3 mx-sm-1 p-3" style="min-width:260px">
+											<div class="card-title border-warning shadow text-dark p-3 yellow-card bg-warning">
+												<span>&amp;nbsp;&amp;nbsp;1&amp;nbsp;&amp;nbsp;</span>
+											</div>
+											<div class="card-text text-center mt-2 pt32 pb16">
+												<h3 class="text-uppercase">
+													<span class="blue-text">6 франчайзинговых филиалов</span>
+													<span> по Украине</span>
+												</h3>
+											</div>
+										</div>
+										<div class="col col-md card border-warning bg-warning shadow mx-lg-3 mx-sm-1 p-3" style="min-width:260px">
+
+											<div class="card-title border-warning shadow text-dark p-3 yellow-card bg-warning">
+												<span>&amp;nbsp;&amp;nbsp;2&amp;nbsp;&amp;nbsp;</span>
+											</div>
+											<div class="card-text text-center mt-2 pt32 pb16">
+												<h3 class="text-uppercase">
+													<span class="blue-text">9 направлений работы,</span>
+													<span> в которых мы проффесионалы</span>
+												</h3>
+											</div>
+										</div>
+										<div class="col col-md card border-warning bg-warning shadow mx-lg-3 mx-sm-1 p-3" style="min-width:260px">
+
+											<div class="card-title border-warning shadow text-dark p-3 yellow-card bg-warning">
+												<span>&amp;nbsp;&amp;nbsp;3&amp;nbsp;&amp;nbsp;</span>
+											</div>
+											<div class="text-center mt-2 pt32 pb16">
+												<h3 class="text-uppercase">
+													<span class="blue-text">300 выполненых объектов</span>
+													<span> с различной спецификой</span>
+												</h3>
+											</div>
+										</div>
+										<div class="col col-md card border-warning bg-warning shadow mx-lg-3 mx-sm-1 p-3" style="min-width:260px">
+
+											<div class="card-title border-warning shadow text-dark p-3 yellow-card bg-warning">
+												<span>&amp;nbsp;&amp;nbsp;4&amp;nbsp;&amp;nbsp;</span>
+											</div>
+											<div class="card-text text-center mt-2 pt32 pb16">
+												<h3 class="text-uppercase">
+													<span class="blue-text">230 000 м<sup>2</sup>
+													</span>
+													<span> успешно тепло-гидроизолировали за последние 2 года</span>
+												</h3>
+											</div>
+										</div>
+									</div>
 								</div>
 							</section>
 
-							<section class="s_features pt16 pb0" data-name="Features">
-								<div class="container">
+							<!-- <section class="s_features pt16 pb0" data-name="Features">
+								<div class="container px-0">
 									<div class="row no-gutters">
-										<div class="pt0 pb0 text-center col-lg-4">
+										<div class="pt0 pb0 text-center col-lg-4" style="">
 											<h2 style="font-stretch:condensed;">
 												<b>
 													<span class="text-warning" style="font-size:1.4em;">200</span> объектов
@@ -313,15 +373,15 @@
 											</h2>
 											<p class="text-secondary">Помогаем сэкономить на коммунальных услугах и ремонте гидроизоляции, а также на подготовительных работах.</p>
 										</div>
-										<div class="pt0 pb0 text-center col-lg-4">
+										<div class="pt0 pb0 text-center col-lg-4" style="">
 											<h2 style="font-stretch:condensed;">
 												<b>
-													<span class="text-warning" style="font-size:1.4em;">140 000</span> м													<sup>2</sup>
+													<span class="text-warning" style="font-size:1.4em;">140 000</span> м<sup>2</sup>
 												</b>
 											</h2>
 											<p class="text-secondary">Успешно реализовано за последние 2 года</p>
 										</div>
-										<div class="pt0 pb0 text-center col-lg-4">
+										<div class="pt0 pb0 text-center col-lg-4" style="">
 											<h2 style="font-stretch:condensed;">
 												<b>
 													<span class="text-warning" style="font-size:1.4em;">10 000 000</span> грн
@@ -331,15 +391,34 @@
 										</div>
 									</div>
 								</div>
-							</section>
+							</section> -->
 
-							<section class="s_text_image pt64 pb32" data-name="Image - Text">
-								<div class="container">
+							<section class="s_text_image pt0 pb16" data-name="Image - Text">
+								<div class="container-flex px-lg-3 px-sm-1 mx-lg-3 mx-sm-1">
 									<div class="row align-items-center d-flex">
-										<div class="col-lg-6 pt16 pb16">
-											<img src="/theme_econombud/static/src/img/home/c-owner-1.jpg" class="img img-fluid mx-auto" alt="House" data-original-title="" title="" aria-describedby="tooltip710106"/>
+										<div class="s_col_no_bgcolor pt0 col-lg-6 pb0">
+											<section class="s_picture pt0 pb0" data-name="Picture">
+												<div class="container">
+													<div class="row s_nb_column_fixed">
+														<div class="pb0 col-lg-12">
+															<figure class="figure">
+															</figure>
+															<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/T06kR5c9ksY?autoplay=0&amp;rel=0">
+																<div class="css_editable_mode_display" data-original-title="Экономбуд - работы" title="Экономбуд - работы"></div>
+																<div class="media_iframe_video_size">&amp;nbsp;</div>
+																<iframe src="//www.youtube.com/embed/T06kR5c9ksY?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
+															</div>
+															<!-- <figure class="figure">
+																<figcaption class="figure-caption py-3 text-center">
+																	<i class="fa fa-1x fa-picture-o mr-2"/>Экономбуд - работы
+																</figcaption>
+															</figure> -->
+														</div>
+													</div>
+												</div>
+											</section>
 										</div>
-										<div class="col-lg-6 pt16 pb16">
+										<div class="col-lg-6 pt16 pb16 px-sm-1 px-lg-3">
 											<h2>
 												<strong style="font-stretch:condensed; font-size:0.9em;">EKONOMBUD — это <span class="blue-text">17 лет опыта</span>
 												</strong>
@@ -362,13 +441,13 @@
 								</div>
 							</section>
 
-							<section class="pb0 pt0" data-name="Title">
+							<section class="pb0 pt32 bg-200" data-name="Title">
 								<div class="container">
 									<div class="row s_nb_column_fixed">
 										<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-											<h2 class="s_title_default">
+											<h2 id="anchor_carousel_button" class="s_title_default">
 												<strong>
-													<span class="blue-text">6</span> основных направлений
+													<span class="blue-text">9</span> основных направлений
 												</strong>
 											</h2>
 										</div>
@@ -376,7 +455,7 @@
 								</div>
 							</section>
 
-							<section class="pt0 pb0" data-name="Title">
+							<section class="pt0 pb0 bg-200" data-name="Title">
 								<div class="container">
 									<div class="row s_nb_column_fixed">
 										<div class="col-lg-12 s_title pt0 pb0" style="text-align: center;">
@@ -386,9 +465,11 @@
 								</div>
 							</section>
 
-							<section class="row d-flex justify-content-center">
-								<div class="col-6 col-lg-3 blue-line">
-									<hr/>
+							<section class="container-fluid bg-200">
+								<div class="row d-flex justify-content-center">
+									<div class="col-6 col-lg-3 blue-line">
+										<hr/>
+									</div>
 								</div>
 							</section>
 
@@ -396,10 +477,10 @@
 								<div class="container">
 									<div class="row d-flex align-items-stretch">
 										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
-											<section class="s_cover parallax bg-black-50 s_parallax_no_overflow_hidden pt0 pb0" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none;">
-												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/c-directions-1-362x400.jpg'); background-position: 50% 0;"/>
-												<a id="link_page_hydro" href="/hydro">
-													<div class="container">
+											<section class="s_cover parallax s_parallax_no_overflow_hidden pt0 pb0 card-selection-effect" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none; border-radius: 0.7rem;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/c-directions-1-362x400.jpg'); background-position: 50% 0; border-radius: 0.7rem;"/>
+												<a id="link_page_hydro" class="text-decoration-none" href="/hydro">
+													<div class="container bg-black-50" style="border-radius: 0.7rem;">
 														<div class="row s_nb_column_fixed">
 															<div class="s_title offset-1 col-11 pt200" data-name="Title">
 																<h3 class="s_title_thin my_grid_title">Гидроизоляция полимочевиной</h3>
@@ -413,10 +494,10 @@
 											</section>
 										</div>
 										<div class="col-lg-4 s_col_no_bgcolor pb16 pt16">
-											<section class="s_cover parallax bg-black-50 s_parallax_no_overflow_hidden pt0 pb0" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none;">
-												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/c-directions-2-362x400.jpg'); background-position: 50% 0;"/>
-												<a id="link_page_teplo" href="/teplo">
-													<div class="container">
+											<section class="s_cover parallax s_parallax_no_overflow_hidden pt0 pb0 card-selection-effect" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none; border-radius: 0.7rem;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/c-directions-2-362x400.jpg'); background-position: 50% 0; border-radius: 0.7rem;"/>
+												<a id="link_page_teplo" class="text-decoration-none" href="/teplo">
+													<div class="container bg-black-50" style="border-radius: 0.7rem;">
 														<div class="row s_nb_column_fixed">
 															<div class="s_title offset-1 col-11 pt224" data-name="Title">
 																<h3 class="s_title_thin my_grid_title">Теплоизоляция пенополиуретаном</h3>
@@ -430,17 +511,74 @@
 											</section>
 										</div>
 										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
-											<section class="s_cover parallax bg-black-50 s_parallax_no_overflow_hidden pt0 pb0" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none;">
-												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/c-directions-3-362x400.jpg'); background-position: 50% 0;"/>
-												<a id="link_page_machine" href="/machine">
-													<div class="container">
+											<section class="s_cover parallax s_parallax_no_overflow_hidden pt0 pb0 card-selection-effect" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none; border-radius: 0.7rem;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/c-directions-1-362x400.jpg'); background-position: 50% 0; border-radius: 0.7rem;"/>
+												<a id="link_page_hydro" class="text-decoration-none" href="/hydro">
+													<div class="container bg-black-50" style="border-radius: 0.7rem;">
 														<div class="row s_nb_column_fixed">
 															<div class="s_title offset-1 col-11 pt200" data-name="Title">
-																<h3 class="s_title_thin my_grid_title">Оборудование для																	<br/>
- гидро- и теплозиоляции</h3>
+																<h3 class="s_title_thin my_grid_title">Гидроизоляция база</h3>
+															</div>
+															<div class="s_text pt16 pb40 offset-1 col-11 my_grid_text" data-name="Text">
+																<p class="lead" style="text-align: left;">Сэкономьте от 10 000 грн на плановом ремонте гидроизоляции с гарантией до 30 лет.</p>
+															</div>
+														</div>
+													</div>
+												</a>
+											</section>
+										</div>										
+									</div>
+								</div>
+							</section>
+
+							<section class="s_three_columns bg-200 pt4 pb16" data-name="Columns">
+								<div class="container">
+									<div class="row d-flex align-items-stretch">
+										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+											<section class="s_cover parallax s_parallax_no_overflow_hidden pt0 pb0 card-selection-effect" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none; border-radius: 0.7rem;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/c-directions-3-362x400.jpg'); background-position: 50% 0; border-radius: 0.7rem;"/>
+												<a id="link_page_machine" class="text-decoration-none" href="/machine">
+													<div class="container bg-black-50" style="border-radius: 0.7rem;">
+														<div class="row s_nb_column_fixed">
+															<div class="s_title offset-1 col-11 pt200" data-name="Title">
+																<h3 class="s_title_thin my_grid_title">Оборудование высокого давления</h3>
 															</div>
 															<div class="s_text pt16 pb16 offset-1 col-11 my_grid_text" data-name="Text">
 																<p class="lead" style="text-align: left;">Продажа установок для нанесения гидроизоляции с улучшенными характеристиками.</p>
+															</div>
+														</div>
+													</div>
+												</a>
+											</section>
+										</div>
+										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+											<section class="s_cover parallax s_parallax_no_overflow_hidden pt0 pb0 card-selection-effect" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none; border-radius: 0.7rem;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/common/bg/wallet-with-money_400_400.jpg'); background-position: 50% 0; border-radius: 0.7rem;"/>
+												<a id="link_page_franchise" class="text-decoration-none" href="/franchise">
+													<div class="container bg-black-50" style="border-radius: 0.7rem;">
+														<div class="row s_nb_column_fixed">
+															<div class="s_title offset-1 col-11 pt224" data-name="Title">
+																<h3 class="s_title_thin my_grid_title">Франшиза</h3>
+															</div>
+															<div class="s_text pt16 pb24 offset-1 col-11 my_grid_text" data-name="Text">
+																<p class="lead" style="text-align: left;">Начните зарабатывать на гидро- и теплозиоляции с нуля в своем городе под нашим руководством.</p>
+															</div>
+														</div>
+													</div>
+												</a>
+											</section>
+										</div>
+										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+											<section class="s_cover parallax s_parallax_no_overflow_hidden pt0 pb0 card-selection-effect" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none; border-radius: 0.7rem;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/c-directions-4-362x400.jpg'); background-position: 50% 0; border-radius: 0.7rem;"/>
+												<a id="link_page_components" class="text-decoration-none" href="/components">
+													<div class="container bg-black-50" style="border-radius: 0.7rem;">
+														<div class="row s_nb_column_fixed">
+															<div class="s_title offset-1 col-11 pt224" data-name="Title">
+																<h3 class="s_title_thin my_grid_title">Компоненты</h3>
+															</div>
+															<div class="s_text pt16 pb24 offset-1 col-11 my_grid_text" data-name="Text">
+																<p class="lead" style="text-align: left;">Качественная полимочевина и пенополиуретан от европейского производителя с доставкой за 1 день.</p>
 															</div>
 														</div>
 													</div>
@@ -455,50 +593,50 @@
 								<div class="container">
 									<div class="row d-flex align-items-stretch">
 										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
-											<section class="s_cover parallax bg-black-50 s_parallax_no_overflow_hidden pt0 pb0" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none;">
-												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/c-directions-4-362x400.jpg'); background-position: 50% 0;"/>
-												<a id="link_page_components" href="/components">
-													<div class="container">
-														<div class="row s_nb_column_fixed">
-															<div class="s_title offset-1 col-11 pt224" data-name="Title">
-																<h3 class="s_title_thin my_grid_title">Продажа компонентов</h3>
-															</div>
-															<div class="s_text pt16 pb16 offset-1 col-11 my_grid_text" data-name="Text">
-																<p class="lead" style="text-align: left;">Качественная полимочевина и пенополиуретан от европейского производителя с доставкой за 1 день.</p>
-															</div>
-														</div>
-													</div>
-												</a>
-											</section>
-										</div>
-										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
-											<section class="s_cover parallax bg-black-50 s_parallax_no_overflow_hidden pt0 pb0" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none;">
-												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/common/bg/wallet-with-money_400_400.jpg'); background-position: 50% 0;"/>
-												<a id="link_page_franchise" href="/franchise">
-													<div class="container">
-														<div class="row s_nb_column_fixed">
-															<div class="s_title pt224 offset-1 col-11" data-name="Title">
-																<h3 class="s_title_thin my_grid_title">Франшиза</h3>
-															</div>
-															<div class="s_text pt16 pb16 offset-1 col-11 my_grid_text" data-name="Text">
-																<p class="lead" style="text-align: left;">Начните зарабатывать на гидро- и теплозиоляции с нуля в своем городе под нашим руководством.</p>
-															</div>
-														</div>
-													</div>
-												</a>
-											</section>
-										</div>
-										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
-											<section class="s_cover parallax bg-black-50 s_parallax_no_overflow_hidden pt0 pb0" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none;">
-												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/Бизнес-в-гараже-400x400.jpg'); background-position: 50% 0;"/>
-												<a id="link_page_business2020" href="/">
-													<div class="container">
+											<section class="s_cover parallax s_parallax_no_overflow_hidden pt0 pb0 card-selection-effect" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none; border-radius: 0.7rem;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/Бизнес-в-гараже-400x400.jpg'); background-position: 50% 0; border-radius: 0.7rem;"/>
+												<a id="link_page_business2020" class="text-decoration-none" href="/">
+													<div class="container bg-black-50" style="border-radius: 0.7rem;">
 														<div class="row s_nb_column_fixed">
 															<div class="s_title pt224 offset-1 col-11" data-name="Title">
 																<h3 class="s_title_thin my_grid_title">Бизнес 2020</h3>
 															</div>
 															<div class="s_text pt16 pb16 offset-1 col-11 my_grid_text" data-name="Text">
 																<p class="lead" style="text-align: left;">Получи готовую бизнес модель с обучением для заработка на услугах теплоизоляции и гидроизоляции.</p>
+															</div>
+														</div>
+													</div>
+												</a>
+											</section>
+										</div>
+										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+											<section class="s_cover parallax s_parallax_no_overflow_hidden pt0 pb0 card-selection-effect" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none; border-radius: 0.7rem;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/common/bg/wallet-with-money_400_400.jpg'); background-position: 50% 0; border-radius: 0.7rem;"/>
+												<a id="link_page_franchise" class="text-decoration-none" href="/franchise">
+													<div class="container bg-black-50" style="border-radius: 0.7rem;">
+														<div class="row s_nb_column_fixed">
+															<div class="s_title pt224 offset-1 col-11" data-name="Title">
+																<h3 class="s_title_thin my_grid_title">Покраска</h3>
+															</div>
+															<div class="s_text pt16 pb40 offset-1 col-11 my_grid_text" data-name="Text">
+																<p class="lead" style="text-align: left;">Выполняем окрасочные работы любой сложности.</p>
+															</div>
+														</div>
+													</div>
+												</a>
+											</section>
+										</div>
+										<div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+											<section class="s_cover parallax s_parallax_no_overflow_hidden pt0 pb0 card-selection-effect" data-scroll-background-ratio="0" data-name="Cover" style="background-image: none; border-radius: 0.7rem;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/home/Бизнес-в-гараже-400x400.jpg'); background-position: 50% 0; border-radius: 0.7rem;"/>
+												<a id="link_page_business2020" class="text-decoration-none" href="/">
+													<div class="container bg-black-50" style="border-radius: 0.7rem;">
+														<div class="row s_nb_column_fixed">
+															<div class="s_title pt224 offset-1 col-11" data-name="Title">
+																<h3 class="s_title_thin my_grid_title">Энергоаудит</h3>
+															</div>
+															<div class="s_text pt16 pb16 offset-1 col-11 my_grid_text" data-name="Text">
+																<p class="lead" style="text-align: left;">Закажи энергоаудит при помощи тепловизора, узнай, где уходит тепло из дома</p>
 															</div>
 														</div>
 													</div>
@@ -545,25 +683,80 @@
 							</section>
 
 
-							<section class="s_three_columns pt32 pb16" data-name="Columns" style="">
+							<section class="s_three_columns pt16 pb32" data-name="Columns" style="">
 								<div class="container">
 									<div class="row d-flex align-items-stretch">
-										<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+										<div class="s_col_no_bgcolor pb16 pt0 col col-md border border-warning rounded mx-sm-1 mx-lg-3 shadow">
 											<div class="bg-white-25 row" style="">
 												<div class="pt16 mt32 col-lg-12 s_title pb8" style="text-align: center; ">
 													<img class="img-fluid o_we_custom_image" src="/theme_econombud/static/src/img/common/icons/i-principles-1.svg"/>
-												</div>
-												<div class="col-lg-12 s_title pb0 pt16">
-													<h3 class="card-title text-center">
-														<b>Экологичность</b>
-													</h3>
-												</div>
-												<div class="col-lg-12 lead pb0 pt0">
-													<p class="card-body text-left">В своей работе используем только безопасные и нетоксичные технологии.</p>
-												</div>
+												</div>												
+												<section class="col-lg-12 s_faq_collapse accordion pt16 pb16 text-center" data-name="Accordion">
+													<div id="homeEcoCollapse" class="" role="tablist">
+														<div class="p-3">
+															<h3>
+																<a href="#" role="tab" data-toggle="collapse" aria-expanded="false" class="collapsed o_default_snippet_text text-black" data-parent="#homeEcoCollapse" data-target="#homeEcoCollapseTab1291906246274">Экологичность</a>
+															</h3>
+															<div class="collapse" role="tabpanel" id="homeEcoCollapseTab1291906246274">																<!-- show -->
+																<div class="">
+																	<p class="text-left o_default_snippet_text">В своей работе используем только безопасные и нетоксичные технологии.</p>
+																</div>
+															</div>
+														</div>
+													</div>													
+												</section>
 											</div>
 										</div>
-										<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+
+										<div class="s_col_no_bgcolor pb16 pt0 col col-md border border-warning rounded mx-sm-1 mx-lg-3 shadow">
+											<div class="bg-white-25 row" style="">
+												<div class="pt16 mt32 col-lg-12 s_title pb8" style="text-align: center; ">
+													<img class="img-fluid o_we_custom_image" src="/theme_econombud/static/src/img/common/icons/i-principles-2.svg"/>
+												</div>												
+												<section class="col-lg-12 s_faq_collapse accordion pt16 pb16 text-center" data-name="Accordion">
+													<div id="homeEcoCollapse" class="" role="tablist">
+														<div class="p-3">
+															<h3>
+																<a href="#" role="tab" data-toggle="collapse" aria-expanded="false" class="collapsed o_default_snippet_text text-black" data-parent="#homeEcoCollapse" data-target="#homeEcoCollapseTab1391906246274">Экономия</a>
+															</h3>
+															<div class="collapse" role="tabpanel" id="homeEcoCollapseTab1391906246274">																<!-- show -->
+																<div class="">
+																	<p class="text-left o_default_snippet_text">Помогаем сэкономить на коммунальных услугах и ремонте гидроизоляции, а также на подготовительных работах.</p>
+																</div>
+															</div>
+														</div>
+													</div>													
+												</section>
+											</div>
+										</div>
+
+										<div class="s_col_no_bgcolor pb16 pt0 col col-md border border-warning rounded mx-sm-1 mx-lg-3 shadow">
+											<div class="bg-white-25 row" style="">
+												<div class="pt16 mt32 col-lg-12 s_title pb8" style="text-align: center; ">
+													<img class="img-fluid o_we_custom_image" src="/theme_econombud/static/src/img/common/icons/i-principles-3.svg"/>
+												</div>												
+												<section class="col-lg-12 s_faq_collapse accordion pt16 pb16 text-center" data-name="Accordion">
+													<div id="homeEcoCollapse" class="" role="tablist">
+														<div class="p-3">
+															<h3>
+																<a href="#" role="tab" data-toggle="collapse" aria-expanded="false" class="collapsed o_default_snippet_text text-black" data-parent="#homeEcoCollapse" data-target="#homeEcoCollapseTab1491906246274">Развитие строительной сферы</a>
+															</h3>
+															<div class="collapse" role="tabpanel" id="homeEcoCollapseTab1491906246274">																<!-- show -->
+																<div class="">
+																	<p class="text-left o_default_snippet_text">Вносим свой вклад в развитие строительной сферы благодаря наработкам по оборудованию и технологиям.</p>
+																</div>
+															</div>
+														</div>
+													</div>													
+												</section>
+											</div>
+										</div>
+
+
+
+
+
+										<!-- <div class="s_col_no_bgcolor pb16 pt0 col col-md">
 											<div class="bg-white-25 row" style="">
 												<div class="pt16 mt32 col-lg-12 s_title pb8" style="text-align: center; ">
 													<img class="img-fluid o_we_custom_image" src="/theme_econombud/static/src/img/common/icons/i-principles-2.svg"/>
@@ -592,12 +785,12 @@
 													<p class="card-body text-left">Вносим свой вклад в развитие строительной сферы благодаря наработкам по оборудованию и технологиям.</p>
 												</div>
 											</div>
-										</div>
+										</div> -->
 									</div>
 								</div>
 							</section>
 
-							<section class="pb0 pt0" data-name="Title">
+							<!-- <section class="pb0 pt0" data-name="Title">
 								<div class="container">
 									<div class="row s_nb_column_fixed">
 										<div class="col-lg-12 s_title pb0 pt0" style="text-align: left;">
@@ -616,14 +809,9 @@
 										<div class="col-lg-12 s_title pt0 pb0" style="text-align: left;">
 											<h3 class="s_title_default">наши услуги и оборудование</h3>
 										</div>
-									</div>
-								</div>
-							</section>
-
-							<section class="container">
-								<div class="row">
-									<div class="col-6 col-lg-3 blue-line">
-										<hr/>
+										<div class="col-6 col-lg-3 blue-line">
+											<hr/>
+										</div>
 									</div>
 								</div>
 							</section>
@@ -666,8 +854,9 @@
 										</div>
 									</div>
 								</div>
-							</section>
+							</section> -->
 
+							<!--Quality form-->
 							<section class="s_cover parallax s_parallax_is_fixed bg-black-50 pt64 pb64 s_parallax_no_overflow_hidden" data-scroll-background-ratio="1" data-name="Cover" style="background-image: none;">
 								<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/common/bg/bg-gydro-quality.jpg'); background-position: 50% 0;"/>
 								<div class="container">
@@ -685,12 +874,13 @@
 										</div>
 										<div class="col-lg-12 s_text pt16 pb16" data-name="Text">
 											<h3 class="lead o_default_snippet_text" style="text-align: left;">Оставьте контакты и мы отправим образец в любой город Новой Почтой</h3>
-										</div> -->	
+										</div> -->
 
-										<form action="/website_form/" method="post" class="s_website_form container-fluid mt32 o_fake_not_editable" enctype="multipart/form-data" data-name="Form Builder" data-model_name="crm.lead" data-success_page="/contactus-thank-you">
+										<form action="/website_form/" method="post" class="col-lg-12 px-3 s_website_form container-fluid mt32 o_fake_not_editable" enctype="multipart/form-data" data-name="Form Builder" data-model_name="crm.lead" data-success_page="/contactus-thank-you">
 											<div class="container">
 												<h2 class="o_form_heading">
-													<strong>Хотите <span class="text-warning">проверить качество</span> материалов?</strong>
+													<strong>Хотите														<span class="text-warning">проверить качество</span> материалов?
+													</strong>
 												</h2>
 												<h3 class="o_form_heading">Оставьте контакты и мы отправим образец в любой город Новой Почтой</h3>
 												<div class="form-group row form-field o_website_form_required_custom">
@@ -774,78 +964,39 @@
 								</div>
 							</section>
 
-							<section class="row d-flex justify-content-center">
-								<div class="col-6 col-lg-3 blue-line">
-									<hr/>
+							<section class="container-fluid">
+								<div class="row d-flex justify-content-center">
+									<div class="col-6 col-lg-3 blue-line">
+										<hr/>
+									</div>
 								</div>
 							</section>
 
-							<section class="s_three_columns pt32 pb0 bg-white" data-name="Columns" style="">
+							<section class="s_three_columns pt32 pb32 bg-white" data-name="Columns" style="">
 								<div class="container">
-									<div class="row d-flex align-items-stretch">
-										<div class="s_col_no_bgcolor pt16 col-6 col-sm-6 col-lg-3 pb48">
-											<div class="card bg-white">
-												<img class="card-img-top d-block mx-auto" src="/theme_econombud/static/src/img/home/35-vmv-holding-e1570697782774.jpg" alt="brand-name furniture plant VMV Holding" data-original-title="" title="" aria-describedby="tooltip895646" style="width: 50%;"/>
-												<div class="card-body">
-													<h4 class="card-title" style="text-align: center; ">
-														<font style="color: rgb(99, 99, 99);">Мебельный завод&amp;nbsp;</font>
-													</h4>
-													<h4 class="card-title" style="text-align: center; ">
-														<font style="color: rgb(99, 99, 99);">"ВМВ Холдинг"</font>
-													</h4>
-													<!-- <p class="card-text">&amp;nbsp;</p> -->
-												</div>
+									<div class="row d-flex align-items-stretch justify-content-around">
+										<div class="col-6 col-md-3 mt16 mb16">
+											<div class="card bg-white mt0 mb0 d-flex flex-column justify-content-between align-items-center img-box_shadow" style="flex-basis:300px;">
+												<img class="img-fluid pt32 w-50" src="/theme_econombud/static/src/img/home/35-vmv-holding-e1570697782774.jpg" alt="Furniture plant VMV Holding"/>
+												<h4 class="card-title text-center mb16 p-3">Мебельный завод «ВМВ Холдинг»</h4>
 											</div>
 										</div>
-										<div class="s_col_no_bgcolor col-6 col-sm-6 col-lg-3 pt16 pb48">
-											<div class="card bg-white">
-												<div class="mt16">
-													<img class="card-img-top d-block mx-auto" src="/theme_econombud/static/src/img/home/c-clients-3.png" alt="brand-name yantar" data-original-title="" title="" aria-describedby="tooltip895646" style="width: 50%;"/>
-												</div>
-												<div class="card-body">
-													<h4 class="card-title" style="text-align: center; ">
-														<font style="color: rgb(99, 99, 99); font-size: 18px;">
-															<br/>
-														</font>
-													</h4>
-													<h4 class="card-title" style="text-align: center; ">
-														<font color="#636363">
-															<span style="">Производство «ЯНТАР»</span>
-														</font>
-														<br/>
-													</h4>
-													<p class="card-text">&amp;nbsp;</p>
-												</div>
+										<div class="col-6 col-md-3 mt16 mb16">
+											<div class="card bg-white mt0 mb0 d-flex flex-column justify-content-between align-items-center img-box_shadow" style="flex-basis:300px;">
+												<img class="img-fluid pt64 w-50" src="/theme_econombud/static/src/img/home/c-clients-3.png" alt="Yantar beer factory"/>
+												<h4 class="card-title text-center mb16 p-3">Производство «ЯНТАР»</h4>
 											</div>
 										</div>
-										<div class="s_col_no_bgcolor pt16 col-6 col-sm-6 col-lg-3 pb48">
-											<div class="card bg-white">
-												<img class="card-img-top d-block mx-auto" src="/theme_econombud/static/src/img/home/c-clients-2.png" alt="brand-name national police" data-original-title="" title="" aria-describedby="tooltip895646" style="width: 50%;"/>
-												<div class="card-body">
-													<h4 class="card-title" style="text-align: center; ">
-														<font color="#636363" style="">НАЦИОНАЛЬНАЯ ПОЛИЦИЯ</font>
-														<br/>
-													</h4>
-													<p class="card-text">&amp;nbsp;</p>
-												</div>
+										<div class="col-6 col-md-3 mt16 mb16">
+											<div class="card bg-white mt0 mb0 d-flex flex-column justify-content-between align-items-center img-box_shadow" style="flex-basis:300px;">
+												<img class="img-fluid pt32 w-50" src="/theme_econombud/static/src/img/home/c-clients-2.png" alt="National police of Ukraine"/>
+												<h4 class="card-title text-center mb16 p-3">НАЦИОНАЛЬНАЯ ПОЛИЦИЯ</h4>
 											</div>
 										</div>
-										<div class="s_col_no_bgcolor pt16 col-6 col-sm-6 col-lg-3 pb48">
-											<div class="card bg-white">
-												<img class="card-img-top d-block mx-auto" src="/theme_econombud/static/src/img/home/zakarpatie.svg" alt="brand-name zakarpatie oblenergo" data-original-title="" title="" aria-describedby="tooltip895646" style="width: 50%;"/>
-												<div class="card-body">
-													<h4 class="card-title" style="text-align: center;">
-														<font color="#636363">
-															<span style="">ЗАКАРПАТЬЕ</span>
-														</font>
-														<br/>
-														<font color="#636363">
-															<span style="font-size: 18px;">ОБЛЭНЕРГО</span>
-														</font>
-														<br/>
-													</h4>
-													<p class="card-text">&amp;nbsp;</p>
-												</div>
+										<div class="col-6 col-md-3 mt16 mb16">
+											<div class="card bg-white mt0 mb0 d-flex flex-column justify-content-between align-items-center img-box_shadow" style="flex-basis:300px;">
+												<img class="img-fluid pt32 w-50" src="/theme_econombud/static/src/img/home/zakarpatie.svg" alt="Zakarpatie Oblenergo"/>
+												<h4 class="card-title text-center mb16 p-3">ЗАКАРПАТЬЕ ОБЛЭНЕРГО</h4>
 											</div>
 										</div>
 									</div>
@@ -876,9 +1027,11 @@
 								</div>
 							</section>
 
-							<section class="row d-flex justify-content-center">
-								<div class="col-6 col-lg-3 blue-line">
-									<hr/>
+							<section class="container-fluid">
+								<div class="row d-flex justify-content-center">
+									<div class="col-6 col-lg-3 blue-line">
+										<hr/>
+									</div>
 								</div>
 							</section>
 
@@ -892,15 +1045,15 @@
 														<div class="pb0 col-lg-12">
 															<figure class="figure">
 															</figure>
-															<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/HZBMDD1Ox20?autoplay=0&amp;rel=0">
-																<div class="css_editable_mode_display" data-original-title="Гидроизоляция крыши" title="Гидроизоляция крыши"></div>
+															<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/amS3yXj4JNs?autoplay=0&amp;rel=0">
+																<div class="css_editable_mode_display" data-original-title="Гидроизоляция" title="Гидроизоляция"></div>
 																<div class="media_iframe_video_size">&amp;nbsp;</div>
-																<iframe src="//www.youtube.com/embed/HZBMDD1Ox20?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
+																<iframe src="//www.youtube.com/embed/amS3yXj4JNs?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
 															</div>
 															<figure class="figure">
 																<figcaption class="figure-caption py-3 text-center">
 																	<i class="fa fa-1x fa-picture-o mr-2"/>
-Гидроизоляция крыши
+Гидроизоляция
 																</figcaption>
 															</figure>
 														</div>
@@ -916,15 +1069,15 @@
 														<div class="pb0 col-lg-12">
 															<figure class="figure">
 															</figure>
-															<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/tfpfvSLlb5Q?autoplay=0&amp;rel=0">
+															<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/nkSQQn4z2z4?autoplay=0&amp;rel=0">
 																<div class="css_editable_mode_display" data-original-title="Экономбуд отзывы" title="Экономбуд отзывы"></div>
 																<div class="media_iframe_video_size">&amp;nbsp;</div>
-																<iframe src="//www.youtube.com/embed/tfpfvSLlb5Q?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
+																<iframe src="//www.youtube.com/embed/nkSQQn4z2z4?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
 															</div>
 															<figure class="figure">
 																<figcaption class="figure-caption py-3 text-center">
 																	<i class="fa fa-1x fa-picture-o mr-2"/>
-Экономбуд отзывы
+ Экономбуд отзывы
 																</figcaption>
 															</figure>
 														</div>
@@ -937,10 +1090,10 @@
 								</div>
 							</section>
 
-							<section>
+							<section class="bg-200">
 								<div class="container">
 									<div class="row">
-										<div class="col-lg-12 s_btn text-center pb32 pt32" data-name="Button">
+										<div class="col-lg-12 s_btn text-center pb64 pt0" data-name="Button">
 											<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg" class="btn btn-danger rounded-circle btn-lg" target="_blank">
 												<b>БОЛЬШЕ НА НАШЕМ YOUTUBE КАНАЛЕ</b>
 											</a>

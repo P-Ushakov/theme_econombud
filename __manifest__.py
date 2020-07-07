@@ -11,7 +11,7 @@ tel: +38 067 644 48 04
     'author': "P.Ushakov",
     'website': "",
     'category': 'Theme',
-    'depends': ['website', 'website_theme_install', 'theme_default', 'website_crm'],
+    'depends': ['website', 'website_theme_install', 'theme_default', 'website_crm', 'website_animate', 'theme_common'],
     'demo': [ ],
     'data': [
         # loading images
@@ -21,10 +21,10 @@ tel: +38 067 644 48 04
         'data/page_home_img.xml',
         'data/page_hydro_img.xml',
         'data/page_machine_img.xml',
-        'data/page_teplo_img.xml',        
-        'views/templates.xml',
+        'data/page_teplo_img.xml',
         # loading page layouts
         'data/page_home.xml',
+        #'data/page_services.xml', #menu services
         'data/page_teplo.xml',
         'data/page_hydro.xml',
         'data/page_franchise.xml',

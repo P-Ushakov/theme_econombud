@@ -1,0 +1,37 @@
+// ------------------------------------------------------------------
+// Google fonts
+// ------------------------------------------------------------------
+$google-font-path: '../fonts/google';
+//$google-font-path: '/theme_econombud/static/src/fonts/google';
+
+@mixin google-font($family, $dirname, $type, $weight, $style) {
+    @font-face {
+        font-family: $family;
+        src: url('#{$google-font-path}/#{$dirname}/#{$dirname}-#{$type}.ttf') format('truetype');
+        font-weight: $weight;
+        font-style: $style;
+    }
+}
+
+@mixin google-font-pair($family, $dirname) {
+
+    @include google-font('#{$family}', '#{$dirname}', 'Thin', 100, normal);
+    @include google-font('#{$family}', '#{$dirname}', 'ExtraLight', 200, normal);
+    @include google-font('#{$family}', '#{$dirname}', 'Light', 300, normal);
+    @include google-font('#{$family}', '#{$dirname}', 'Regular', 400, normal);
+    @include google-font('#{$family}', '#{$dirname}', 'Medium', 500, normal);
+    @include google-font('#{$family}', '#{$dirname}', 'SemiBold', 600, normal);
+    @include google-font('#{$family}', '#{$dirname}', 'Bold', 700, normal);
+    @include google-font('#{$family}', '#{$dirname}', 'ExtraBold', 900, normal);
+
+    @include google-font('#{$family}', '#{$dirname}', 'ThinItalic', 100, italic);
+    @include google-font('#{$family}', '#{$dirname}', 'ExtraLightItalic', 200, italic);
+    @include google-font('#{$family}', '#{$dirname}', 'LightItalic', 300, italic);
+    @include google-font('#{$family}', '#{$dirname}', 'Italic', 400, italic);
+    @include google-font('#{$family}', '#{$dirname}', 'MediumItalic', 500, italic);
+    @include google-font('#{$family}', '#{$dirname}', 'SemiBoldItalic', 600, italic);
+    @include google-font('#{$family}', '#{$dirname}', 'BoldItalic', 700, italic);
+    @include google-font('#{$family}', '#{$dirname}', 'ExtraBoldItalic', 900, italic);
+}
+
+@include google-font-pair('Exo 2','Exo2');
