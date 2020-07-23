@@ -138,7 +138,7 @@
         </xpath>
 
 
-        <!--adding disclaymer-->
+        <!--adding disclaimer-->
         <xpath expr="//div[hasclass('o_footer_copyright')]/div/div/div[last()]" position="after">
 
             <div class="col-sm text-center">

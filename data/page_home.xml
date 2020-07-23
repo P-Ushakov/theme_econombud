@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-	<data noupdate="0">
+	<data noupdate="1">
 		<!-- split between ir_ui_view & website_page record to keep external_id on ir_ui_view -->
 		<record id="page_home_view" model="ir.ui.view">
 			<field name="name">Home</field>
 			<field name="type">qweb</field>
 			<field name="key">website.econombud</field>
 			<field name="arch" type="xml">
-				<t name="ECONOMBUD" priority="10" t-name="website.econombud">
+				<t name="EKONOMBUD" priority="10" t-name="website.econombud">
 					<t t-call="website.layout">
 						<!-- <t t-set="pageName" t-value="'homepage'"/> -->
 						<t t-set="pageName" t-value="'econombud'"/>
@@ -1129,7 +1129,7 @@
 			<field name="is_published">True</field>
 			<field name="view_id" ref="page_home_view" />
 			<field name="is_homepage">True</field>
-			<field name="name">ECONOMBUD</field>
+			<field name="name">EKONOMBUD</field>
 		</record>
 
 

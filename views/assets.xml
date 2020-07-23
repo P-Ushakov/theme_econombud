@@ -5,10 +5,17 @@
     <xpath expr="link[last()]" position="after">
       
       <!-- google fonts -->
-      <!-- local -->
-      <link rel="stylesheet" type="text/scss" href="/theme_econombud/static/src/scss/fonts.scss"/>
-      <!-- remote -->
-      <link href='https://fonts.googleapis.com/css?family=Exo+2&amp;display=swap' rel='stylesheet'/>
+      <!--exo2-->
+        <!-- local -->
+      <!-- <link rel="stylesheet" type="text/scss" href="/theme_econombud/static/src/scss/font_exo2.scss"/> -->
+        <!-- remote -->
+     <!--  <link href='https://fonts.googleapis.com/css?family=Exo+2&amp;display=swap' rel='stylesheet'/> -->
+      <!--Inter-->
+        <!-- local -->
+      <link rel="stylesheet" type="text/scss" href="/theme_econombud/static/src/scss/font_inter.scss"/>
+        <!-- remote -->      
+      <link href='https://fonts.googleapis.com/css?family=Inter&amp;display=swap' rel='stylesheet'/>
+      <!-- end og google fonts -->
       <!-- main video -->
       <link rel="stylesheet" type="text/scss" href="/theme_econombud/static/src/scss/video.scss"/>      
       <!-- vertical timeline -->

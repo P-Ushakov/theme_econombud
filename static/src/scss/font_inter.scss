@@ -1,0 +1,29 @@
+// ------------------------------------------------------------------
+// Google fonts
+// ------------------------------------------------------------------
+$google-font-path: '../fonts/google';
+//$google-font-path: '/theme_econombud/static/src/fonts/google';
+
+@mixin google-font($family, $dirname, $type, $weight, $style) {
+    @font-face {
+        font-family: $family;
+        src: url('#{$google-font-path}/#{$dirname}/#{$dirname}-#{$type}.ttf') format('truetype');
+        font-weight: $weight;
+        font-style: $style;
+    }
+}
+
+@mixin google-font-pair($family, $dirname) {
+
+    @include google-font('#{$family}', '#{$dirname}', 'Thin', 100, normal);
+    @include google-font('#{$family}', '#{$dirname}', 'ExtraLight', 200, normal);
+    @include google-font('#{$family}', '#{$dirname}', 'Light', 300, normal);
+    @include google-font('#{$family}', '#{$dirname}', 'Regular', 400, normal);
+    @include google-font('#{$family}', '#{$dirname}', 'Medium', 500, normal);
+    @include google-font('#{$family}', '#{$dirname}', 'SemiBold', 600, normal);
+    @include google-font('#{$family}', '#{$dirname}', 'Bold', 700, normal);
+    @include google-font('#{$family}', '#{$dirname}', 'ExtraBold', 900, normal);
+
+}
+
+@include google-font-pair('Inter','Inter');
