@@ -15,27 +15,37 @@ tel: +38 067 644 48 04
     'depends': ['website', 'website_theme_install', 'theme_default', 'website_crm'],
     'demo': [ ],
     'data': [
-        # loading images
-        'data/page_common_img.xml',
-        'data/page_components_img.xml',
-        'data/page_franchise_img.xml',
-        'data/page_home_img.xml',
-        'data/page_hydro_img.xml',
-        'data/page_machine_img.xml',
-        'data/page_teplo_img.xml',
-        # loading page layouts
-        'data/page_home.xml',
-        #'data/page_services.xml', #menu services
-        'data/page_teplo.xml',
-        'data/page_hydro.xml',
-        'data/page_franchise.xml',
-        'data/page_machine.xml',
-        'data/page_components.xml',
-        'data/page_contacts.xml',
-        'data/page_denial-of-responsibility.xml',
-        'data/page_privacy-policy.xml',
-        'data/page_exchange-consent.xml',        
-        # resources, templates, attachments scss, css, js
+        ### loading images ###
+        # 'data/page_common_img.xml',
+        # 'data/page_components_img.xml',
+        # 'data/page_franchise_img.xml',
+        # 'data/page_home_img.xml',
+        # 'data/page_hydro_img.xml',
+        # 'data/page_machine_img.xml',
+        # 'data/page_teplo_img.xml',
+        'data/page_business_img.xml'
+        ##'data/page_services.xml', #menu services
+        ### loading page layouts ###
+        # 'data/page_home.xml',
+        # 'data/page_agent.xml',
+        # 'data/page_audit.xml',
+        'data/page_business.xml',
+        # 'data/page_cases.xml',
+        # 'data/page_certification.xml',
+        # 'data/page_equipment.xml',
+        # 'data/page_faq.xml',
+        # 'data/page_painting.xml',
+        # 'data/page_service.xml',        
+        # 'data/page_teplo.xml',
+        # 'data/page_hydro.xml',
+        # 'data/page_franchise.xml',
+        # 'data/page_machine.xml',
+        # 'data/page_components.xml',
+        # 'data/page_contacts.xml',
+        # 'data/page_denial-of-responsibility.xml',
+        # 'data/page_privacy-policy.xml',
+        # 'data/page_exchange-consent.xml',        
+        ### resources, templates, attachments scss, css, js ###
         'data/page_website_res.xml',
         'views/templates.xml',
         'views/assets.xml'        

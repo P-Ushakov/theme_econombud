@@ -1,0 +1,68 @@
+<odoo>
+    <data noupdate="1">
+    
+        <record id="theme_econombud.0BE9FCEB-B9BA-4F00-A" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">0BE9FCEB-B9BA-4F00-A.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/business/0BE9FCEB-B9BA-4F00-A.jpg</field>
+        </record>
+
+        <record id="theme_econombud.50a5559afad2a2b3d495" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">50a5559afad2a2b3d495.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/business/50a5559afad2a2b3d495.jpg</field>
+        </record>        
+        
+        <record id="theme_econombud.basic_world" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">basic_world.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/business/basic_world.svg</field>
+        </record>
+        
+        <record id="theme_econombud.biznesnavigator" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">biznesnavigator.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/business/biznesnavigator.jpg</field>
+        </record>         
+        
+        <record id="theme_econombud.lwdfp2cfyvi_500x317" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">lwdfp2cfyvi_500x317.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/business/lwdfp2cfyvi_500x317.jpg</field>
+        </record>
+
+        <record id="theme_econombud.music_record" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">music_record.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/business/music_record.svg</field>
+        </record>         
+        
+        <record id="theme_econombud.noroot" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">noroot.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/business/noroot.png</field>
+        </record>
+                
+        <record id="theme_econombud.start-business" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">start-business.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/business/start-business.jpg</field>
+        </record>         
+ 
+        <record id="theme_econombud.weather_last_quarter" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">weather_last_quarter.svg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/business/weather_last_quarter.svg</field>
+        </record> 
+
+    </data>
+</odoo>

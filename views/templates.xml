@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
+    <!-- Econombud custom header-->
+    <!-- <template if="header_custom" inherit_id="website.layout" name="Header"> -->
+    <!--adding language switcher-->
+        <!-- <xpath expr="//div[@id='top_menu_collapse']" position="after">
+            <div class="menu_right">
+                <div t-att-class="'h-cart' if request.env.user._is_public() else 'h-cart log_in_user'">
+                    <ul>
+                        <li class="configuration">
+                            <a class="top-link-wishlist" href="#" id="user_account" title="My Profile">
+                                <i class="fa fa-user" id="user_account_icon"/>
+                            </a>
+                            <div class="toggle-config o_hidden">
+                                <div class="options">
+                                    <ul class="language-bar js_language_selector" id="lang" t-if="(request.is_frontend_multilang and len(languages) &gt; 1) or editable">
+                                        <label>Language</label>
+                                        <div class="btn-group">
+                                            <button class="btn dropdown-toggle btn-default" data-caret="true" data-toggle="dropdown" type="button">
+                                                <t t-as="lgs" t-foreach="languages">
+                                                    <t t-if="website and lgs[0] == lang">
+                                                        <t t-esc="lgs[0].split('_')[0]"/>
+                                                    </t>
+                                                </t>
+                                                <span/>
+                                            </button>
+                                            <ul class="dropdown-menu dropdown-menu-right js_language_selector" role="menu">
+                                                <t t-foreach="languages" t-as="lg">
+                                                    <li t-att-class="'active' if lang == lg[0] else None">                                                        
+                                                        <a class="js_change_lang" t-att-data-default-lang="editable and 'true' if lg[0] == website.default_lang_code else None" t-att-data-lang="lg[0]" t-att-href="url_for(request.httprequest.path + '?' + keep_query(), lang_code=lg[0])">
+                                                            <t t-esc="lg[0].split('_')[0]"/>
+                                                        </a>
+                                                    </li>
+                                                </t>
+                                                <li groups="website.group_website_publisher">
+                                                    <t t-set="url_return" t-value="url_for('', '[lang]') + '?' + keep_query()"/>
+                                                    <a t-attf-href="/web#action=base.action_view_base_language_install&amp;website_id=#{website.id}&amp;url_return=#{url_return}">Add...</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </ul>                                    
+                                </div>                                
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </xpath> -->
+        <!--End of language switcher-->
+    <!-- </template> -->
+    <!-- End of Econombud custom header-->
 
     <!-- Econombud custom footer -->
     <template id="footer_custom" inherit_id="website.layout" name="Footer">
@@ -151,12 +200,11 @@
                 <a href="/exchange-consent">Соглашение с рассылкой</a>
             </div>
 
-        </xpath>
+        </xpath>       
 
     </template>
     <!--end of custom footer-->
-
-
+    
     <!-- Econombud social -->
     <template id="theme_econombud.social" name="Econombud social">
         <p>

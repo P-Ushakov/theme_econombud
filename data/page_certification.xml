@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<data noupdate="1">
+		<!-- split between ir_ui_view & website_page record to keep external_id on ir_ui_view -->
+		<record id="page_certification_view" model="ir.ui.view">
+			<field name="name">certification</field>
+			<field name="type">qweb</field>
+			<field name="key">website.certification</field>
+			<field name="arch" type="xml">
+				<t name="certification" priority="60" t-name="website.certification">
+					<t t-call="website.layout">
+						<!--<t t-set="pageName" t-value="'certification'"/>-->
+						<div id="wrap">
+							<div id="page-top"/>
+							<div class="oe_structure">
+								
+
+
+							</div>
+						</div>
+					</t>
+				</t>
+			</field>
+		</record>
+
+		<record id="page_certification_page" model="website.page">
+			<field name="url">/certification</field>
+			<field name="is_published">True</field>
+			<field name="view_id" ref="page_certification_view" />
+			<field name="is_homepage">False</field>
+		</record>
+		<record id="menu_certification" model="website.menu">
+			<field name="name">Сертификация</field>
+			<field name="url">/certification</field>
+			<field name="parent_id" ref="website.main_menu" />
+			<field name="sequence" type="int">50</field>
+			<field name="page_id" ref="page_certification_page" />
+			<!-- <field name="website_id" ref="website.default_website" /> -->
+		</record>
+	</data>
+</odoo>
