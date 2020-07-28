@@ -529,7 +529,7 @@
 
 								<!-- timeline-->
 								<section class="pt16 pb16">
-									<div class="container">										
+									<div class="container">
 										<div class="row">
 											<div class="col-md-12">
 												<div class="main-timeline">
@@ -1394,13 +1394,12 @@
 			<field name="view_id" ref="page_franchise_view" />
 			<field name="is_homepage">False</field>
 		</record>
-		<record id="menu_franchise" model="website.menu">
+		<!-- <record id="menu_franchise" model="website.menu">
 			<field name="name">Франшиза</field>
 			<field name="url">/franchise</field>
 			<field name="parent_id" ref="website.main_menu" />
 			<field name="sequence" type="int">40</field>
 			<field name="page_id" ref="page_franchise_page" />
-			<!-- <field name="website_id" ref="website.default_website" /> -->
-		</record>
+		</record> -->
 	</data>
 </odoo>
