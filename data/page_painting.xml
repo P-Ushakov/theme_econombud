@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-	<data noupdate="1">
+	<data noupdate="0">
 		<!-- split between ir_ui_view & website_page record to keep external_id on ir_ui_view -->
 		<record id="page_painting_view" model="ir.ui.view">
 			<field name="name">painting</field>
@@ -29,13 +29,12 @@
 			<field name="view_id" ref="page_painting_view" />
 			<field name="is_homepage">False</field>
 		</record>
-		<record id="menu_painting" model="website.menu">
+		<!-- <record id="menu_painting" model="website.menu">
 			<field name="name">Покраска</field>
 			<field name="url">/painting</field>
 			<field name="parent_id" ref="website.main_menu" />
 			<field name="sequence" type="int">50</field>
-			<field name="page_id" ref="page_painting_page" />
-			<!-- <field name="website_id" ref="website.default_website" /> -->
-		</record>
+			<field name="page_id" ref="page_painting_page" />			
+		</record> -->
 	</data>
 </odoo>

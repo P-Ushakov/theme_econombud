@@ -13,7 +13,7 @@
         <record id="website.default_website" model="website">       
             <field name="name">Econombud</field>
             <!--adding social links-->
-            <field name="social_facebook">https://www.facebook.com/ekonombud.kiev</field>
+            <field name="social_facebook">https://www.facebook.com/ekonombud.ua</field>
             <field name="social_instagram">https://www.instagram.com/ekonombud_ua</field>
             <field name="social_youtube">https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured</field>
             <!--adding icon and logo-->

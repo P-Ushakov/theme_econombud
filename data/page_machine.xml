@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-	<data noupdate="1">
+	<data noupdate="0">
 		<!-- split between ir_ui_view & website_page record to keep external_id on ir_ui_view -->
 		<record id="page_equipment_view" model="ir.ui.view">
 			<field name="name">equipment</field>
@@ -61,7 +61,7 @@
 																		<div class="row d-flex align-items-stretch no-gutters">
 																			<div class="s_share col-lg-12 text-center" data-name="Share">
 																				<p class="pt16">
-																					<a href="https://www.facebook.com/ekonombud.kiev" class="px-3 btn btn-md btn-link my_grid_title">
+																					<a href="https://www.facebook.com/ekonombud.ua" class="px-3 btn btn-md btn-link my_grid_title">
 																						<i class="fa fa-3x fa-facebook-square"/>
 																					</a>
 																					<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured" class="px-3 btn btn-md btn-link my_grid_title">
@@ -140,7 +140,7 @@
 																		<div class="row d-flex align-items-stretch no-gutters">
 																			<div class="s_share col-lg-12 text-center" data-name="Share">
 																				<p class="pt16">
-																					<a href="https://www.facebook.com/ekonombud.kiev" class="px-3 btn btn-md btn-link my_grid_title">
+																					<a href="https://www.facebook.com/ekonombud.ua" class="px-3 btn btn-md btn-link my_grid_title">
 																						<i class="fa fa-3x fa-facebook-square"/>
 																					</a>
 																					<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured" class="px-3 btn btn-md btn-link my_grid_title">
@@ -219,7 +219,7 @@
 																		<div class="row d-flex align-items-stretch no-gutters">
 																			<div class="s_share col-lg-12 text-center" data-name="Share">
 																				<p class="pt16">
-																					<a href="https://www.facebook.com/ekonombud.kiev" class="px-3 btn btn-md btn-link my_grid_title">
+																					<a href="https://www.facebook.com/ekonombud.ua" class="px-3 btn btn-md btn-link my_grid_title">
 																						<i class="fa fa-3x fa-facebook-square"/>
 																					</a>
 																					<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured" class="px-3 btn btn-md btn-link my_grid_title">
@@ -1387,13 +1387,12 @@ Ekonombud — лучшее решение?
 			<field name="view_id" ref="page_equipment_view" />
 			<field name="is_homepage">False</field>
 		</record>
-		<record id="menu_equipment" model="website.menu">
+		<!-- <record id="menu_equipment" model="website.menu">
 			<field name="name">Оборудование</field>
 			<field name="url">/machine</field>
 			<field name="parent_id" ref="website.main_menu" />
 			<field name="sequence" type="int">45</field>
-			<field name="page_id" ref="page_equipment_page" />
-			<!-- <field name="website_id" ref="website.default_website" /> -->
-		</record>
+			<field name="page_id" ref="page_equipment_page" />			
+		</record> -->
 	</data>
 </odoo>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-	<data noupdate="1">
+	<data noupdate="0">
 		<!-- split between ir_ui_view & website_page record to keep external_id on ir_ui_view -->
 		<record id="page_business_view" model="ir.ui.view">
 			<field name="name">business</field>
@@ -29,13 +29,12 @@
 			<field name="view_id" ref="page_business_view" />
 			<field name="is_homepage">False</field>
 		</record>
-		<record id="menu_business" model="website.menu">
+		<!-- <record id="menu_business" model="website.menu">
 			<field name="name">Бизнес 2020</field>
 			<field name="url">/business</field>
 			<field name="parent_id" ref="website.main_menu" />
 			<field name="sequence" type="int">50</field>
-			<field name="page_id" ref="page_business_page" />
-			<!-- <field name="website_id" ref="website.default_website" /> -->
-		</record>
+			<field name="page_id" ref="page_business_page" />			
+		</record> -->
 	</data>
 </odoo>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-	<data noupdate="1">
+	<data noupdate="0">
 		<!-- split between ir_ui_view & website_page record to keep external_id on ir_ui_view -->
 		<record id="page_waterproofing_view" model="ir.ui.view">
 			<field name="name">waterproofing</field>
@@ -68,7 +68,7 @@
 																	<div class="row d-flex align-items-stretch no-gutters">
 																		<div class="s_share col-lg-12 text-center" data-name="Share">
 																			<p class="pt16">
-																				<a href="https://www.facebook.com/ekonombud.kiev" class="btn btn-md btn-link my_grid_title">
+																				<a href="https://www.facebook.com/ekonombud.ua" class="btn btn-md btn-link my_grid_title">
 																					<i class="fa fa-3x fa-facebook-square"/>
 																				</a>
 																				<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured" class="btn btn-md btn-link my_grid_title">
@@ -163,7 +163,7 @@
 																	<div class="row d-flex align-items-stretch no-gutters">
 																		<div class="s_share col-lg-12 text-center" data-name="Share">
 																			<p class="pt16">
-																				<a href="https://www.facebook.com/ekonombud.kiev" class="btn btn-md btn-link my_grid_title">
+																				<a href="https://www.facebook.com/ekonombud.ua" class="btn btn-md btn-link my_grid_title">
 																					<i class="fa fa-3x fa-facebook-square"/>
 																				</a>
 																				<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured" class="btn btn-md btn-link my_grid_title">
@@ -258,7 +258,7 @@
 																	<div class="row d-flex align-items-stretch no-gutters">
 																		<div class="s_share col-lg-12 text-center" data-name="Share">
 																			<p class="pt16">
-																				<a href="https://www.facebook.com/ekonombud.kiev" class="btn btn-md btn-link my_grid_title">
+																				<a href="https://www.facebook.com/ekonombud.ua" class="btn btn-md btn-link my_grid_title">
 																					<i class="fa fa-3x fa-facebook-square"/>
 																				</a>
 																				<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured" class="btn btn-md btn-link my_grid_title">
@@ -1191,13 +1191,12 @@
 			<field name="view_id" ref="page_waterproofing_view" />
 			<field name="is_homepage">False</field>
 		</record>
-		<record id="menu_waterproofing" model="website.menu">
+		<!-- <record id="menu_waterproofing" model="website.menu">
 			<field name="name">Гидроизоляция</field>
 			<field name="url">/hydro</field>
 			<field name="parent_id" ref="website.main_menu" />
 			<field name="sequence" type="int">30</field>
-			<field name="page_id" ref="page_waterproofing_page" />
-			<!-- <field name="website_id" ref="website.default_website" /> -->
-		</record>
+			<field name="page_id" ref="page_waterproofing_page" />			
+		</record> -->
 	</data>
 </odoo>
