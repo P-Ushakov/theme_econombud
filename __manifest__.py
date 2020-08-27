@@ -13,11 +13,10 @@ tel: +38 067 644 48 04
     'category': 'Theme',
     #'depends': ['website', 'website_theme_install', 'theme_default', 'website_crm', 'website_animate', 'theme_common'],
     'depends': ['website', 'website_theme_install', 'theme_default', 'website_crm'],
-    'data': [         
-        'views/templates.xml',
-        'views/assets.xml'
+    'demo': [        
+        
     ],
-    'demo': [
+    'data': [
         ### loading images ###
         'data/page_common_img.xml',
         'data/page_components_img.xml',
