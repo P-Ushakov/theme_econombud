@@ -587,16 +587,10 @@
 																<figure class="figure">
 																</figure>
 																<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/lU6y3lbKh6g?autoplay=0&amp;rel=0">
-																	<div class="css_editable_mode_display" data-original-title="Утепление церкви" title="Утепление церкви"></div>
+																	<div class="css_editable_mode_display" data-original-title="Утепление церкви" title="Утепление церкви"/>
 																	<div class="media_iframe_video_size">&amp;nbsp;</div>
 																	<iframe src="//www.youtube.com/embed/lU6y3lbKh6g?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
 																</div>
-																<figure class="figure">
-																	<figcaption class="figure-caption py-3 text-center">
-																		<i class="fa fa-1x fa-picture-o mr-2"/>
-Утепление церкви
-																	</figcaption>
-																</figure>
 															</div>
 														</div>
 													</div>
@@ -611,16 +605,10 @@
 																<figure class="figure">
 																</figure>
 																<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/H740RDFGG1s?autoplay=0&amp;rel=0">
-																	<div class="css_editable_mode_display" data-original-title="Теплоизоляция дома" title="Теплоизоляция дома"></div>
+																	<div class="css_editable_mode_display" data-original-title="Теплоизоляция дома" title="Теплоизоляция дома"/>
 																	<div class="media_iframe_video_size">&amp;nbsp;</div>
 																	<iframe src="//www.youtube.com/embed/H740RDFGG1s?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
 																</div>
-																<figure class="figure">
-																	<figcaption class="figure-caption py-3 text-center">
-																		<i class="fa fa-1x fa-picture-o mr-2"/>
-Теплоизоляция дома
-																	</figcaption>
-																</figure>
 															</div>
 														</div>
 													</div>
@@ -648,6 +636,7 @@
 						</div>
 					</t>
 				</t>
+			
 			</field>
 		</record>
 

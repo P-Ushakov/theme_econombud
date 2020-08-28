@@ -10,19 +10,113 @@
 				<t name="certification" priority="60" t-name="website.certification">
 					<t t-call="website.layout">
 						<!--<t t-set="pageName" t-value="'certification'"/>-->
-						<div id="wrap">
+						<div id="wrap" class="">
 							<div id="page-top"/>
 							<div class="oe_structure">
-
-								<!--start of main carousel-->
 								<section class="main_carousel">
 									<div id="myCarousel1590767560896" class="s_carousel carousel carousel-fade slide s_carousel_default" data-interval="10000" data-name="Carousel">
 										<ol class="carousel-indicators">
-											<li data-target="#myCarousel1590767560896" data-slide-to="0" class="active"/>
-											<li data-target="#myCarousel1590767560896" data-slide-to="1"/>
+											<li data-target="#myCarousel1590767560896" data-slide-to="0"/>
+											<li data-target="#myCarousel1590767560896" data-slide-to="1" class="active"/>
 											<li data-target="#myCarousel1590767560896" data-slide-to="2"/>
 										</ol>
 										<div class="carousel-inner ">
+											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item bg-black-50 pb16" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/franchise/original_hands-holding-wallet-with-money_t20_JYRX24.jpg&quot;); background-position: 48.49% 19.09%;"/>
+												<div class="container">
+													<div class="row s_nb_column_fixed">
+														<div class="col-lg-9 bg-none jumbotron pt32 pb32 rounded" data-name="Box">
+															<div class="row">
+																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
+																	<h4>Первая франшиза в Украине по гидро- и теплоизоляции</h4>
+																</div>
+																<div class="col-lg-12 s_title s_col_no_bgcolor pb0" data-name="Title">
+																	<h1 class="s_title_thin">
+																		<font style="" class="o_default_snippet_text">
+																			<b>Начни 
+																				<span class="text-warning">
+																					<strong>свой бизнес</strong>
+																				</span> на двух самых популярных строительных услугах						
+																			</b>
+																		</font>
+																	</h1>
+																</div>
+																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb0" data-name="Title">
+																	<h3>Начните зарабатывать																		<b>от $3000</b> на тепло- и гидроизоляции с нуля																		<b>в своем городе</b> под нашим руководством
+																	</h3>
+																</div>
+																<div class="col-lg-12 pt0 s_col_no_bgcolor s_title pb8" data-name="Title">
+																	<h4 style="font-size:0.8em">*результат гарантируем при соблюдении нашей финансовой модели</h4>
+																</div>
+																<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
+																	<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<section class="s_three_columns pt0 pb0" data-name="Columns" style="">
+													<div class="container-fluid">
+														<div class="row d-flex align-items-stretch">
+															<div class="s_col_no_bgcolor pb16 pt0 col-lg-1 col-md-2">
+																<div class="card bg-black-50">
+																	<div class="row d-flex align-items-stretch no-gutters">
+																		<div class="s_share col-lg-12 text-center" data-name="Share">
+																			<p class="pt16">
+																				<a href="https://www.facebook.com/ekonombud.ua" class="btn btn-md btn-link my_grid_title">
+																					<i class="fa fa-3x fa-facebook-square"/>
+																				</a>
+																				<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured" class="btn btn-md btn-link my_grid_title">
+																					<i class="fa fa-3x fa-youtube-play"/>
+																				</a>
+																				<a href="https://www.instagram.com/ekonombud_ua" class="btn btn-md btn-link my_grid_title">
+																					<i class="fa fa-3x fa-instagram"/>
+																				</a>
+																			</p>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<span class="card-img-top d-block fa fa-signal mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h4 class="card-title text-center">Растущий спрос</h4>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<span class="card-img-top d-block fa fa-pie-chart mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h4 class="card-title text-center">Низкая конкуренция</h4>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<span class="card-img-top d-block fa fa-thumbs-up mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h4 class="card-title text-center">Легкий старт бизнеса</h4>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<span class="card-img-top d-block fa fa-stack-overflow mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h4 class="card-title text-center">Высокий средний чек</h4>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<span class="card-img-top d-block fa fa-group mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h4 class="card-title text-center">Поток готовых клиентов</h4>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
+																<div class="card bg-black-50" style="">
+																	<span class="card-img-top d-block fa fa-lightbulb-o mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h4 class="card-title text-center">Полное обучение технологиям</h4>
+																</div>
+															</div>
+														</div>
+													</div>
+												</section>
+											</section>
 											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item bg-black-50 pb16 active" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
 												<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/franchise/original_hands-holding-wallet-with-money_t20_JYRX24.jpg&quot;); background-position: 48.49% 19.09%;"/>
 												<div class="container">
@@ -62,13 +156,6 @@
 														<div class="row d-flex align-items-stretch">
 															<div class="s_col_no_bgcolor pb16 pt0 col-lg-1 col-md-2">
 																<div class="card bg-black-50">
-																	<!-- <div class="card-footer">
-																		<h2 class="card-title">
-																			<font style="" class="o_default_snippet_text">Наши преимущества перед																				<span class="text-warning">85%</span> компаний на рынке:
-																			</font>
-																		</h2>
-																		<p class="card-text"/>
-																	</div> -->
 																	<div class="row d-flex align-items-stretch no-gutters">
 																		<div class="s_share col-lg-12 text-center" data-name="Share">
 																			<p class="pt16">
@@ -122,12 +209,10 @@
 																	<h4 class="card-title text-center">Полное обучение технологиям</h4>
 																</div>
 															</div>
-
 														</div>
 													</div>
 												</section>
 											</section>
-
 											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item bg-black-50 pb16" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
 												<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/franchise/original_hands-holding-wallet-with-money_t20_JYRX24.jpg&quot;); background-position: 48.49% 19.09%;"/>
 												<div class="container">
@@ -167,13 +252,6 @@
 														<div class="row d-flex align-items-stretch">
 															<div class="s_col_no_bgcolor pb16 pt0 col-lg-1 col-md-2">
 																<div class="card bg-black-50">
-																	<!-- <div class="card-footer">
-																		<h2 class="card-title">
-																			<font style="" class="o_default_snippet_text">Наши преимущества перед																				<span class="text-warning">85%</span> компаний на рынке:
-																			</font>
-																		</h2>
-																		<p class="card-text"/>
-																	</div> -->
 																	<div class="row d-flex align-items-stretch no-gutters">
 																		<div class="s_share col-lg-12 text-center" data-name="Share">
 																			<p class="pt16">
@@ -227,129 +305,13 @@
 																	<h4 class="card-title text-center">Полное обучение технологиям</h4>
 																</div>
 															</div>
-
-														</div>
-													</div>
-												</section>
-											</section>
-
-											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item bg-black-50 pb16" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
-												<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/franchise/original_hands-holding-wallet-with-money_t20_JYRX24.jpg&quot;); background-position: 48.49% 19.09%;"/>
-												<div class="container">
-													<div class="row s_nb_column_fixed">
-														<div class="col-lg-9 bg-none jumbotron pt32 pb32 rounded" data-name="Box">
-															<div class="row">
-																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
-																	<h4>Первая франшиза в Украине по гидро- и теплоизоляции</h4>
-																</div>
-																<div class="col-lg-12 s_title s_col_no_bgcolor pb0" data-name="Title">
-																	<h1 class="s_title_thin">
-																		<font style="" class="o_default_snippet_text">
-																			<b>Начни 
-																				<span class="text-warning">
-																					<strong>свой бизнес</strong>
-																				</span> на двух самых популярных строительных услугах						
-																			</b>
-																		</font>
-																	</h1>
-																</div>
-																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb0" data-name="Title">
-																	<h3>Начните зарабатывать																		<b>от $3000</b> на тепло- и гидроизоляции с нуля																		<b>в своем городе</b> под нашим руководством
-																	</h3>
-																</div>
-																<div class="col-lg-12 pt0 s_col_no_bgcolor s_title pb8" data-name="Title">
-																	<h4 style="font-size:0.8em">*результат гарантируем при соблюдении нашей финансовой модели</h4>
-																</div>
-																<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
-																	<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-												<section class="s_three_columns pt0 pb0" data-name="Columns" style="">
-													<div class="container-fluid">
-														<div class="row d-flex align-items-stretch">
-															<div class="s_col_no_bgcolor pb16 pt0 col-lg-1 col-md-2">
-																<div class="card bg-black-50">
-																	<!-- <div class="card-footer">
-																		<h2 class="card-title">
-																			<font style="" class="o_default_snippet_text">Наши преимущества перед																				<span class="text-warning">85%</span> компаний на рынке:
-																			</font>
-																		</h2>
-																		<p class="card-text"/>
-																	</div> -->
-																	<div class="row d-flex align-items-stretch no-gutters">
-																		<div class="s_share col-lg-12 text-center" data-name="Share">
-																			<p class="pt16">
-																				<a href="https://www.facebook.com/ekonombud.ua" class="btn btn-md btn-link my_grid_title">
-																					<i class="fa fa-3x fa-facebook-square"/>
-																				</a>
-																				<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured" class="btn btn-md btn-link my_grid_title">
-																					<i class="fa fa-3x fa-youtube-play"/>
-																				</a>
-																				<a href="https://www.instagram.com/ekonombud_ua" class="btn btn-md btn-link my_grid_title">
-																					<i class="fa fa-3x fa-instagram"/>
-																				</a>
-																			</p>
-																		</div>
-																	</div>
-																</div>
-															</div>
-															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
-																<div class="card bg-black-50" style="">
-																	<span class="card-img-top d-block fa fa-signal mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Растущий спрос</h4>
-																</div>
-															</div>
-															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
-																<div class="card bg-black-50" style="">
-																	<span class="card-img-top d-block fa fa-pie-chart mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Низкая конкуренция</h4>
-																</div>
-															</div>
-															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
-																<div class="card bg-black-50" style="">
-																	<span class="card-img-top d-block fa fa-thumbs-up mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Легкий старт бизнеса</h4>
-																</div>
-															</div>
-															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
-																<div class="card bg-black-50" style="">
-																	<span class="card-img-top d-block fa fa-stack-overflow mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Высокий средний чек</h4>
-																</div>
-															</div>
-															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
-																<div class="card bg-black-50" style="">
-																	<span class="card-img-top d-block fa fa-group mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Поток готовых клиентов</h4>
-																</div>
-															</div>
-															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
-																<div class="card bg-black-50" style="">
-																	<span class="card-img-top d-block fa fa-lightbulb-o mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Полное обучение технологиям</h4>
-																</div>
-															</div>
-
 														</div>
 													</div>
 												</section>
 											</section>
 										</div>
-										<!-- <div class="carousel-control-prev" data-target="#myCarousel1590767560896" data-slide="prev" role="img" aria-label="Previous" title="Previous">
-											<span class="carousel-control-prev-icon"/>
-											<span class="sr-only o_default_snippet_text">Previous</span>
-										</div>
-										<div class="carousel-control-next" data-target="#myCarousel1590767560896" data-slide="next" role="img" aria-label="Next" title="Next">
-											<span class="carousel-control-next-icon"/>
-											<span class="sr-only o_default_snippet_text">Next</span>
-									</div> -->
 									</div>
 								</section>
-								<!--end of main carousel-->
-
 								<section class="pb0 pt32" data-name="Title">
 									<div class="container">
 										<div class="row s_nb_column_fixed">
@@ -357,7 +319,6 @@
 												<h2 class="s_title_default">
 													<b>Почему сейчас														<span class="blue-text">идеальное</span> время,
 													</b>
-													<!-- <br/> -->
 												</h2>
 											</div>
 										</div>
@@ -372,7 +333,6 @@
 										</div>
 									</div>
 								</section>
-
 								<section class="container-fluid">
 									<div class="row d-flex justify-content-center">
 										<div class="col-6 col-lg-3 blue-line">
@@ -380,15 +340,12 @@
 										</div>
 									</div>
 								</section>
-
-								<!-- Cards -->
 								<section class="s_three_columns pt0 pb0" data-name="Columns" style="">
 									<div class="container">
 										<div class="row d-flex align-items-stretch">
 											<div class="s_col_no_bgcolor pb16 pt16 col-sm-12 col-md-6">
 												<div class="card bg-light-blue" style="">
 													<img class="card-img-top d-block mx-auto o_we_custom_image padding-xl" style="height:150px" src="/theme_econombud/static/src/img/common/icons/i-fr-1.svg"/>
-													<!-- <span class="card-img-top d-block fa fa-tree mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/> -->
 													<h3 class="card-title text-center p-1">
 														<b>Растущий спрос</b>
 													</h3>
@@ -398,7 +355,6 @@
 											<div class="s_col_no_bgcolor pb16 pt16 col-sm-12 col-md-6">
 												<div class="card bg-light-blue" style="">
 													<img class="card-img-top d-block mx-auto o_we_custom_image padding-xl" style="height:150px" src="/theme_econombud/static/src/img/common/icons/i-fr-2.svg"/>
-													<!-- <span class="card-img-top d-block fa fa-rocket mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/> -->
 													<h3 class="card-title text-center p-1">
 														<b>Низкая конкуренция</b>
 													</h3>
@@ -408,7 +364,6 @@
 											<div class="s_col_no_bgcolor pb16 pt16 col-sm-12 col-md-6">
 												<div class="card bg-light-blue" style="">
 													<img class="card-img-top d-block mx-auto o_we_custom_image padding-xl" style="height:150px" src="/theme_econombud/static/src/img/common/icons/i-fr-3.svg"/>
-													<!-- <span class="card-img-top d-block fa fa-thumbs-up mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/> -->
 													<h3 class="card-title text-center p-1">
 														<b>Легкий старт</b>
 													</h3>
@@ -418,18 +373,15 @@
 											<div class="s_col_no_bgcolor pb16 pt16 col-sm-12 col-md-6">
 												<div class="card bg-light-blue" style="">
 													<img class="card-img-top d-block mx-auto o_we_custom_image padding-xl" style="height:150px" src="/theme_econombud/static/src/img/common/icons/i-fr-4.svg"/>
-													<!-- <span class="card-img-top d-block fa fa-shield mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/> -->
 													<h3 class="card-title text-center p-1">
 														<b>Высокий средний чек</b>
 													</h3>
 													<p class="card-text text-center p-3">Средняя стоимость услуг начинается с 2000$, что дает возможность быстро выйти на окупаемость и начать получать пятизначную прибыль.</p>
 												</div>
 											</div>
-
 										</div>
 									</div>
 								</section>
-
 								<section class="pb0 pt16 mt32 bg-light-blue" data-name="Title">
 									<div class="container">
 										<div class="row s_nb_column_fixed">
@@ -437,7 +389,6 @@
 												<h2 class="s_title_default">
 													<b>Кому														<span class="blue-text">идеально подойдет</span> наша франшиза
 													</b>
-													<!-- <br/> -->
 												</h2>
 											</div>
 										</div>
@@ -452,7 +403,6 @@
 										</div>
 									</div>
 								</section>
-
 								<section class="container-fluid bg-light-blue">
 									<div class="row d-flex justify-content-center">
 										<div class="col-6 col-lg-3 blue-line">
@@ -460,8 +410,6 @@
 										</div>
 									</div>
 								</section>
-
-								<!--Banner-->
 								<section class="s_text_image pt32 pb32 bg-light-blue" data-name="Image - Text">
 									<div class="container">
 										<div class="row align-items-center">
@@ -471,20 +419,18 @@
 											<div class="col-lg-6 pt16 pb16">
 												<h3 class="o_default_snippet_text">Строительным компаниям</h3>
 												<p class="o_default_snippet_text">Вы значительно повысите прибыль компании за счет 2-х востребованных услуг или откроете отдельный налаженный бизнес под нашим руководством.</p>
-												<p class="o_default_snippet_text"></p>
+												<p class="o_default_snippet_text"/>
 											</div>
 										</div>
 									</div>
 								</section>
-
-								<!-- Banner-->
 								<section class="s_text_image pt32 pb32 bg-light-blue" data-name="Text - Image">
 									<div class="container">
 										<div class="row align-items-center">
 											<div class="col-lg-6 pt16 pb16">
 												<h3 class="o_default_snippet_text">Предпринимателям</h3>
 												<p class="o_default_snippet_text">Вы ищете идеи для прибыльного бизнеса и хотите быть среди первых кто получит максимальную прибыль на фактически неосвоенном рынке.</p>
-												<p class="o_default_snippet_text"></p>
+												<p class="o_default_snippet_text"/>
 												<div class="s_btn text-left pb16 pt16" data-name="Buttons">
 													<a href="#" class="btn btn-warning rounded-circle btn-lg o_default_snippet_text" data-original-title="" title="">ЗАКАЗАТЬ КОНСУЛЬТАЦИЮ</a>
 												</div>
@@ -495,7 +441,6 @@
 										</div>
 									</div>
 								</section>
-
 								<section class="pb0 pt32" data-name="Title">
 									<div class="container">
 										<div class="row s_nb_column_fixed">
@@ -503,7 +448,6 @@
 												<h2 class="s_title_default">
 													<b>Мы –														<span class="blue-text">передовая</span> компания
 													</b>
-													<!-- <br/> -->
 												</h2>
 											</div>
 										</div>
@@ -518,7 +462,6 @@
 										</div>
 									</div>
 								</section>
-
 								<section class="container-fluid">
 									<div class="row d-flex justify-content-center">
 										<div class="col-6 col-lg-3 blue-line">
@@ -526,8 +469,6 @@
 										</div>
 									</div>
 								</section>
-
-								<!-- timeline-->
 								<section class="pt16 pb16">
 									<div class="container">
 										<div class="row">
@@ -535,7 +476,7 @@
 												<div class="main-timeline">
 													<a href="#" class="timeline">
 														<div class="timeline-icon">
-															<i class="fa fa-gears"></i>
+															<i class="fa fa-gears"/>
 														</div>
 														<div class="timeline-content">
 															<h3 class="title">Своя линейка оборудования</h3>
@@ -546,7 +487,7 @@
 													</a>
 													<a href="#" class="timeline">
 														<div class="timeline-icon">
-															<i class="fa fa-flask"></i>
+															<i class="fa fa-flask"/>
 														</div>
 														<div class="timeline-content">
 															<h3 class="title">Улучшенная технология нанесения</h3>
@@ -557,7 +498,7 @@
 													</a>
 													<a href="#" class="timeline">
 														<div class="timeline-icon">
-															<i class="fa fa-truck"></i>
+															<i class="fa fa-truck"/>
 														</div>
 														<div class="timeline-content">
 															<h3 class="title">Продажа компонентов из Европы</h3>
@@ -568,7 +509,7 @@
 													</a>
 													<a href="#" class="timeline">
 														<div class="timeline-icon">
-															<i class="fa fa-thumbs-up"></i>
+															<i class="fa fa-thumbs-up"/>
 														</div>
 														<div class="timeline-content">
 															<h3 class="title">Повышенная гарантия</h3>
@@ -582,7 +523,6 @@
 										</div>
 									</div>
 								</section>
-								<!-- Form quality -->
 								<section class="s_cover parallax s_parallax_is_fixed bg-black-50 pt64 pb64 s_parallax_no_overflow_hidden" data-scroll-background-ratio="1" data-name="Cover" style="background-image: none;">
 									<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/common/bg/bg-gydro-quality.jpg'); background-position: 50% 0;"/>
 									<div class="container">
@@ -590,18 +530,6 @@
 											<div class="col-lg-12 s_btn text-left pt8 pb16" data-name="Buttons">
 												<h3 class="btn btn-light o_default_snippet_text">БЕСПЛАТНО</h3>
 											</div>
-											<!-- <div class="col-lg-12 s_btn text-left pt16 pb16" data-name="Buttons">
-											<a href="#" class="btn btn-delta rounded-circle o_default_snippet_text">БЕСПЛАТНО</a>											
-										</div>
-
-										<div class="col-lg-12 s_title" data-name="Title">
-											<h1 class="s_title_thin o_default_snippet_text" style="text-align: left;">Хотите <span class="text-warning">проверить качество</span> материалов?
-											</h1>
-										</div>
-										<div class="col-lg-12 s_text pt16 pb16" data-name="Text">
-											<h3 class="lead o_default_snippet_text" style="text-align: left;">Оставьте контакты и мы отправим образец в любой город Новой Почтой</h3>
-										</div> -->
-
 											<form action="/website_form/" method="post" class="col-lg-12 px-3 s_website_form container-fluid mt32 o_fake_not_editable" enctype="multipart/form-data" data-name="Form Builder" data-model_name="crm.lead" data-success_page="/contactus-thank-you">
 												<div class="container">
 													<h2 class="o_form_heading">
@@ -661,11 +589,9 @@
 													</div>
 												</div>
 											</form>
-
 										</div>
 									</div>
 								</section>
-
 								<section class="pb0 pt32" data-name="Title">
 									<div class="container">
 										<div class="row s_nb_column_fixed">
@@ -679,7 +605,6 @@
 										</div>
 									</div>
 								</section>
-
 								<section class="pt0 pb0" data-name="Title">
 									<div class="container">
 										<div class="row s_nb_column_fixed">
@@ -695,15 +620,12 @@
 										</div>
 									</div>
 								</section>
-
-								<!--Cards-->
 								<section class="s_three_columns pt0 pb0" data-name="Columns" style="">
 									<div class="container">
 										<div class="row d-flex align-items-stretch">
 											<div class="s_col_no_bgcolor pb16 pt16 col-sm-12 col-md-6">
 												<div class="card bg-light-blue" style="">
 													<img class="card-img-top d-block mx-auto o_we_custom_image padding-xl" style="height:150px" src="/theme_econombud/static/src/img/common/icons/i-get-1.svg"/>
-													<!-- <span class="card-img-top d-block fa fa-tree mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/> -->
 													<h3 class="card-title text-center p-1">
 														<b>Поток готовых клиентов</b>
 													</h3>
@@ -713,7 +635,6 @@
 											<div class="s_col_no_bgcolor pb16 pt16 col-sm-12 col-md-6">
 												<div class="card bg-light-blue" style="">
 													<img class="card-img-top d-block mx-auto o_we_custom_image padding-xl" style="height:150px" src="/theme_econombud/static/src/img/common/icons/i-get-2.svg"/>
-													<!-- <span class="card-img-top d-block fa fa-rocket mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/> -->
 													<h3 class="card-title text-center p-1">
 														<b>Полное обучение технологиям</b>
 													</h3>
@@ -723,7 +644,6 @@
 											<div class="s_col_no_bgcolor pb16 pt16 col-sm-12 col-md-6">
 												<div class="card bg-light-blue" style="">
 													<img class="card-img-top d-block mx-auto o_we_custom_image padding-xl" style="height:150px" src="/theme_econombud/static/src/img/common/icons/i-get-3.svg"/>
-													<!-- <span class="card-img-top d-block fa fa-thumbs-up mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/> -->
 													<h3 class="card-title text-center p-1">
 														<b>Безупречную репутацию</b>
 													</h3>
@@ -733,25 +653,21 @@
 											<div class="s_col_no_bgcolor pb16 pt16 col-sm-12 col-md-6">
 												<div class="card bg-light-blue" style="">
 													<img class="card-img-top d-block mx-auto o_we_custom_image padding-xl" style="height:150px" src="/theme_econombud/static/src/img/common/icons/i-get-1.svg"/>
-													<!-- <span class="card-img-top d-block fa fa-shield mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/> -->
 													<h3 class="card-title text-center p-1">
 														<b>Гарантированный выход на окупаемость</b>
 													</h3>
 													<p class="card-text text-left p-3">Гарантированный выход на окупаемость. Вы застрахуете себя от возможных ошибок в бизнесе, поскольку мы передадим весь опыт. От создания компании, найма работников, заключения сделок и до реализации крупных промышленных объектов. Более того, мы буквально за руку доведем вас до точки окупаемости в кратчайшие сроки.</p>
 												</div>
 											</div>
-
 										</div>
 									</div>
 								</section>
-
 								<section class="pb0 mt32 pt16 bg-light-blue" data-name="Title">
 									<div class="container">
 										<div class="row s_nb_column_fixed">
 											<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
 												<h2 class="s_title_default">
 													<b>Выберите вариант сотрудничества,</b>
-													<!-- <br/> -->
 												</h2>
 											</div>
 										</div>
@@ -766,7 +682,6 @@
 										</div>
 									</div>
 								</section>
-
 								<section class="container-fluid bg-light-blue">
 									<div class="row d-flex justify-content-center">
 										<div class="col-6 col-lg-3 blue-line">
@@ -774,17 +689,8 @@
 										</div>
 									</div>
 								</section>
-
-								<!--Compare cards-->
 								<section class="s_comparisons pt32 pb24 bg-light-blue" data-name="Comparisons">
 									<div class="container">
-										<!-- <div class="row s_nb_column_fixed">
-										<div class="col-lg-12 s_title pt16 pb16" style="text-align: center;">
-											<h1 class="s_title_thin">
-											<font style="font-size: 62px;" class="o_default_snippet_text">Our offers</font>
-											</h1>
-										</div>
-										</div> -->
 										<div class="row">
 											<div class="col-lg-4 s_col_no_bgcolor text-center pt16 pb16" data-name="Box">
 												<section class="pb0 pt0 bg-black-50 oe_img_bg oe_custom_bg d-block mx-auto" data-name="Title" style="background-image: url(&quot;/theme_econombud/static/src/img/franchise/picture2_kak-biznes-mozhet_348140_p0.jpg&quot;);">
@@ -800,17 +706,6 @@
 													</div>
 												</section>
 												<div class="card bg-light">
-													<!-- <h4 class="card-header o_default_snippet_text">Beginner</h4>
-													<div class="card-body text-center">
-														<h2 class="card-title">
-															<span class="s_comparisons_currency o_default_snippet_text">$</span>
-															<span class="s_comparisons_price">
-																<b class="o_default_snippet_text">35</b>
-															</span>
-															<span class="s_comparisons_decimal o_default_snippet_text">.00</span>
-														</h2>
-														<small class="o_default_snippet_text">/ month</small>
-													</div> -->
 													<ul class="list-group list-group-flush">
 														<li class="list-group-item o_default_snippet_text row no-gutters d-flex justify-content-between">
 															<div class="col-8 text-left">Паушальный взнос</div>
@@ -867,17 +762,6 @@
 													</div>
 												</section>
 												<div class="card bg-primary">
-													<!-- <h4 class="card-header o_default_snippet_text">Professional</h4>
-													<div class="card-body">
-														<h2 class="card-title">
-															<span class="s_comparisons_currency o_default_snippet_text">$</span>
-															<span class="s_comparisons_price">
-																<b class="o_default_snippet_text">65</b>
-															</span>
-															<span class="s_comparisons_decimal o_default_snippet_text">.00</span>
-														</h2>
-														<small class="o_default_snippet_text">/ month</small>
-													</div> -->
 													<ul class="list-group list-group-flush">
 														<li class="list-group-item o_default_snippet_text row no-gutters d-flex justify-content-between">
 															<div class="col-8 text-left">Паушальный взнос</div>
@@ -938,17 +822,6 @@
 													</div>
 												</section>
 												<div class="card bg-secondary">
-													<!-- <h4 class="card-header o_default_snippet_text">Expert</h4>
-													<div class="card-body text-center">
-														<h2 class="card-title">
-															<span class="s_comparisons_currency o_default_snippet_text">$</span>
-															<span class="s_comparisons_price">
-																<b class="o_default_snippet_text">125</b>
-															</span>
-															<span class="s_comparisons_decimal o_default_snippet_text">.00</span>
-														</h2>
-														<small class="o_default_snippet_text">/ month</small>
-													</div> -->
 													<ul class="list-group list-group-flush">
 														<li class="list-group-item o_default_snippet_text row no-gutters d-flex justify-content-between">
 															<div class="col-8 text-left">Паушальный взнос</div>
@@ -1006,20 +879,17 @@
 										</div>
 									</div>
 								</section>
-
 								<section class="pb0 pt32" data-name="Title">
 									<div class="container">
 										<div class="row s_nb_column_fixed">
 											<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
 												<h2 class="s_title_default">
 													<b>Финансовая модель</b>
-													<!-- <br/> -->
 												</h2>
 											</div>
 										</div>
 									</div>
 								</section>
-
 								<section class="container-fluid">
 									<div class="row d-flex justify-content-center">
 										<div class="col-6 col-lg-3 blue-line">
@@ -1027,19 +897,15 @@
 										</div>
 									</div>
 								</section>
-
-								<!--Fin model (img)-->
 								<section class="s_picture bg-none pt24 pb24 px-0" data-name="Picture">
 									<div class="container px-0">
 										<div class="row s_nb_column_fixed d-flex justify-content-center px-0  no-gutters">
 											<div class="pb0 col-xl-12 px-0">
-												<!-- <img src="/theme_econombud/static/src/img/franchise/fin_model.png" class="figure-img img-fluid" alt="Финансовая модель" data-original-title="Финансовая модель" title="Финансовая модель" style="width: 100%; height:auto;"/> -->
 												<img src="/theme_econombud/static/src/img/franchise/fin_model.png" class="figure-img d-block mx-auto" alt="Финансовая модель" data-original-title="Финансовая модель" title="Финансовая модель" style="width: 100%; height:auto;"/>
 											</div>
 										</div>
 									</div>
 								</section>
-
 								<section class="pb0 pt32 bg-200" data-name="Title">
 									<div class="container">
 										<div class="row s_nb_column_fixed">
@@ -1047,7 +913,6 @@
 												<h2 class="s_title_default">
 													<b>Что														<span class="blue-text">говорят клиенты</span> о нашей компании
 													</b>
-													<!-- <br/> -->
 												</h2>
 											</div>
 										</div>
@@ -1062,7 +927,6 @@
 										</div>
 									</div>
 								</section>
-
 								<section class="container-fluid bg-200">
 									<div class="row d-flex justify-content-center">
 										<div class="col-6 col-lg-3 blue-line">
@@ -1070,9 +934,7 @@
 										</div>
 									</div>
 								</section>
-
-								<!--YT video one frame-->
-								<section class="s_three_columns bg-200 pt16 pb0" data-name="Columns">
+								<section class="s_three_columns bg-200 pt4 pb16" data-name="Columns">
 									<div class="container">
 										<div class="row d-flex align-items-stretch justify-content-center">
 											<div class="s_col_no_bgcolor pt16 col-lg-7 no-gutters pb16">
@@ -1083,26 +945,18 @@
 																<figure class="figure">
 																</figure>
 																<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/NjZw3_iJlr4?autoplay=0&amp;rel=0">
-																	<div class="css_editable_mode_display" data-original-title="Гидроизоляция автомобилей" title="Гидроизоляция автомобилей"></div>
+																	<div class="css_editable_mode_display" data-original-title="Гидроизоляция автомобилей" title="Гидроизоляция автомобилей"/>
 																	<div class="media_iframe_video_size">&amp;nbsp;</div>
 																	<iframe src="//www.youtube.com/embed/NjZw3_iJlr4?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
 																</div>
-																<figure class="figure">
-																	<figcaption class="figure-caption py-3 text-center">
-																		<i class="fa fa-1x fa-picture-o mr-2"/>
-Гидроизоляция автомобилей
-																	</figcaption>
-																</figure>
 															</div>
 														</div>
 													</div>
-
 												</section>
 											</div>
 										</div>
 									</div>
 								</section>
-
 								<section class="pb0 pt32" data-name="Title">
 									<div class="container">
 										<div class="row s_nb_column_fixed">
@@ -1110,7 +964,6 @@
 												<h2 class="s_title_default">
 													<b>Мы работаем														<span class="blue-text">только с 1 представителем</span>
 													</b>
-													<!-- <br/> -->
 												</h2>
 											</div>
 										</div>
@@ -1125,7 +978,6 @@
 										</div>
 									</div>
 								</section>
-
 								<section class="container-fluid">
 									<div class="row d-flex justify-content-center">
 										<div class="col-6 col-lg-3 blue-line">
@@ -1133,8 +985,6 @@
 										</div>
 									</div>
 								</section>
-
-								<!-- Map of Ukraine (img)-->
 								<section class="s_picture bg-none pt24 pb24" data-name="Picture">
 									<div class="container">
 										<div class="row s_nb_column_fixed d-flex justify-content-center">
@@ -1144,26 +994,12 @@
 										</div>
 									</div>
 								</section>
-
-								<!-- Form franchise-->
 								<section class="s_cover parallax s_parallax_is_fixed bg-black-50 pt64 pb64 s_parallax_no_overflow_hidden" data-scroll-background-ratio="1" data-name="Cover" style="background-image: none;">
 									<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/hydro/bg-hydro-form.jpg'); background-position: 50% 0;"/>
 									<div class="container">
 										<div class="row s_nb_column_fixed d-flex justify-content-end">
 											<div class="col-lg-6 s_btn text-left pt8 pb16" data-name="Buttons">
 												<h3 class="btn btn-light o_default_snippet_text">КОНСУЛЬТАЦИЯ</h3>
-
-												<!-- <div class="col-lg-12 s_btn text-left pt16 pb16" data-name="Buttons">
-														<a href="#" class="btn btn-delta rounded-circle o_default_snippet_text">БЕСПЛАТНО</a>											
-													</div>
-													<div class="col-lg-12 s_title" data-name="Title">
-														<h1 class="s_title_thin o_default_snippet_text" style="text-align: left;">Хотите <span class="text-warning">проверить качество</span> материалов?
-														</h1>
-													</div>
-													<div class="col-lg-12 s_text pt16 pb16" data-name="Text">
-														<h3 class="lead o_default_snippet_text" style="text-align: left;">Оставьте контакты и мы отправим образец в любой город Новой Почтой</h3>
-													</div> -->
-
 												<form action="/website_form/" method="post" class="s_website_form container-fluid mt32 o_fake_not_editable" enctype="multipart/form-data" data-name="Form Builder" data-model_name="crm.lead" data-success_page="/contactus-thank-you">
 													<div class="container">
 														<h2 class="o_form_heading">
@@ -1224,14 +1060,10 @@
 														</div>
 													</div>
 												</form>
-
 											</div>
-
 										</div>
 									</div>
 								</section>
-								<!--end of form franchise-->
-
 								<section class="pb0 pt32 bg-light-blue" data-name="Title">
 									<div class="container">
 										<div class="row s_nb_column_fixed">
@@ -1243,7 +1075,6 @@
 										</div>
 									</div>
 								</section>
-
 								<section class="pt0 pb0 bg-light-blue" data-name="Title">
 									<div class="container">
 										<div class="row s_nb_column_fixed">
@@ -1257,8 +1088,6 @@
 										</div>
 									</div>
 								</section>
-
-								<!--Equipment cards-->
 								<section class="s_comparisons pt32 pb24 bg-light-blue" data-name="Comparisons">
 									<div class="container">
 										<div class="row">
@@ -1369,7 +1198,6 @@
 										</div>
 									</div>
 								</section>
-								<!-- Buttons -->
 								<section class="pt0 pb16 bg-light-blue" data-name="Buttons">
 									<div class="container">
 										<div class="row d-flex justify-content-around">

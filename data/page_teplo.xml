@@ -355,7 +355,7 @@
 												<hr/>
 											</div>
 											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<p class="text-secondary"></p>
+												<p class="text-secondary"/>
 											</div>
 										</div>
 									</div>
@@ -644,7 +644,7 @@
 												<hr/>
 											</div>
 											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<p class="text-secondary"></p>
+												<p class="text-secondary"/>
 											</div>
 										</div>
 									</div>
@@ -658,7 +658,7 @@
 												<table class="table table-responsive table-striped table-bordered">
 													<thead class="thead-light">
 														<tr>
-															<th style="width: 16%; height:200px;" scope="col" class="bg-white"></th>
+															<th style="width: 16%; height:200px;" scope="col" class="bg-white"/>
 															<th style="width: 14%; height:200px; background-position: center; background-repeat: no-repeat; background-size: 100% auto; background-image: url(&quot;/theme_econombud/static/src/img/teplo/c-material.png&quot;);" scope="col" class="text-center bg-primary text-white font-weight-bold">Напыляемый пенополиуретан</th>
 															<th style="width: 14%; height:200px; background-position: center; background-repeat: no-repeat; background-size: 100% auto; background-image: url(&quot;/theme_econombud/static/src/img/teplo/c-teplo-compare-2.png&quot;);" scope="col" class="text-center bg-white">Экструдированный пенополистирол</th>
 															<th style="width: 14%; height:200px; background-position: center; background-repeat: no-repeat; background-size: 100% auto; background-image: url(&quot;/theme_econombud/static/src/img/teplo/c-teplo-compare-3.png&quot;);" scope="col" class="text-center bg-white">Минеральная вата</th>
@@ -788,7 +788,7 @@
 												<hr/>
 											</div>
 											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<p class="text-secondary"></p>
+												<p class="text-secondary"/>
 											</div>
 										</div>
 									</div>
@@ -802,7 +802,7 @@
 												<div class="main-timeline">
 													<a href="#" class="timeline">
 														<div class="timeline-icon">
-															<i class="fa fa-umbrella"></i>
+															<i class="fa fa-umbrella"/>
 														</div>
 														<div class="timeline-content">
 															<h3 class="title">Гидроизоляция</h3>
@@ -813,7 +813,7 @@
 													</a>
 													<a href="#" class="timeline">
 														<div class="timeline-icon">
-															<i class="fa fa-home"></i>
+															<i class="fa fa-home"/>
 														</div>
 														<div class="timeline-content">
 															<h3 class="title">Шумоизоляция</h3>
@@ -824,7 +824,7 @@
 													</a>
 													<a href="#" class="timeline">
 														<div class="timeline-icon">
-															<i class="fa fa-shield"></i>
+															<i class="fa fa-shield"/>
 														</div>
 														<div class="timeline-content">
 															<h3 class="title">Пароизоляция</h3>
@@ -835,7 +835,7 @@
 													</a>
 													<a href="#" class="timeline">
 														<div class="timeline-icon">
-															<i class="fa fa-leaf"></i>
+															<i class="fa fa-leaf"/>
 														</div>
 														<div class="timeline-content">
 															<h3 class="title">Экологичность</h3>
@@ -856,7 +856,7 @@
 										<div class="row s_nb_column_fixed">
 											<div class="col-lg-12 s_title pb0 pt64" style="text-align: center;">
 												<h2 class="s_title_default">
-													<strong>С помощью ППУ мы <br/>
+													<strong>С помощью ППУ мы														<br/>
 														<span class="blue-text">успешно изолируем</span> любые сооружения,
 													</strong>
 												</h2>
@@ -876,7 +876,7 @@
 												<hr/>
 											</div>
 											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<p class="text-secondary"></p>
+												<p class="text-secondary"/>
 											</div>
 										</div>
 									</div>
@@ -1118,7 +1118,7 @@
 												<hr/>
 											</div>
 											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<p class="text-secondary"></p>
+												<p class="text-secondary"/>
 											</div>
 										</div>
 									</div>
@@ -1187,7 +1187,7 @@
 										<div class="row s_nb_column_fixed">
 											<div class="col-lg-12 s_title pt0 pb0" style="text-align: center;">
 												<h3 class="s_title_default">Как пенополиуретан решает проблему теплоизоляции разных покрытий</h3>
-											</div>											
+											</div>
 										</div>
 									</div>
 								</section>
@@ -1199,7 +1199,7 @@
 										</div>
 									</div>
 								</section>
-								
+
 								<!-- Gallery -->
 								<section class="s_three_columns bg-light-blue pt0 pb32" data-name="Columns">
 									<div class="container-fluid">
@@ -1216,7 +1216,7 @@
 																<p class="px-3" style="text-align: left;">Задача: 40% тепла из здания уходит через крышу</p>
 																<p class="px-3" style="text-align: left;">Утеплить помещение</p>
 																<p class="px-3" style="text-align: left;">Решение: пенополиуретан прекрасно вспенивается и выполняет свою функцию</p>
-															</div>															
+															</div>
 														</div>
 													</div>
 												</section>
@@ -1230,9 +1230,9 @@
 															</div>
 															<div class="pt16 pb16 my_grid_text" data-name="Text">
 																<p class="px-3" style="text-align: left;">Покрытие: гидробарьер</p>
-																<p class="px-3" style="text-align: left;">Задача: тепло- и звукоизоляция жилого дома</p>																
+																<p class="px-3" style="text-align: left;">Задача: тепло- и звукоизоляция жилого дома</p>
 																<p class="px-3" style="text-align: left;">Решение: решили передуть стены и крышу пенополиуретаном</p>
-															</div>															
+															</div>
 														</div>
 													</div>
 												</section>
@@ -1246,9 +1246,9 @@
 															</div>
 															<div class="pt16 pb16 my_grid_text" data-name="Text">
 																<p class="px-3" style="text-align: left;">Покрытие: бетонная поверхность</p>
-																<p class="px-3" style="text-align: left;">Задача: тепло- и гидроизоляции фундамента, сохранение тепла в подвале и дома в целом</p>																
+																<p class="px-3" style="text-align: left;">Задача: тепло- и гидроизоляции фундамента, сохранение тепла в подвале и дома в целом</p>
 																<p class="px-3" style="text-align: left;">Решение: покрытие жесткой пеной</p>
-															</div>															
+															</div>
 														</div>
 													</div>
 												</section>
@@ -1262,9 +1262,9 @@
 															</div>
 															<div class="pt16 pb16 my_grid_text" data-name="Text">
 																<p class="px-3" style="text-align: left;">Покрытие: гидробарьер</p>
-																<p class="px-3" style="text-align: left;">Задача: утеплить квартиру на последнем этаже 8-этажного здания</p>																
+																<p class="px-3" style="text-align: left;">Задача: утеплить квартиру на последнем этаже 8-этажного здания</p>
 																<p class="px-3" style="text-align: left;">Решение: пенополиуретан идеально подходит для решения задач</p>
-															</div>															
+															</div>
 														</div>
 													</div>
 												</section>
@@ -1318,16 +1318,10 @@
 																<figure class="figure">
 																</figure>
 																<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/lU6y3lbKh6g?autoplay=0&amp;rel=0">
-																	<div class="css_editable_mode_display" data-original-title="Утепление церкви" title="Утепление церкви"></div>
+																	<div class="css_editable_mode_display" data-original-title="Утепление церкви" title="Утепление церкви"/>
 																	<div class="media_iframe_video_size">&amp;nbsp;</div>
 																	<iframe src="//www.youtube.com/embed/lU6y3lbKh6g?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
 																</div>
-																<figure class="figure">
-																	<figcaption class="figure-caption py-3 text-center">
-																		<i class="fa fa-1x fa-picture-o mr-2"/>
-Утепление церкви
-																	</figcaption>
-																</figure>
 															</div>
 														</div>
 													</div>
@@ -1342,16 +1336,10 @@
 																<figure class="figure">
 																</figure>
 																<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/H740RDFGG1s?autoplay=0&amp;rel=0">
-																	<div class="css_editable_mode_display" data-original-title="Теплоизоляция дома" title="Теплоизоляция дома"></div>
+																	<div class="css_editable_mode_display" data-original-title="Теплоизоляция дома" title="Теплоизоляция дома"/>
 																	<div class="media_iframe_video_size">&amp;nbsp;</div>
 																	<iframe src="//www.youtube.com/embed/H740RDFGG1s?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
 																</div>
-																<figure class="figure">
-																	<figcaption class="figure-caption py-3 text-center">
-																		<i class="fa fa-1x fa-picture-o mr-2"/>
-Теплоизоляция дома
-																	</figcaption>
-																</figure>
 															</div>
 														</div>
 													</div>
@@ -1365,7 +1353,7 @@
 								<section class="bg-200">
 									<div class="container">
 										<div class="row">
-											<div class="col-lg-12 s_btn text-center pb64 pt0" data-name="Button">
+											<div class="col-lg-12 s_btn text-center pb64 pt32" data-name="Button">
 												<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg" class="btn btn-danger rounded-circle btn-lg" target="_blank">
 													<b>БОЛЬШЕ НА НАШЕМ YOUTUBE КАНАЛЕ</b>
 												</a>
@@ -1379,6 +1367,7 @@
 						</div>
 					</t>
 				</t>
+
 			</field>
 		</record>
 		<record id="page_insulation_page" model="website.page">

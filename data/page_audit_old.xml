@@ -23,29 +23,33 @@
 										</ol>
 										<div class="carousel-inner ">
 											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item bg-black-50 pb16 active" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
-												<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/audit/aud-carousel-1.jpg&quot;); background-position: 64.9% 96.86%;"/>
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/teplo/bg-hero-teplo.jpg&quot;); background-position: 64.9% 96.86%;"/>
 												<div class="container">
 													<div class="row s_nb_column_fixed">
 														<div class="col-lg-9 bg-none jumbotron pt32 pb32 rounded" data-name="Box">
 															<div class="row">
 																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
-																	<h4>Энергоаудит зданий</h4>
+																	<h4>Утепление пенополиуретаном</h4>
 																</div>
 																<div class="col-lg-12 s_title s_col_no_bgcolor pb0" data-name="Title">
 																	<h1 class="s_title_thin">
 																		<font style="" class="o_default_snippet_text">
-																			<b>Выполним 																				
+																			<b>Экономьте 																				
 																				<span class="text-warning">
-																					<strong>энергоаудит</strong>
-																				</span> промышленных и жилых зданий
+																					<strong>до 60%</strong>
+																				</span> на отоплении каждый год в течение
 																				<span class="text-warning">
-																					<strong>с детальным отчетом</strong>
+																					<strong>20 лет</strong>
 																				</span>
 
 																			</b>
 																		</font>
 																	</h1>
-																</div>																
+																</div>
+																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
+																	<h3>При																		<b>любых тарифах</b> благодаря теплоизоляции пенополиуретаном
+																	</h3>
+																</div>
 																<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
 																	<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
 																</div>
@@ -85,31 +89,31 @@
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-tree mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Обозначим проблемы</h4>
+																	<h4 class="card-title text-center">Экологичность материала</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-rocket mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Предоставим детальный отчет</h4>
+																	<h4 class="card-title text-center">Быстрое отверждение</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-thumbs-up mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Проработаем варианты решений</h4>
+																	<h4 class="card-title text-center">Высокий срок эксплуатации</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-shield mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Поможем устранить проблемные места</h4>
+																	<h4 class="card-title text-center">Невероятная стойкость материала</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-umbrella mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Вернем тепло и уют вашему дому</h4>
+																	<h4 class="card-title text-center">Дополнительная защита от воды, пара и шума</h4>
 																</div>
 															</div>
 
@@ -118,29 +122,33 @@
 												</section>
 											</section>
 											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item bg-black-50 pb16" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
-												<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/audit/aud-carousel-2.jpg&quot;); background-position: 64.9% 96.86%;"/>
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/teplo/bg-hero-teplo.jpg&quot;); background-position: 64.9% 96.86%;"/>
 												<div class="container">
 													<div class="row s_nb_column_fixed">
 														<div class="col-lg-9 bg-none jumbotron pt32 pb32 rounded" data-name="Box">
 															<div class="row">
 																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
-																	<h4>Энергоаудит зданий</h4>
+																	<h4>Утепление пенополиуретаном</h4>
 																</div>
 																<div class="col-lg-12 s_title s_col_no_bgcolor pb0" data-name="Title">
 																	<h1 class="s_title_thin">
 																		<font style="" class="o_default_snippet_text">
-																			<b>Покажем 																				
+																			<b>Экономьте 																				
 																				<span class="text-warning">
-																					<strong>проблемные места,</strong>
-																				</span> через которые происходит основная 
+																					<strong>до 60%</strong>
+																				</span> на отоплении каждый год в течение
 																				<span class="text-warning">
-																					<strong>потеря тепла</strong>
+																					<strong>20 лет</strong>
 																				</span>
 
 																			</b>
 																		</font>
 																	</h1>
-																</div>																
+																</div>
+																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
+																	<h3>При																		<b>любых тарифах</b> благодаря теплоизоляции пенополиуретаном
+																	</h3>
+																</div>
 																<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
 																	<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
 																</div>
@@ -180,31 +188,31 @@
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-tree mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Обозначим проблемы</h4>
+																	<h4 class="card-title text-center">Экологичность материала</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-rocket mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Предоставим детальный отчет</h4>
+																	<h4 class="card-title text-center">Быстрое отверждение</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-thumbs-up mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Проработаем варианты решений</h4>
+																	<h4 class="card-title text-center">Высокий срок эксплуатации</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-shield mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Поможем устранить проблемные места</h4>
+																	<h4 class="card-title text-center">Невероятная стойкость материала</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-umbrella mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Вернем тепло и уют вашему дому</h4>
+																	<h4 class="card-title text-center">Дополнительная защита от воды, пара и шума</h4>
 																</div>
 															</div>
 
@@ -213,29 +221,33 @@
 												</section>
 											</section>
 											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item bg-black-50 pb16" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
-												<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/audit/aud-carousel-3.jpg&quot;); background-position: 64.9% 96.86%;"/>
+												<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-black-25" style="background-image: url(&quot;/theme_econombud/static/src/img/teplo/bg-hero-teplo.jpg&quot;); background-position: 64.9% 96.86%;"/>
 												<div class="container">
 													<div class="row s_nb_column_fixed">
 														<div class="col-lg-9 bg-none jumbotron pt32 pb32 rounded" data-name="Box">
 															<div class="row">
 																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
-																	<h4>Энергоаудит зданий</h4>
+																	<h4>Утепление пенополиуретаном</h4>
 																</div>
 																<div class="col-lg-12 s_title s_col_no_bgcolor pb0" data-name="Title">
 																	<h1 class="s_title_thin">
 																		<font style="" class="o_default_snippet_text">
-																			<b>Предложим 																				
+																			<b>Экономьте 																				
 																				<span class="text-warning">
-																					<strong>решения,</strong>
-																				</span> которые помогут сыкономить на отоплении,
+																					<strong>до 60%</strong>
+																				</span> на отоплении каждый год в течение
 																				<span class="text-warning">
-																					<strong>уберут влажность и улучшат комфорт</strong>
+																					<strong>20 лет</strong>
 																				</span>
 
 																			</b>
 																		</font>
 																	</h1>
-																</div>																
+																</div>
+																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
+																	<h3>При																		<b>любых тарифах</b> благодаря теплоизоляции пенополиуретаном
+																	</h3>
+																</div>
 																<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
 																	<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
 																</div>
@@ -275,31 +287,31 @@
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-tree mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Обозначим проблемы</h4>
+																	<h4 class="card-title text-center">Экологичность материала</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-rocket mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Предоставим детальный отчет</h4>
+																	<h4 class="card-title text-center">Быстрое отверждение</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-thumbs-up mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Проработаем варианты решений</h4>
+																	<h4 class="card-title text-center">Высокий срок эксплуатации</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-shield mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Поможем устранить проблемные места</h4>
+																	<h4 class="card-title text-center">Невероятная стойкость материала</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-umbrella mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Вернем тепло и уют вашему дому</h4>
+																	<h4 class="card-title text-center">Дополнительная защита от воды, пара и шума</h4>
 																</div>
 															</div>
 
@@ -319,39 +331,6 @@
 									</div>
 								</section>
 								<!--end of main carousel-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 								<section class="pb0 pt0" data-name="Title">
 									<div class="container">

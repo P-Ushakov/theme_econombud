@@ -1,0 +1,93 @@
+<odoo>
+    <data noupdate="1">
+    
+        <record id="theme_econombud.aud-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">aud-1.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/audit/aud-1.jpg</field>
+        </record>
+        <record id="theme_econombud.aud-2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">aud-2.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/audit/aud-2.jpg</field>
+        </record>
+        <record id="theme_econombud.aud-3" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">aud-3.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/audit/aud-3.jpg</field>
+        </record>
+        <record id="theme_econombud.aud-4" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">aud-4.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/audit/aud-4.jpg</field>
+        </record>
+         <record id="theme_econombud.aud-carousel-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">aud-carousel-1.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/audit/aud-carousel-1.jpg</field>
+        </record>
+         <record id="theme_econombud.aud-carousel-2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">aud-carousel-2.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/audit/aud-carousel-2.jpg</field>
+        </record>
+         <record id="theme_econombud.aud-carousel-3" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">aud-carousel-3.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/audit/aud-carousel-3.jpg</field>
+        </record>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <record id="theme_econombud.bg-greeting-components" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">bg-greeting-components.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/components/bg-greeting-components.jpg</field>
+        </record>
+
+        <record id="theme_econombud.c-product-simple-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-product-simple-1.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/components/c-product-simple-1.png</field>
+        </record>
+
+        <record id="theme_econombud.c-product-simple-2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">c-product-simple-2.png</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/components/c-product-simple-2.png</field>
+        </record>
+
+        
+    </data>
+</odoo>

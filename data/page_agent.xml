@@ -471,7 +471,7 @@
 											<div class="col-lg-6 pt16 pb16">
 												<h3 class="o_default_snippet_text">Строительным компаниям</h3>
 												<p class="o_default_snippet_text">Вы значительно повысите прибыль компании за счет 2-х востребованных услуг или откроете отдельный налаженный бизнес под нашим руководством.</p>
-												<p class="o_default_snippet_text"></p>
+												<p class="o_default_snippet_text"/>
 											</div>
 										</div>
 									</div>
@@ -484,7 +484,7 @@
 											<div class="col-lg-6 pt16 pb16">
 												<h3 class="o_default_snippet_text">Предпринимателям</h3>
 												<p class="o_default_snippet_text">Вы ищете идеи для прибыльного бизнеса и хотите быть среди первых кто получит максимальную прибыль на фактически неосвоенном рынке.</p>
-												<p class="o_default_snippet_text"></p>
+												<p class="o_default_snippet_text"/>
 												<div class="s_btn text-left pb16 pt16" data-name="Buttons">
 													<a href="#" class="btn btn-warning rounded-circle btn-lg o_default_snippet_text" data-original-title="" title="">ЗАКАЗАТЬ КОНСУЛЬТАЦИЮ</a>
 												</div>
@@ -535,7 +535,7 @@
 												<div class="main-timeline">
 													<a href="#" class="timeline">
 														<div class="timeline-icon">
-															<i class="fa fa-gears"></i>
+															<i class="fa fa-gears"/>
 														</div>
 														<div class="timeline-content">
 															<h3 class="title">Своя линейка оборудования</h3>
@@ -546,7 +546,7 @@
 													</a>
 													<a href="#" class="timeline">
 														<div class="timeline-icon">
-															<i class="fa fa-flask"></i>
+															<i class="fa fa-flask"/>
 														</div>
 														<div class="timeline-content">
 															<h3 class="title">Улучшенная технология нанесения</h3>
@@ -557,7 +557,7 @@
 													</a>
 													<a href="#" class="timeline">
 														<div class="timeline-icon">
-															<i class="fa fa-truck"></i>
+															<i class="fa fa-truck"/>
 														</div>
 														<div class="timeline-content">
 															<h3 class="title">Продажа компонентов из Европы</h3>
@@ -568,7 +568,7 @@
 													</a>
 													<a href="#" class="timeline">
 														<div class="timeline-icon">
-															<i class="fa fa-thumbs-up"></i>
+															<i class="fa fa-thumbs-up"/>
 														</div>
 														<div class="timeline-content">
 															<h3 class="title">Повышенная гарантия</h3>
@@ -1083,16 +1083,10 @@
 																<figure class="figure">
 																</figure>
 																<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/NjZw3_iJlr4?autoplay=0&amp;rel=0">
-																	<div class="css_editable_mode_display" data-original-title="Гидроизоляция автомобилей" title="Гидроизоляция автомобилей"></div>
+																	<div class="css_editable_mode_display" data-original-title="Гидроизоляция автомобилей" title="Гидроизоляция автомобилей"/>
 																	<div class="media_iframe_video_size">&amp;nbsp;</div>
 																	<iframe src="//www.youtube.com/embed/NjZw3_iJlr4?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
 																</div>
-																<figure class="figure">
-																	<figcaption class="figure-caption py-3 text-center">
-																		<i class="fa fa-1x fa-picture-o mr-2"/>
-Гидроизоляция автомобилей
-																	</figcaption>
-																</figure>
 															</div>
 														</div>
 													</div>
@@ -1385,7 +1379,7 @@
 							</div>
 						</div>
 					</t>
-				</t>
+				</t>			
 			</field>
 		</record>
 
