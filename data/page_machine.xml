@@ -1227,7 +1227,7 @@ Ekonombud — лучшее решение?
 
 																</section>
 															</div>
-														</FFdiv>
+														</div>
 													</section>
 												</div>
 											</div>
@@ -1238,7 +1238,6 @@ Ekonombud — лучшее решение?
 						</div>
 					</t>
 				</t>
-
 			</field>
 		</record>
 		<record id="page_equipment_page" model="website.page">

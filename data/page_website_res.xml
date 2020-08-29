@@ -18,7 +18,7 @@
             <field name="social_youtube">https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg/featured</field>
             <!--adding icon and logo-->
             <field name="favicon" type="base64" file="theme_econombud/static/src/img/common/icons/ekonombud_favicon.png"/>
-            <field name="logo" type="base64" file="theme_econombud/static/src/img/common/icons/logo_blue-black-transparent.png"/>                   
+            <field name="logo" type="base64" file="theme_econombud/static/src/img/common/icons/ekonombud.png"/>                   
         </record>
 
 
