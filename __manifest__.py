@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': "Econombud theme",
-    'version': '1.0',
+    'version': '1.1',
     'summary': 'Econombud custom starter theme',
     'description': """
 Author: P.Ushakov 
