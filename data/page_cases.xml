@@ -16,9 +16,9 @@
 								<section class="main_carousel">
 									<div id="myCarousel1590767560896" class="s_carousel carousel carousel-fade slide s_carousel_default" data-interval="10000" data-name="Carousel">
 										<ol class="carousel-indicators">
-											<li data-target="#myCarousel1590767560896" data-slide-to="0"/>
-											<li data-target="#myCarousel1590767560896" data-slide-to="1" class="active"/>
-											<li data-target="#myCarousel1590767560896" data-slide-to="2"/>
+											<li data-target="#myCarousel1590767560896" data-slide-to="0" class="mx-3 active"/>
+											<li data-target="#myCarousel1590767560896" data-slide-to="1" class="mx-3"/>
+											<li data-target="#myCarousel1590767560896" data-slide-to="2" class="mx-3"/>
 										</ol>
 										<div class="carousel-inner ">
 											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item bg-black-50 pb16" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">

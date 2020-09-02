@@ -17,9 +17,9 @@
 								<section class="main_carousel">
 									<div id="myCarousel1590767560896" class="s_carousel carousel carousel-fade slide s_carousel_default" data-interval="10000" data-name="Carousel">
 										<ol class="carousel-indicators">
-											<li data-target="#myCarousel1590767560896" data-slide-to="0" class="active"/>
-											<li data-target="#myCarousel1590767560896" data-slide-to="1"/>
-											<li data-target="#myCarousel1590767560896" data-slide-to="2"/>
+											<li data-target="#myCarousel1590767560896" data-slide-to="0" class="mx-3 active"/>
+											<li data-target="#myCarousel1590767560896" data-slide-to="1" class="mx-3"/>
+											<li data-target="#myCarousel1590767560896" data-slide-to="2" class="mx-3"/>
 										</ol>
 										<div class="carousel-inner ">
 											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item bg-black-50 pb16 active" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
@@ -84,26 +84,26 @@
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
-																	<span class="card-img-top d-block fa fa-tree mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<span class="card-img-top d-block fa fa-ambulance mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
 																	<h4 class="card-title text-center">Обозначим проблемы</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
-																	<span class="card-img-top d-block fa fa-rocket mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<span class="card-img-top d-block fa fa-paste mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
 																	<h4 class="card-title text-center">Предоставим детальный отчет</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
-																	<span class="card-img-top d-block fa fa-thumbs-up mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<span class="card-img-top d-block fa fa-gears mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
 																	<h4 class="card-title text-center">Проработаем варианты решений</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-shield mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Поможем устранить проблемные места</h4>
+																	<h4 class="card-title text-center">Устраним утечки тепла</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
@@ -179,26 +179,26 @@
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
-																	<span class="card-img-top d-block fa fa-tree mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<span class="card-img-top d-block fa fa-ambulance mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
 																	<h4 class="card-title text-center">Обозначим проблемы</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
-																	<span class="card-img-top d-block fa fa-rocket mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<span class="card-img-top d-block fa fa-paste mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
 																	<h4 class="card-title text-center">Предоставим детальный отчет</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
-																	<span class="card-img-top d-block fa fa-thumbs-up mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<span class="card-img-top d-block fa fa-gears mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
 																	<h4 class="card-title text-center">Проработаем варианты решений</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-shield mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Поможем устранить проблемные места</h4>
+																	<h4 class="card-title text-center">Устраним утечки тепла</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
@@ -274,26 +274,26 @@
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
-																	<span class="card-img-top d-block fa fa-tree mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<span class="card-img-top d-block fa fa-ambulance mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
 																	<h4 class="card-title text-center">Обозначим проблемы</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
-																	<span class="card-img-top d-block fa fa-rocket mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<span class="card-img-top d-block fa fa-paste mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
 																	<h4 class="card-title text-center">Предоставим детальный отчет</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
-																	<span class="card-img-top d-block fa fa-thumbs-up mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<span class="card-img-top d-block fa fa-gears mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
 																	<h4 class="card-title text-center">Проработаем варианты решений</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
 																<div class="card bg-black-50" style="">
 																	<span class="card-img-top d-block fa fa-shield mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
-																	<h4 class="card-title text-center">Поможем устранить проблемные места</h4>
+																	<h4 class="card-title text-center">Устраним утечки тепла</h4>
 																</div>
 															</div>
 															<div class="s_col_no_bgcolor pb16 pt0 col col-md">
@@ -320,11 +320,115 @@
 								</section>
 								<!--end of main carousel-->
 
+								<!-- text + image -->
+								<section class="pb0 pt32 bg-light-blue" data-name="Title">
+									<div class="container">
+										<div class="row s_nb_column_fixed">
+											<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
+												<h2 class="s_title_default">
+													<b>Для чего нужно проводить <span class="blue-text">энергоаудит?</span></b>
+												</h2>
+											</div>
+										</div>
+									</div>
+								</section>								
+								<section class="container-fluid bg-light-blue">
+									<div class="row d-flex justify-content-center">
+										<div class="col-6 col-lg-3 blue-line">
+											<hr/>
+										</div>
+									</div>
+								</section>								
+								<section class="s_text_image pt32 pb32 bg-light-blue" data-name="Text - Image">
+									<div class="container">
+										<div class="row align-items-center">
+											<div class="col-lg-6 pt16 pb16">
+												<h3 class="o_default_snippet_text">Для получения конкретных рекомендаций по снижению энергопотребления.</h3>
+												<p class="o_default_snippet_text">Решения, принятые после проведения энергоаудита, повышают условия комфортного проживания: увеличивается температура внутри помещения, нормализуется влажность.</p>												
+												<div class="s_btn text-left pb16 pt16" data-name="Buttons">
+													<a href="#" class="btn btn-warning rounded-circle btn-lg o_default_snippet_text" data-original-title="" title="">ЗАКАЗАТЬ КОНСУЛЬТАЦИЮ</a>
+												</div>
+											</div>
+											<div class="col-lg-6 pt16 pb16">
+												<img src="/theme_econombud/static/src/img/hydro/c-economy-2.svg" class="img img-fluid mx-auto" alt=""/>
+											</div>
+										</div>
+									</div>
+								</section>
 
+								<!-- 4 cards -->
+								<section class="pb0 pt32 bg-light-blue" data-name="Title">
+									<div class="container">
+										<div class="row s_nb_column_fixed">
+											<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
+												<h2 class="s_title_default">
+													<b><span class="blue-text">ЭНЕРГОАУДИТ </span>– ПЕРВЫЙ ШАГ К ЭНЕРГОЭФФЕКТИВНОСТИ</b>
+												</h2>
+											</div>
+										</div>
+									</div>
+								</section>								
+								<section class="container-fluid bg-light-blue">
+									<div class="row d-flex justify-content-center">
+										<div class="col-6 col-lg-3 blue-line">
+											<hr/>
+										</div>
+									</div>
+								</section>
+								<section class="s_three_columns pt32 pb32 bg-white" data-name="Columns" style="">
+									<div class="container">
+										<div class="row d-flex align-items-stretch justify-content-around">
+											<div class="col-6 col-md-3 mt16 mb16">
+												<div class="card bg-white mt0 mb0 d-flex flex-column justify-content-between align-items-center img-box_shadow" style="flex-basis:300px;">
+													<img class="img-fluid pt64 w-50" src="/theme_econombud/static/src/img/audit/aud-1.png" alt="Yantar beer factory"/>
+													<h4 class="card-title text-center mb16 p-3">Снижению стоимости коммунальных платежей до</h4>
+													<h2 class="card-title text-center mb16 p-3" style="color: red;"><b>70%</b></h2>
+												</div>
+											</div>
+											<div class="col-6 col-md-3 mt16 mb16">
+												<div class="card bg-white mt0 mb0 d-flex flex-column justify-content-between align-items-center img-box_shadow" style="flex-basis:300px;">
+													<img class="img-fluid pt32 w-50" src="/theme_econombud/static/src/img/audit/aud-2.png" alt="National police of Ukraine"/>
+													<h4 class="card-title text-center mb16 p-3">Уменьшению теплопотерь через стены до</h4>
+													<h2 class="card-title text-center mb16 p-3" style="color: red;"><b>40%</b></h2>
+												</div>
+											</div>
+											<div class="col-6 col-md-3 mt16 mb16">
+												<div class="card bg-white mt0 mb0 d-flex flex-column justify-content-between align-items-center img-box_shadow" style="flex-basis:300px;">
+													<img class="img-fluid pt32 w-50" src="/theme_econombud/static/src/img/audit/aud-3.svg" alt="Zakarpatie Oblenergo"/>
+													<h4 class="card-title text-center mb16 p-3">Уменьшению теплопотерь через перекрытия до</h4>
+													<h2 class="card-title text-center mb16 p-3" style="color: red;"><b>30%</b></h2>
+												</div>
+											</div>
+											<div class="col-6 col-md-3 mt16 mb16">
+												<div class="card bg-white mt0 mb0 d-flex flex-column justify-content-between align-items-center img-box_shadow" style="flex-basis:300px;">
+													<img class="img-fluid pt32 w-50" src="/theme_econombud/static/src/img/audit/aud-4.svg" alt="Zakarpatie Oblenergo"/>
+													<h4 class="card-title text-center mb16 p-3">Уменьшению теплопотерь через окна до</h4>
+													<h2 class="card-title text-center mb16 p-3" style="color: red;"><b>70%</b></h2>
+												</div>
+											</div>
+										</div>
+									</div>
+								</section>
 
-
-
-
+								<!-- 3 columns -->
+								<section class="pb0 pt32 bg-light-blue" data-name="Title">
+									<div class="container">
+										<div class="row s_nb_column_fixed">
+											<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
+												<h2 class="s_title_default">
+													<b>Что входит в<span class="blue-text"> энергоаудит?</span></b>
+												</h2>
+											</div>
+										</div>
+									</div>
+								</section>								
+								<section class="container-fluid bg-light-blue">
+									<div class="row d-flex justify-content-center">
+										<div class="col-6 col-lg-3 blue-line">
+											<hr/>
+										</div>
+									</div>
+								</section>
 
 
 

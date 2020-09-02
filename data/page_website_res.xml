@@ -11,7 +11,7 @@
         </record> -->
 
         <record id="website.default_website" model="website">       
-            <field name="name">Econombud</field>
+            <field name="name">Ekonombud</field>
             <!--adding social links-->
             <field name="social_facebook">https://www.facebook.com/ekonombud.ua</field>
             <field name="social_instagram">https://www.instagram.com/ekonombud_ua</field>

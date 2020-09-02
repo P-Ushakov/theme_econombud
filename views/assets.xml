@@ -20,20 +20,24 @@
       <link rel="stylesheet" type="text/scss" href="/theme_econombud/static/src/scss/video.scss"/>      
       <!-- vertical timeline -->
       <link rel="stylesheet" type="text/scss" href="/theme_econombud/static/src/css/timeline.css"/>
+      <!-- hamburger mobile menu animation css-->
+      <link rel="stylesheet" type="text/scss" href="/theme_econombud/static/src/css/hamburger_animation.css"/>     
       <!-- custom css-->
       <link rel="stylesheet" type="text/scss" href="/theme_econombud/static/src/css/custom.css"/>     
       
     </xpath>
     <xpath expr="//script[last()]" position="after">
       <!--Script Phonet Call center-->
-      <script>var telerWdWidgetId="de021028-c353-42eb-b69c-6417e936bd03";var telerWdDomain="ekonombud.phonet.com.ua";</script>
-      <script src="//ekonombud.phonet.com.ua/public/widget/call-catcher/lib-v3.js"></script>
+      <script src="/theme_econombud/static/src/js/ekonombud_phonet.js"></script>
+      <!-- <script src="//ekonombud.phonet.com.ua/public/widget/call-catcher/lib-v3.js"></script> -->
 
       <!-- 2GIS map widget loader-->
       <script charset="utf-8" src="https://widgets.2gis.com/js/DGWidgetLoader.js"></script>
       <!-- <script src="/theme_econombud/static/src/js/2gis_local.js"></script> -->
       <!-- image zooming-->
       <script src="/theme_econombud/static/src/js/zooming.js"></script>
+      <!-- hamburger mobile menu animation js -->
+      <script src="/theme_econombud/static/src/js/hamburger_animation.js"></script>
       <!-- custom js -->
       <script src="/theme_econombud/static/src/js/custom.js"></script>
     </xpath>
