@@ -402,6 +402,38 @@
 									</div>
 								</section>
 
+								<!-- img and text -->
+								<section class="s_banner parallax s_parallax_is_fixed pt32 pb32 s_parallax_no_overflow_hidden" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
+									<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-white-50" style="background-position: right 10% top 50%; background-repeat: no-repeat; background-size: auto auto; background-image: url(&quot;/theme_econombud/static/src/img/hydro/c-economy-1.svg&quot;);"/>
+
+									<section class="s_three_columns pt0 pb0" data-name="Columns" style="">
+										<div class="container">
+											<div class="row d-flex no-gutters align-items-stretch">
+												<h2 class="o_form_heading p-3">Собственная  
+													<strong class="blue-text"> технология нанесения</strong>
+												</h2>
+												<section class="container-fluid">
+													<div class="row d-flex justify-content-center">
+														<div class="col-6 col-lg-3 blue-line">
+															<hr/>
+														</div>
+													</div>
+												</section>
+												<ul class="col-lg-12 pt16 pb16">
+													<h4 class="o_default_snippet_text">
+														<p class="p-3">Покраска- считается самым распространенным видом отделочных технологий. Лучшим, современным, а главное эффективным  способом покраски поверхностей в Украине (стен, фасадов, потолков, заборов и т.д) считается - безвоздушная покраска. Ее применяют как и в масштабных локациях, так и в быту.</p>
+														<p class="p-3">Безвоздушная покраска дает возможность наилучшим образом, а главное эффективно проводить финишные покрытия. Если детально разобраться, то аппараты стоит различать на ручные и электрические. Также, они деляться по виду использования, на стационарные и ручные.</p>
+														<p class="p-3">Если берем в работу стационарный безвоздушный краскопульт, то вы сможете с легкостью покрасить не только большие участки, но и сложные  фигурные места.</p>
+														<p class="p-3">Самое первое и важное, что волнует клиента-это цена! Для того, чтобы разобраться в ценовой политике, нужно учесть моменты такие как: технология распыления, оборудование, которое применялось в работе и многое другое. От всего вышеперечисленного нужно отталкиваться.</p>
+														<p class="p-3">Такое значимое преимущество покраски краскопультом - минимальная контактность с объектом. Это помогает избежать попадания на поверхность разных ворсинок.</p>
+														<p class="p-3">Конечно, окрашивание краскопультом-это совсем новый, действенный метод нанесения жидких смесей (лак, шпатлевка, грунтовка) на разных поверхностях (стены,потолки и т.д)путем распыления.</p>
+													</h4>
+												</ul>
+											</div>
+										</div>
+									</section>
+								</section>
+
 								<!-- You tube-->
 								<section class="s_three_columns bg-200 pt16 pb0" data-name="Columns">
 									<div class="container">

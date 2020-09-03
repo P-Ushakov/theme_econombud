@@ -479,10 +479,8 @@
 								</section>
 
 								<!-- img and text -->
-
 								<section class="s_banner parallax s_parallax_is_fixed pt32 pb32 s_parallax_no_overflow_hidden" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
 									<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-white-50" style="background-position: right 10% top 50%; background-repeat: no-repeat; background-size: auto auto; background-image: url(&quot;/theme_econombud/static/src/img/hydro/c-economy-1.svg&quot;);"/>
-
 
 									<section class="s_three_columns pt0 pb0" data-name="Columns" style="">
 										<div class="container">
