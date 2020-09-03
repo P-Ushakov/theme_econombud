@@ -25,23 +25,35 @@
                     <field name="type">url</field>
                     <field name="url">/theme_econombud/static/src/img/audit/aud-4.jpg</field>
         </record>
-         <record id="theme_econombud.aud-carousel-1" model="ir.attachment">
+        <record id="theme_econombud.aud-carousel-1" model="ir.attachment">
                     <field name="public" eval="True"/>
                     <field name="name">aud-carousel-1.jpg</field>
                     <field name="type">url</field>
                     <field name="url">/theme_econombud/static/src/img/audit/aud-carousel-1.jpg</field>
         </record>
-         <record id="theme_econombud.aud-carousel-2" model="ir.attachment">
+        <record id="theme_econombud.aud-carousel-2" model="ir.attachment">
                     <field name="public" eval="True"/>
                     <field name="name">aud-carousel-2.jpg</field>
                     <field name="type">url</field>
                     <field name="url">/theme_econombud/static/src/img/audit/aud-carousel-2.jpg</field>
         </record>
-         <record id="theme_econombud.aud-carousel-3" model="ir.attachment">
+        <record id="theme_econombud.aud-carousel-3" model="ir.attachment">
                     <field name="public" eval="True"/>
                     <field name="name">aud-carousel-3.jpg</field>
                     <field name="type">url</field>
                     <field name="url">/theme_econombud/static/src/img/audit/aud-carousel-3.jpg</field>
+        </record>
+        <record id="theme_econombud.aud-bg-1" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">aud-bg-1.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/audit/aud-bg-1.jpg</field>
+        </record>
+        <record id="theme_econombud.aud-bg-2" model="ir.attachment">
+                    <field name="public" eval="True"/>
+                    <field name="name">aud-bg-2.jpg</field>
+                    <field name="type">url</field>
+                    <field name="url">/theme_econombud/static/src/img/audit/aud-bg-2.jpg</field>
         </record>
 
 

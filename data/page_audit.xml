@@ -45,7 +45,7 @@
 																			</b>
 																		</font>
 																	</h1>
-																</div>																
+																</div>
 																<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
 																	<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
 																</div>
@@ -140,7 +140,7 @@
 																			</b>
 																		</font>
 																	</h1>
-																</div>																
+																</div>
 																<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
 																	<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
 																</div>
@@ -235,7 +235,7 @@
 																			</b>
 																		</font>
 																	</h1>
-																</div>																
+																</div>
 																<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
 																	<a href="#" class="btn btn-warning rounded-circle btn-lg" data-original-title="" title="">УЗНАТЬ ПОДРОБНЕЕ</a>
 																</div>
@@ -326,25 +326,26 @@
 										<div class="row s_nb_column_fixed">
 											<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
 												<h2 class="s_title_default">
-													<b>Для чего нужно проводить <span class="blue-text">энергоаудит?</span></b>
+													<b>Для чего нужно проводить														<span class="blue-text">энергоаудит?</span>
+													</b>
 												</h2>
 											</div>
 										</div>
 									</div>
-								</section>								
+								</section>
 								<section class="container-fluid bg-light-blue">
 									<div class="row d-flex justify-content-center">
 										<div class="col-6 col-lg-3 blue-line">
 											<hr/>
 										</div>
 									</div>
-								</section>								
+								</section>
 								<section class="s_text_image pt32 pb32 bg-light-blue" data-name="Text - Image">
 									<div class="container">
 										<div class="row align-items-center">
 											<div class="col-lg-6 pt16 pb16">
 												<h3 class="o_default_snippet_text">Для получения конкретных рекомендаций по снижению энергопотребления.</h3>
-												<p class="o_default_snippet_text">Решения, принятые после проведения энергоаудита, повышают условия комфортного проживания: увеличивается температура внутри помещения, нормализуется влажность.</p>												
+												<p class="o_default_snippet_text">Решения, принятые после проведения энергоаудита, повышают условия комфортного проживания: увеличивается температура внутри помещения, нормализуется влажность.</p>
 												<div class="s_btn text-left pb16 pt16" data-name="Buttons">
 													<a href="#" class="btn btn-warning rounded-circle btn-lg o_default_snippet_text" data-original-title="" title="">ЗАКАЗАТЬ КОНСУЛЬТАЦИЮ</a>
 												</div>
@@ -357,18 +358,20 @@
 								</section>
 
 								<!-- 4 cards -->
-								<section class="pb0 pt32 bg-light-blue" data-name="Title">
+								<section class="pb0 pt32" data-name="Title">
 									<div class="container">
 										<div class="row s_nb_column_fixed">
 											<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
 												<h2 class="s_title_default">
-													<b><span class="blue-text">ЭНЕРГОАУДИТ </span>– ПЕРВЫЙ ШАГ К ЭНЕРГОЭФФЕКТИВНОСТИ</b>
+													<b>
+														<span class="blue-text">"Энергоаудит" </span>– первый шаг к энергоэффективности
+													</b>
 												</h2>
 											</div>
 										</div>
 									</div>
-								</section>								
-								<section class="container-fluid bg-light-blue">
+								</section>
+								<section class="container-fluid">
 									<div class="row d-flex justify-content-center">
 										<div class="col-6 col-lg-3 blue-line">
 											<hr/>
@@ -380,30 +383,38 @@
 										<div class="row d-flex align-items-stretch justify-content-around">
 											<div class="col-6 col-md-3 mt16 mb16">
 												<div class="card bg-white mt0 mb0 d-flex flex-column justify-content-between align-items-center img-box_shadow" style="flex-basis:300px;">
-													<img class="img-fluid pt64 w-50" src="/theme_econombud/static/src/img/audit/aud-1.png" alt="Yantar beer factory"/>
-													<h4 class="card-title text-center mb16 p-3">Снижению стоимости коммунальных платежей до</h4>
-													<h2 class="card-title text-center mb16 p-3" style="color: red;"><b>70%</b></h2>
+													<img class="img-fluid pt32 w-50" src="/theme_econombud/static/src/img/audit/aud-1.png" alt=""/>
+													<h4 class="card-title text-center mb16 px-3 pt-3">Снижению стоимости коммунальных платежей до</h4>
+													<h2 class="card-title text-center mb16 px-3 pb-3" style="color: red;">
+														<b>70%</b>
+													</h2>
 												</div>
 											</div>
 											<div class="col-6 col-md-3 mt16 mb16">
 												<div class="card bg-white mt0 mb0 d-flex flex-column justify-content-between align-items-center img-box_shadow" style="flex-basis:300px;">
-													<img class="img-fluid pt32 w-50" src="/theme_econombud/static/src/img/audit/aud-2.png" alt="National police of Ukraine"/>
-													<h4 class="card-title text-center mb16 p-3">Уменьшению теплопотерь через стены до</h4>
-													<h2 class="card-title text-center mb16 p-3" style="color: red;"><b>40%</b></h2>
+													<img class="img-fluid pt32 w-50" src="/theme_econombud/static/src/img/audit/aud-2.png" alt=""/>
+													<h4 class="card-title text-center mb16 px-3 pt-3">Уменьшению теплопотерь через стены до</h4>
+													<h2 class="card-title text-center mb16 px-3 pb-3" style="color: red;">
+														<b>40%</b>
+													</h2>
 												</div>
 											</div>
 											<div class="col-6 col-md-3 mt16 mb16">
 												<div class="card bg-white mt0 mb0 d-flex flex-column justify-content-between align-items-center img-box_shadow" style="flex-basis:300px;">
-													<img class="img-fluid pt32 w-50" src="/theme_econombud/static/src/img/audit/aud-3.svg" alt="Zakarpatie Oblenergo"/>
-													<h4 class="card-title text-center mb16 p-3">Уменьшению теплопотерь через перекрытия до</h4>
-													<h2 class="card-title text-center mb16 p-3" style="color: red;"><b>30%</b></h2>
+													<img class="img-fluid pt32 w-50" src="/theme_econombud/static/src/img/audit/aud-3.png" alt=""/>
+													<h4 class="card-title text-center mb16 px-3 pt-3">Уменьшению теплопотерь через перекрытия до</h4>
+													<h2 class="card-title text-center mb16 px-3 pb-3" style="color: red;">
+														<b>30%</b>
+													</h2>
 												</div>
 											</div>
 											<div class="col-6 col-md-3 mt16 mb16">
 												<div class="card bg-white mt0 mb0 d-flex flex-column justify-content-between align-items-center img-box_shadow" style="flex-basis:300px;">
-													<img class="img-fluid pt32 w-50" src="/theme_econombud/static/src/img/audit/aud-4.svg" alt="Zakarpatie Oblenergo"/>
-													<h4 class="card-title text-center mb16 p-3">Уменьшению теплопотерь через окна до</h4>
-													<h2 class="card-title text-center mb16 p-3" style="color: red;"><b>70%</b></h2>
+													<img class="img-fluid pt32 w-50" src="/theme_econombud/static/src/img/audit/aud-4.png" alt=""/>
+													<h4 class="card-title text-center mb16 px-3 pt-3">Уменьшению теплопотерь через окна до</h4>
+													<h2 class="card-title text-center mb16 px-3 pb-3" style="color: red;">
+														<b>70%</b>
+													</h2>
 												</div>
 											</div>
 										</div>
@@ -411,756 +422,112 @@
 								</section>
 
 								<!-- 3 columns -->
-								<section class="pb0 pt32 bg-light-blue" data-name="Title">
+								<section class="s_cover parallax s_parallax_is_fixed bg-black-50 pt32 pb32 s_parallax_no_overflow_hidden" data-scroll-background-ratio="1" data-name="Cover" style="background-image: none;">
+									<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/audit/aud-bg-1.jpg'); background-position: 50% 0;"/>
 									<div class="container">
-										<div class="row s_nb_column_fixed">
-											<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
-												<h2 class="s_title_default">
-													<b>Что входит в<span class="blue-text"> энергоаудит?</span></b>
+										<div class="row s_nb_column_fixed d-flex justify-content-end">
+											<div class="col-lg-12 s_btn text-left pt32 pb96" data-name="Cards">
+												<section class="pb0 pt32" data-name="Title">
+													<div class="container">
+														<div class="row s_nb_column_fixed">
+															<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
+																<h2 class="s_title_default">
+																	<b>Что входит в																		<span class="text-warning"> энергоаудит?</span>
+																	</b>
+																</h2>
+															</div>
+														</div>
+													</div>
+												</section>
+												<section class="pt0 pb64 container-fluid">
+													<div class="row d-flex justify-content-center">
+														<div class="col-6 col-lg-3 blue-line">
+															<hr/>
+														</div>
+													</div>
+												</section>
+												<section class="s_three_columns pt0 pb0" data-name="Columns" style="">
+													<div class="container-fluid">
+														<div class="row d-flex align-items-stretch">
+															<div class="s_col_no_bgcolor pb16 pt0 col-sm-12 col-md-4">
+																<div class="card bg-white-50" style="">
+																	<span class="card-img-top d-block fa fa-wifi mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h3 class="card-title text-center p-1">Мониторинг теплопотерь</h3>
+																	<p class="card-text text-center p-1">Мониторинг сквозь стены, окна, двери, систему трубопроводов, а также оценка воздухообмена в помещении. Время года для проведения энергоаудита не имеет значения.</p>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col-sm-12 col-md-4">
+																<div class="card bg-white-50" style="">
+																	<span class="card-img-top d-block fa fa-random mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h3 class="card-title text-center p-1">Оценка утечек природного газа.</h3>
+																	<p class="card-text text-center p-1"></p>
+																</div>
+															</div>
+															<div class="s_col_no_bgcolor pb16 pt0 col-sm-12 col-md-4">
+																<div class="card bg-white-50" style="">
+																	<span class="card-img-top d-block fa fa-home mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/>
+																	<h3 class="card-title text-center p-1">Анализ вентиляции, влажности, освещенности</h3>
+																	<p class="card-text text-center p-1">Анализ системы вентиляции, уровня влажности и освещенности, а также комплекс других исследований, в зависимости от особенности здания.</p>
+																</div>
+															</div>
+														</div>
+													</div>
+												</section>
+											</div>
+										</div>
+									</div>
+								</section>
+
+								<!-- img and text -->
+
+								<section class="s_banner parallax s_parallax_is_fixed pt32 pb32 s_parallax_no_overflow_hidden" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
+									<span class="s_parallax_bg oe_img_bg oe_custom_bg bg-white-50" style="background-position: right 10% top 50%; background-repeat: no-repeat; background-size: auto auto; background-image: url(&quot;/theme_econombud/static/src/img/hydro/c-economy-1.svg&quot;);"/>
+
+
+									<section class="s_three_columns pt0 pb0" data-name="Columns" style="">
+										<div class="container">
+											<div class="row d-flex no-gutters align-items-stretch">
+												<h2 class="o_form_heading">Отчет по 
+													<strong class="blue-text"> энергетическому обследованию помещения</strong> включает:
 												</h2>
-											</div>
-										</div>
-									</div>
-								</section>								
-								<section class="container-fluid bg-light-blue">
-									<div class="row d-flex justify-content-center">
-										<div class="col-6 col-lg-3 blue-line">
-											<hr/>
-										</div>
-									</div>
-								</section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-								<section class="pb0 pt0" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed">
-											<div class="col-lg-12 s_title pb0 pt64" style="text-align: center;">
-												<h2 class="s_title_default">
-													<strong>Основные														<span class="blue-text">свойства</span> пенополиуретана,
-													</strong>
-												</h2>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<section class="pb0 pt0" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed d-flex justify-content-center">
-											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<h3 class="s_title_default">которые снижают стоимость коммунальных расходов на 60% в течение 20 лет</h3>
-											</div>
-											<div class="col-6 col-lg-3 blue-line text-center">
-												<hr/>
-											</div>
-											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<p class="text-secondary"></p>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<section class="s_picture bg-none pt24 pb24" data-name="Picture">
-									<div class="container">
-										<div class="row s_nb_column_fixed  d-flex justify-content-center">
-											<div class="pb0 col-lg-6">
-												<img src="/theme_econombud/static/src/img/teplo/c-material.png" class="figure-img rounded img-fluid" alt="Пенополиуретан" data-original-title="Пенополиуретан" title="Пенополиуретан" style="width: 150%; height:auto;"/>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<!-- Timeline block -->
-
-								<section>
-									<div class="jumbotron">
-										<div class="row d-flex align-items-stretch justify-content-between">
-											<div class="col col-md card border-warning mx-sm-1 p-3" style="min-width:200px">
-												<div class="card-title border-warning shadow text-dark p-3 yellow-card bg-warning">
-													<span>&amp;nbsp;&amp;nbsp;1&amp;nbsp;&amp;nbsp;</span>
-												</div>
-												<div class="text-center mt-2 pt16">
-													<h3>Бесшовность материала</h3>
-												</div>
-												<div class="card-text text-center mt-3">
-													<h4>Ровно ложится на всю площадь поверхности без малейших стыков и щелей</h4>
-												</div>
-											</div>
-											<div class="col col-md card border-warning mx-sm-1 p-3" style="min-width:200px">
-
-												<div class="card-title border-warning shadow text-dark p-3 yellow-card bg-warning">
-													<span>&amp;nbsp;&amp;nbsp;2&amp;nbsp;&amp;nbsp;</span>
-												</div>
-												<div class="text-center mt-2 pt16">
-													<h3>Высокая адгезия</h3>
-												</div>
-												<div class="card-text text-center mt-3">
-													<h4>Сцепление на 100% с любой поверхностью</h4>
-												</div>
-											</div>
-											<div class="col col-md card border-warning mx-sm-1 p-3" style="min-width:200px">
-
-												<div class="card-title border-warning shadow text-dark p-3 yellow-card bg-warning">
-													<span>&amp;nbsp;&amp;nbsp;3&amp;nbsp;&amp;nbsp;</span>
-												</div>
-												<div class="text-center mt-2 pt16">
-													<h3>Экологичность состава</h3>
-												</div>
-												<div class="card-text text-center mt-3">
-													<h4>ППУ нетоксичен, используется в водохранилищах питьевой воды, в медицинской промышленности</h4>
-												</div>
-											</div>
-											<div class="col col-md card border-warning mx-sm-1 p-3" style="min-width:200px">
-
-												<div class="card-title border-warning shadow text-dark p-3 yellow-card bg-warning">
-													<span>&amp;nbsp;&amp;nbsp;4&amp;nbsp;&amp;nbsp;</span>
-												</div>
-												<div class="text-center mt-2 pt16">
-													<h3>Пожаробезопасный материал</h3>
-												</div>
-												<div class="card-text text-center mt-3">
-													<h4>Пенополиуретан не горит и не способствует горению</h4>
-												</div>
-											</div>
-											<div class="col col-md card border-warning mx-sm-1 p-3" style="min-width:200px">
-
-												<div class="card-title border-warning shadow text-dark p-3 yellow-card bg-warning">
-													<span>&amp;nbsp;&amp;nbsp;5&amp;nbsp;&amp;nbsp;</span>
-												</div>
-												<div class="text-center mt-2 pt16">
-													<h3>Монолитная структура</h3>
-												</div>
-												<div class="card-text text-center mt-3">
-													<h4>Монолитная структура, которая с годами только укрепляется и становится мощнее</h4>
-												</div>
-											</div>
-											<div class="col col-md card border-warning mx-sm-1 p-3" style="min-width:200px">
-
-												<div class="card-title border-warning shadow text-dark p-3 yellow-card bg-warning">
-													<span>&amp;nbsp;&amp;nbsp;6&amp;nbsp;&amp;nbsp;</span>
-												</div>
-												<div class="text-center mt-2 pt16">
-													<h3>Низкая теплопроводимость</h3>
-												</div>
-												<div class="card-text text-center mt-3">
-													<h4>Защита от перепадов температур в помещении обеспечивает стабильный микроклимат</h4>
-												</div>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<section class="pb0 pt32 bg-light-blue" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed">
-											<div class="col-lg-12 s_title pb0 pt0" style="text-align: left;">
-												<h2 class="s_title_default">
-													<strong>
-														<span class="blue-text">4 весомых причины</span> выбрать нас
-													</strong>
-												</h2>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<section class="pt0 pb0 bg-light-blue" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed">
-											<div class="col-lg-12 s_title pt0 pb0" style="text-align: left;">
-												<h3 class="s_title_default">и доверить													<b>теплоизоляцию</b> специалистам EKONOMBUD</h3>
-											</div>
-											<div class="col-6 col-lg-3 blue-line text-center">
-												<hr/>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<!--Carousel-->
-								<section class="main_carousel bg-light-blue">
-									<div id="myCarousel_teplo_reasons" class="s_carousel carousel carousel-fade slide s_carousel_default" data-interval="5000" data-name="Carousel">
-										<ol class="carousel-indicators">
-											<li data-target="#myCarousel_teplo_reasons" data-slide-to="0" class="active"/>
-											<li data-target="#myCarousel_teplo_reasons" data-slide-to="1"/>
-											<li data-target="#myCarousel_teplo_reasons" data-slide-to="2"/>
-											<li data-target="#myCarousel_teplo_reasons" data-slide-to="3"/>
-										</ol>
-										<div class="carousel-inner ">
-											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item pb16 active" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
-												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="opacity:0.5; background-image: url(&quot;/theme_econombud/static/src/img/teplo/c-reasons.svg&quot;); background-position: 48.49% 19.09%;"/>
-												<div class="container">
-													<div class="row s_nb_column_fixed">
-														<div class="col-lg-9 bg-none jumbotron pt32 pb32 rounded" data-name="Box">
-															<div class="row">
-																<div class="col-lg-12 s_title s_col_no_bgcolor pb0" data-name="Title">
-																	<h2 class="s_title_thin">
-																		<font style="" class="o_default_snippet_text">
-																			<b>Гарантия 20 лет</b>
-																		</font>
-																	</h2>
-																</div>
-																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
-																	<p>
-																		<b>Документальная гарантия на два десятка лет позволит вам экономить на отоплении.</b>
-																	</p>
-																	<p>
-																		<b>Без затрат на ремонт и замену теплоизоляции. Мы уверены в качестве предоставляемых работ</b>
-																	</p>
-																</div>
-																<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
-																	<a href="#" class="btn btn-warning shadow rounded-circle btn-lg" data-original-title="" title="">МНЕ НУЖНА ТЕПЛОИЗОЛЯЦИЯ</a>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-
-											</section>
-											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item pb16" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
-												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="opacity:0.5; background-image: url(&quot;/theme_econombud/static/src/img/hydro/c-economy-2.svg&quot;); background-position: 48.49% 19.09%;"/>
-												<div class="container">
-													<div class="row s_nb_column_fixed">
-														<div class="col-lg-9 bg-none jumbotron pt32 pb32 rounded" data-name="Box">
-															<div class="row">
-																<div class="col-lg-12 s_title s_col_no_bgcolor pb0" data-name="Title">
-																	<h2 class="s_title_thin">
-																		<font style="" class="o_default_snippet_text">
-																			<b>В 10 раз быстрее</b>
-																		</font>
-																	</h2>
-																</div>
-																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
-																	<p>
-																		<b>Даже огромный ангар или другой промышленный объект будет готов менее чем за 2 дня.</b>
-																	</p>
-																	<p>
-																		<b>И все благодаря быстрому нанесению теплоизоляции — 500 м.кв за 1 день</b>
-																	</p>
-																</div>
-																<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
-																	<a href="#" class="btn btn-warning shadow rounded-circle btn-lg" data-original-title="" title="">МНЕ НУЖНА ТЕПЛОИЗОЛЯЦИЯ</a>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-
-											</section>
-											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item pb16" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
-												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="opacity:0.5; background-image: url(&quot;/theme_econombud/static/src/img/franchise/c-for-1.svg&quot;); background-position: 48.49% 19.09%;"/>
-												<div class="container">
-													<div class="row s_nb_column_fixed">
-														<div class="col-lg-9 bg-none jumbotron pt32 pb32 rounded" data-name="Box">
-															<div class="row">
-																<div class="col-lg-12 s_title s_col_no_bgcolor pb0" data-name="Title">
-																	<h2 class="s_title_thin">
-																		<font style="" class="o_default_snippet_text">
-																			<b>Старт за 2 дня</b>
-																		</font>
-																	</h2>
-																</div>
-																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
-																	<p>
-																		<b>Менее чем за 48 часов мы приступим к работе по Украине благодаря штату из 7 бригад и представительств по всей Украине.</b>
-																	</p>
-																</div>
-																<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
-																	<a href="#" class="btn btn-warning shadow rounded-circle btn-lg" data-original-title="" title="">МНЕ НУЖНА ТЕПЛОИЗОЛЯЦИЯ</a>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-
-											</section>
-											<section class="s_banner parallax s_parallax_is_fixed pt96 s_parallax_no_overflow_hidden carousel-item pb16" data-scroll-background-ratio="1" data-name="Slide" style="background-image: none;">
-												<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="opacity:0.5; background-image: url(&quot;/theme_econombud/static/src/img/franchise/c-for-2.svg&quot;); background-position: 48.49% 19.09%;"/>
-												<div class="container">
-													<div class="row s_nb_column_fixed">
-														<div class="col-lg-9 bg-none jumbotron pt32 pb32 rounded" data-name="Box">
-															<div class="row">
-																<div class="col-lg-12 s_title s_col_no_bgcolor pb0" data-name="Title">
-																	<h2 class="s_title_thin">
-																		<font style="" class="o_default_snippet_text">
-																			<b>Без затрат на подготовку</b>
-																		</font>
-																	</h2>
-																</div>
-																<div class="col-lg-12 pt8 s_col_no_bgcolor s_title pb8" data-name="Title">
-																	<p>
-																		<b>Вы сэкономите до 7 дней времени и от 10 000 грн на подготовке, поскольку для теплоизоляции не требуется предварительная обработка поверхности.</b>
-																	</p>
-																	<p>
-																		<b>Все материалы и инструменты мы привезем сами.</b>
-																	</p>
-																</div>
-																<div class="col-lg-12 s_btn text-left pb16 pt40" data-name="Button">
-																	<a href="#" class="btn btn-warning shadow rounded-circle btn-lg" data-original-title="" title="">МНЕ НУЖНА ТЕПЛОИЗОЛЯЦИЯ</a>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-
-											</section>
-										</div>
-										<div class="carousel-control-prev" data-target="#myCarousel_teplo_reasons" data-slide="prev" role="img" aria-label="Previous" title="Previous">
-											<!-- <span class="carousel-control-prev-icon" style="color:black"/> -->
-											<span class="fa fa-arrow-left fa-3x blue-text align-self-start" data-original-title="" title="" style=""/>
-											<span class="sr-only o_default_snippet_text">Previous</span>
-										</div>
-										<div class="carousel-control-next" data-target="#myCarousel_teplo_reasons" data-slide="next" role="img" aria-label="Next" title="Next">
-											<!-- <span class="carousel-control-next-icon" style="color:black"/> -->
-											<span class="fa fa-arrow-right fa-3x blue-text align-self-start" data-original-title="" title="" style=""/>
-											<span class="sr-only o_default_snippet_text">Next</span>
-										</div>
-									</div>
-								</section>
-								<!--End of the Carousel-->
-
-								<section class="pb0 pt0" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed">
-											<div class="col-lg-12 s_title pb0 pt64" style="text-align: center;">
-												<h2 class="s_title_default">
-													<strong>
-														<span class="blue-text">Сравнение</span> технологий
-													</strong>
-												</h2>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<section class="pb0 pt0" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed d-flex justify-content-center">
-											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<h3 class="s_title_default">Свойства напыляемых полиуретанов и особенности технологии их применения выгодно отличаются от большинства традиционно используемых технологий</h3>
-											</div>
-											<div class="col-6 col-lg-3 blue-line text-center">
-												<hr/>
-											</div>
-											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<p class="text-secondary"></p>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<!--Compare block-->
-								<section>
-									<div class="container-fluid">
-										<div class="row d-block mx-auto">
-											<div class="col-lg-12">
-												<table class="table table-responsive table-striped table-bordered">
-													<thead class="thead-light">
-														<tr>
-															<th style="width: 16%; height:200px;" scope="col" class="bg-white"></th>
-															<th style="width: 14%; height:200px; background-position: center; background-repeat: no-repeat; background-size: 100% auto; background-image: url(&quot;/theme_econombud/static/src/img/teplo/c-material.png&quot;);" scope="col" class="text-center bg-primary text-white font-weight-bold">Напыляемый пенополиуретан</th>
-															<th style="width: 14%; height:200px; background-position: center; background-repeat: no-repeat; background-size: 100% auto; background-image: url(&quot;/theme_econombud/static/src/img/teplo/c-teplo-compare-2.png&quot;);" scope="col" class="text-center bg-white">Экструдированный пенополистирол</th>
-															<th style="width: 14%; height:200px; background-position: center; background-repeat: no-repeat; background-size: 100% auto; background-image: url(&quot;/theme_econombud/static/src/img/teplo/c-teplo-compare-3.png&quot;);" scope="col" class="text-center bg-white">Минеральная вата</th>
-															<th style="width: 14%; height:200px; background-position: center; background-repeat: no-repeat; background-size: 100% auto; background-image: url(&quot;/theme_econombud/static/src/img/teplo/teplo_2.jpg&quot;);" scope="col" class="text-center bg-white">Пеноизол</th>
-															<th style="width: 14%; height:200px; background-position: center; background-repeat: no-repeat; background-size: 100% auto; background-image: url(&quot;/theme_econombud/static/src/img/teplo/xpenoplast.jpg&quot;);" scope="col" class="text-center bg-white">Пенопласт</th>
-															<th style="width: 14%; height:200px; background-position: center; background-repeat: no-repeat; background-size: 100% auto; background-image: url(&quot;/theme_econombud/static/src/img/teplo/875176320_w640_h640_ekstrudirovannyj-penopolistirol-ekobord.png&quot;);" scope="col" class="text-center bg-white">Пеноплекс</th>
-														</tr>
-													</thead>
-													<tbody>
-														<tr>
-															<th scope="row">Горючесть</th>
-															<td class="text-center bg-primary font-weight-bold">Г2 - Г3</td>
-															<td class="text-center">Г2 - Г4</td>
-															<td class="text-center">Г1</td>
-															<td class="text-center">Г2</td>
-															<td class="text-center">от Г1 до Г4</td>
-															<td class="text-center">Г3</td>
-														</tr>
-														<tr>
-															<th scope="row">Укладка, стыковка плит</th>
-															<td class="text-center bg-primary font-weight-bold">сплошной слой без стыков</td>
-															<td class="text-center">удовлетворительная</td>
-															<td class="text-center">удовлетворительная</td>
-															<td class="text-center">сплошной слой без стыков</td>
-															<td class="text-center">хорошая</td>
-															<td class="text-center">хорошая</td>
-														</tr>
-														<tr>
-															<th scope="row">Адгезия к основанию</th>
-															<td class="text-center bg-primary font-weight-bold">высокая</td>
-															<td class="text-center">отсутствует</td>
-															<td class="text-center">отсутствует</td>
-															<td class="text-center">высокая</td>
-															<td class="text-center">высокая</td>
-															<td class="text-center">слабая</td>
-														</tr>
-														<tr>
-															<th scope="row">Скорость монтажа</th>
-															<td class="text-center bg-primary font-weight-bold">высокая</td>
-															<td class="text-center">средняя</td>
-															<td class="text-center">средняя</td>
-															<td class="text-center">высокая</td>
-															<td class="text-center">быстрая</td>
-															<td class="text-center">быстрая</td>
-														</tr>
-														<tr>
-															<th scope="row">Стоимость 1 м3, грн</th>
-															<td class="text-center bg-primary font-weight-bold">2 400</td>
-															<td class="text-center">2 400</td>
-															<td class="text-center">1 200</td>
-															<td class="text-center">1 750</td>
-															<td class="text-center">1 290</td>
-															<td class="text-center">2 400</td>
-														</tr>
-														<tr>
-															<th scope="row">Толщина слоя с равнозначными свойствами, мм</th>
-															<td class="text-center bg-primary font-weight-bold">50</td>
-															<td class="text-center">70</td>
-															<td class="text-center">150</td>
-															<td class="text-center">30</td>
-															<td class="text-center">от 50 до 100 мм</td>
-															<td class="text-center">60</td>
-														</tr>
-														<tr>
-															<th scope="row">Стоимость материалов, грн/м2</th>
-															<td class="text-center bg-primary font-weight-bold">160</td>
-															<td class="text-center">160</td>
-															<td class="text-center">240</td>
-															<td class="text-center">550</td>
-															<td class="text-center">от 50</td>
-															<td class="text-center">от 100</td>
-														</tr>
-														<tr>
-															<th scope="row">Стоимость работ, грн/м2</th>
-															<td class="text-center bg-primary font-weight-bold">от 100</td>
-															<td class="text-center">от 100</td>
-															<td class="text-center">от 100</td>
-															<td class="text-center">от 100</td>
-															<td class="text-center">от 80</td>
-															<td class="text-center">от 150</td>
-														</tr>
-														<tr>
-															<th scope="row">Итого, стоимость теплоизоляции грн/м2</th>
-															<td class="text-center bg-primary font-weight-bold">от 260</td>
-															<td class="text-center">от 260</td>
-															<td class="text-center">от 340</td>
-															<td class="text-center">от 340</td>
-															<td class="text-center">от 79.90</td>
-															<td class="text-center">от 100</td>
-														</tr>
-														<tr>
-															<th scope="row">Зависимость стоимости от сложности поверхности</th>
-															<td class="text-center bg-primary font-weight-bold">зависит незначительно</td>
-															<td class="text-center">значительно возрастает</td>
-															<td class="text-center">значительно возрастает</td>
-															<td class="text-center">зависит незначительно</td>
-															<td class="text-center">зависит</td>
-															<td class="text-center">зависит</td>
-														</tr>
-													</tbody>
-												</table>
-											</div>
-										</div>
-									</div>
-								</section>
-								<!--End of compare block-->
-
-								<section class="pb0 pt0" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed">
-											<div class="col-lg-12 s_title pb0 pt64" style="text-align: center;">
-												<h2 class="s_title_default">
-													<strong>Вы бесплатно получите 4 выгоды от EKONOMBUD,</strong>
-												</h2>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<section class="pb0 pt0" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed d-flex justify-content-center">
-											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<h3 class="s_title_default">общей ценностью в десятки тысяч гривен</h3>
-											</div>
-											<div class="col-6 col-lg-3 blue-line text-center">
-												<hr/>
-											</div>
-											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<p class="text-secondary"></p>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<!--Vertical timeline-->
-								<section class="pt16 pb16">
-									<div class="container">
-										<div class="row">
-											<div class="col-md-12">
-												<div class="main-timeline">
-													<a href="#" class="timeline">
-														<div class="timeline-icon">
-															<i class="fa fa-umbrella"></i>
-														</div>
-														<div class="timeline-content">
-															<h3 class="title">Гидроизоляция</h3>
-															<p class="description">
-                                    Благодаря бесшовной структуре и высокой прочности теплоизоляция пенополиуретаном отлично заменяет стандартную гидроизоляцию поверхности, защищая от протеканий.
-															</p>
-														</div>
-													</a>
-													<a href="#" class="timeline">
-														<div class="timeline-icon">
-															<i class="fa fa-home"></i>
-														</div>
-														<div class="timeline-content">
-															<h3 class="title">Шумоизоляция</h3>
-															<p class="description">
-                                    Монолитная структура ППУ отлично поглощает шум. Утеплив крышу, вы не услышите шум дождя, а утеплив фасад - шум большого города и другие посторонние звуки.
-															</p>
-														</div>
-													</a>
-													<a href="#" class="timeline">
-														<div class="timeline-icon">
-															<i class="fa fa-shield"></i>
-														</div>
-														<div class="timeline-content">
-															<h3 class="title">Пароизоляция</h3>
-															<p class="description">
-                                    Нанесенный изнутри помещения пенополиуретан нейтрализует влагу и конденсат, защищая от грибка и повышенной влажности.
-															</p>
-														</div>
-													</a>
-													<a href="#" class="timeline">
-														<div class="timeline-icon">
-															<i class="fa fa-leaf"></i>
-														</div>
-														<div class="timeline-content">
-															<h3 class="title">Экологичность</h3>
-															<p class="description">
-                                    ППУ не токсичен, используется в водохранилищах питьевой воды и медицинской промышленности. &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
-															</p>
-														</div>
-													</a>
-												</div>
-											</div>
-										</div>
-									</div>
-								</section>
-								<!--End of vertical timeline-->
-
-								<section class="pb0 pt0 bg-200" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed">
-											<div class="col-lg-12 s_title pb0 pt64" style="text-align: center;">
-												<h2 class="s_title_default">
-													<strong>С помощью ППУ мы <br/>
-														<span class="blue-text">успешно изолируем</span> любые сооружения,
-													</strong>
-												</h2>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<section class="pb0 pt0 bg-200" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed d-flex justify-content-center">
-											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<h3 class="s_title_default">а правильный выбор подрядчика													<b>— 60% успеха</b> при гидроизоляции кровли
-												</h3>
-											</div>
-											<div class="col-6 col-lg-3 blue-line text-center">
-												<hr/>
-											</div>
-											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<p class="text-secondary"></p>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<!-- Gallery -->
-								<section class="s_three_columns bg-200 pt0 pb0" data-name="Columns">
-									<div class="container-fluid">
-										<div class="row d-flex align-items-stretch justify-content-around">
-											<div class="col-xl-3 col-lg-5 col-sm-5 col-12 pt16 pb16 row align-items-stetch no-gutters">
-												<section class="pt0 pb0 col-12 row align-items-stretch no-gutters" data-name="Banner" style="border-radius: 0.7rem; background-image: url('/theme_econombud/static/src/img/teplo/c-types-1.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
-													<div class="bg-black-50" style="border-radius: 0.7rem;">
-														<div class="d-flex flex-column justify-content-between" style="height:20rem;">
-															<div class="pt16 pb16 my_grid_text" data-name="Text">
-																<p class="px-3" style="text-align: left;">Бесшовная структура и 100% адгезия позволит изолировать металлоконструкцию любой формы, снизив расходы на отопление до 60%.</p>
-															</div>
-															<div class="pt0 pb16">
-																<h3 class="my_grid_title px-3" data-name="Text">Ангары</h3>
-															</div>
+												<section class="container-fluid">
+													<div class="row d-flex justify-content-center">
+														<div class="col-6 col-lg-3 blue-line">
+															<hr/>
 														</div>
 													</div>
 												</section>
-											</div>
-											<div class="col-xl-3 col-lg-5 col-sm-5 col-12 pt16 pb16 row align-items-stetch no-gutters">
-												<section class="pt0 pb0 col-12 row align-items-stretch no-gutters" data-name="Banner" style="border-radius: 0.7rem; background-image: url('/theme_econombud/static/src/img/teplo/c-types-2.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
-													<div class="bg-black-50" style="border-radius: 0.7rem;">
-														<div class="d-flex flex-column justify-content-between" style="height:20rem;">
-															<div class="pt16 pb16 my_grid_text" data-name="Text">
-																<p class="px-3" style="text-align: left;">ППУ поможет сохранить стабильную температуру от 1 до 3 С, и влажность от 80-95% овощехранилища. Кроме того, теплоизоляция поможет пройти сертификацию помещения.</p>
-															</div>
-															<div class="pt0 pb16">
-																<h3 class="my_grid_title px-3" data-name="Text">Овощехранилища</h3>
-															</div>
-														</div>
-													</div>
-												</section>
-											</div>
-											<div class="col-xl-3 col-lg-5 col-sm-5 col-12 pt16 pb16 row align-items-stetch no-gutters">
-												<section class="pt0 pb0 col-12 row align-items-stretch no-gutters" data-name="Banner" style="border-radius: 0.7rem; background-image: url('/theme_econombud/static/src/img/teplo/c-types-3.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
-													<div class="bg-black-50" style="border-radius: 0.7rem;">
-														<div class="d-flex flex-column justify-content-between" style="height:20rem;">
-															<div class="pt16 pb16 my_grid_text" data-name="Text">
-																<p class="px-3" style="text-align: left;">ППУ увеличит КПД трубопровода до 30 % снизив теплопотери. Также защитит от протеканий благодаря гидроизоляционным свойствам.</p>
-															</div>
-															<div class="pt0 pb16">
-																<h3 class="my_grid_title px-3" data-name="Text">Трубопроводы и теплотрассы</h3>
-															</div>
-														</div>
-													</div>
-												</section>
-											</div>
-											<div class="col-xl-3 col-lg-5 col-sm-5 col-12 pt16 pb16 row align-items-stetch no-gutters">
-												<section class="pt0 pb0 col-12 row align-items-stretch no-gutters" data-name="Banner" style="border-radius: 0.7rem; background-image: url('/theme_econombud/static/src/img/teplo/c-types-4.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
-													<div class="bg-black-50" style="border-radius: 0.7rem;">
-														<div class="d-flex flex-column justify-content-between" style="height:20rem;">
-															<div class="pt16 pb16 my_grid_text" data-name="Text">
-																<p class="px-3" style="text-align: left;">Правильная теплоизоляция снизит затраты на охладительное оборудование и будет поддерживать необходимую минусовую температуру.</p>
-															</div>
-															<div class="pt0 pb16">
-																<h3 class="my_grid_title px-3" data-name="Text">Холодильные установки</h3>
-															</div>
-														</div>
-													</div>
-												</section>
+												<ul class="col-lg-12 pt16 pb16">
+													<h3 class="o_default_snippet_text">
+														<ul>
+															<li class="p-3">количество квадратных метров, рекомендуемых для утепления;</li>
+															<li class="p-3">состав стен и его термическое сопротивление. Обращаем внимание, что термическое сопротивление стены - очень важный показатель для правильного расчета толщины утеплителя;</li>
+															<li class="p-3">оценка состояния ограждающих конструкций;</li>
+															<li class="p-3">рекомендации по утеплителю, который целесообразно использовать именно в данном случае, с указанием его необходимой толщины и плотности;</li>
+															<li class="p-3">рекомендация по структуре утепления;</li>
+															<li class="p-3">сумму инвестиций, необходимую для утепления;</li>
+															<li class="p-3">конкретную выгоду от термо-оптимизации – количество экономии газа, Гкал, кВт часов.</li>
+														</ul>
+														<p>Только так можно сформировать перечень эффективных мероприятий для ощутимой экономии энергоресурсов.</p>
+													</h3>
+												</ul>
 											</div>
 										</div>
-									</div>
+									</section>
 								</section>
 
-								<section class="s_three_columns bg-200 pt0 pb32" data-name="Columns">
-									<div class="container-fluid">
-										<div class="row d-flex align-items-stretch justify-content-around">
-											<div class="col-xl-3 col-lg-5 col-sm-5 col-12 pt16 pb16 row align-items-stetch no-gutters">
-												<section class="pt0 pb0 col-12 row align-items-stretch no-gutters" data-name="Banner" style="border-radius: 0.7rem; background-image: url('/theme_econombud/static/src/img/teplo/c-types-5.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
-													<div class="bg-black-50" style="border-radius: 0.7rem;">
-														<div class="d-flex flex-column justify-content-between" style="height:20rem;">
-															<div class="pt16 pb16 my_grid_text" data-name="Text">
-																<p class="px-3" style="text-align: left;">Благодаря ППУ сохраняется стабильная температура в помещении и повышается срок хранения товаров.</p>
-															</div>
-															<div class="pt0 pb16">
-																<h3 class="my_grid_title px-3" data-name="Text">Склады</h3>
-															</div>
-														</div>
-													</div>
-												</section>
-											</div>
-											<div class="col-xl-3 col-lg-5 col-sm-5 col-12 pt16 pb16 row align-items-stetch no-gutters">
-												<section class="pt0 pb0 col-12 row align-items-stretch no-gutters" data-name="Banner" style="border-radius: 0.7rem; background-image: url('/theme_econombud/static/src/img/teplo/c-types-6.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
-													<div class="bg-black-50" style="border-radius: 0.7rem;">
-														<div class="d-flex flex-column justify-content-between" style="height:20rem;">
-															<div class="pt16 pb16 my_grid_text" data-name="Text">
-																<p class="px-3" style="text-align: left;">Утепление фасадов позволит сэкономить на отоплении зимой, снизит расходы на кондиционирование летом. Сверху шара теплоизоляции легко наносится декор.</p>
-															</div>
-															<div class="pt0 pb16">
-																<h3 class="my_grid_title px-3" data-name="Text">Фасады частных домов</h3>
-															</div>
-														</div>
-													</div>
-												</section>
-											</div>
-											<div class="col-xl-3 col-lg-5 col-sm-5 col-12 pt16 pb16 row align-items-stetch no-gutters">
-												<section class="pt0 pb0 col-12 row align-items-stretch no-gutters" data-name="Banner" style="border-radius: 0.7rem; background-image: url('/theme_econombud/static/src/img/teplo/c-types-7.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
-													<div class="bg-black-50" style="border-radius: 0.7rem;">
-														<div class="d-flex flex-column justify-content-between" style="height:20rem;">
-															<div class="pt16 pb16 my_grid_text" data-name="Text">
-																<p class="px-3" style="text-align: left;">ППУ эффективно утеплит и гидроизолирует кровлю, снизив теплопотери до 37%. А на мансардном этаже всегда будет комфортная температура.</p>
-															</div>
-															<div class="pt0 pb16">
-																<h3 class="my_grid_title px-3" data-name="Text">Кровля и мансардные этажи</h3>
-															</div>
-														</div>
-													</div>
-												</section>
-											</div>
-											<div class="col-xl-3 col-lg-5 col-sm-5 col-12 pt16 pb16 row align-items-stetch no-gutters">
-												<section class="pt0 pb0 col-12 row align-items-stretch no-gutters" data-name="Banner" style="border-radius: 0.7rem; background-image: url('/theme_econombud/static/src/img/teplo/c-types-8.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
-													<div class="bg-black-50" style="border-radius: 0.7rem;">
-														<div class="d-flex flex-column justify-content-between" style="height:20rem;">
-															<div class="pt16 pb16 my_grid_text" data-name="Text">
-																<p class="px-3" style="text-align: left;">Благодаря ППУ фундамент будет надежно гидроизолирован, а теплопотери снизятся минимум на 15%.</p>
-															</div>
-															<div class="pt0 pb16">
-																<h3 class="my_grid_title px-3" data-name="Text">Фундаменты</h3>
-															</div>
-														</div>
-													</div>
-												</section>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<!--Quality form-->
+								<!--Contact form-->
 								<section class="s_cover parallax s_parallax_is_fixed bg-black-50 pt64 pb64 s_parallax_no_overflow_hidden" data-scroll-background-ratio="1" data-name="Cover" style="background-image: none;">
-									<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/common/bg/bg-gydro-quality.jpg'); background-position: 50% 0;"/>
+									<span class="s_parallax_bg oe_img_bg oe_custom_bg" style="background-image: url('/theme_econombud/static/src/img/audit/aud-bg-2.jpg'); background-position: 50% 0;"/>
 									<div class="container">
 										<div class="row s_nb_column_fixed">
-											<div class="col-lg-12 s_btn text-left pt8 pb16" data-name="Buttons">
-												<h3 class="btn btn-light o_default_snippet_text">БЕСПЛАТНО</h3>
-											</div>
-											<!-- <div class="col-lg-12 s_btn text-left pt16 pb16" data-name="Buttons">
-												<a href="#" class="btn btn-delta rounded-circle o_default_snippet_text">БЕСПЛАТНО</a>											
-											</div>
-
-											<div class="col-lg-12 s_title" data-name="Title">
-												<h1 class="s_title_thin o_default_snippet_text" style="text-align: left;">Хотите <span class="text-warning">проверить качество</span> материалов?
-												</h1>
-											</div>
-											<div class="col-lg-12 s_text pt16 pb16" data-name="Text">
-												<h3 class="lead o_default_snippet_text" style="text-align: left;">Оставьте контакты и мы отправим образец в любой город Новой Почтой</h3>
-											</div> -->
-
 											<form action="/website_form/" method="post" class="col-lg-12 px-3 s_website_form container-fluid mt32 o_fake_not_editable" enctype="multipart/form-data" data-name="Form Builder" data-model_name="crm.lead" data-success_page="/contactus-thank-you">
 												<div class="container">
 													<h2 class="o_form_heading">
-														<strong>Хотите															<span class="text-warning">проверить качество</span> материалов?
+														<strong>Хотите заказать услугу															<span class="text-warning">энергоаудит</span> ?
 														</strong>
 													</h2>
-													<h3 class="o_form_heading">Оставьте контакты и мы отправим образец в любой город Новой Почтой</h3>
+													<h3 class="o_form_heading py-2">Оставьте контакты и мы вам перезвоним</h3>
 													<div class="form-group row form-field o_website_form_required_custom">
 														<div class="col-lg-3 col-md-4">
 															<label class="col-form-label o_fake_editable" for="contact_name">Ваше имя</label>
@@ -1182,7 +549,7 @@
 															<label class="col-form-label o_fake_editable" for="name">Subject</label>
 														</div>
 														<div class="col-lg-7 col-md-8">
-															<input type="text" class="form-control o_website_form_input" name="name" value="Теплоизоляция/запрос материалов"/>
+															<input type="text" class="form-control o_website_form_input" name="name" value="Энергоаудит/запрос консультации"/>
 														</div>
 													</div>
 													<div class="row form-group form-field d-none">
@@ -1207,231 +574,17 @@
 													</div>
 													<div class="form-group row">
 														<div class="offset-lg-3 offset-md-4 col-md-8 col-lg-7">
-															<button class="btn btn-warning rounded-circle btn-lg o_website_form_send o_default_snippet_text">заказать образец</button>
+															<button class="btn btn-warning rounded-circle btn-lg o_website_form_send o_default_snippet_text">ПОЛУЧИТЬ БЕСПЛАТНУЮ КОНСУЛЬТАЦИЮ</button>
 															<span id="o_website_form_result"/>
 														</div>
 													</div>
 												</div>
 											</form>
-
-										</div>
-									</div>
-								</section>
-								<!--end of quality form-->
-
-								<section class="pb0 pt0" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed">
-											<div class="col-lg-12 s_title pb0 pt64" style="text-align: center;">
-												<h2 class="s_title_default">
-													<strong>Чем														<span class="blue-text">выгодно отличается</span> EKONOMBUD
-													</strong>
-												</h2>
-											</div>
 										</div>
 									</div>
 								</section>
 
-								<section class="pb0 pt0" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed d-flex justify-content-center">
-											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<h3 class="s_title_default">от													<b>90% компаний</b>  на рынке теплоизоляции?
-												</h3>
-											</div>
-											<div class="col-6 col-lg-3 blue-line text-center">
-												<hr/>
-											</div>
-											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<p class="text-secondary"></p>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<!--Cards-->
-								<section class="s_three_columns pt16 pb8" data-name="Columns" style="">
-									<div class="container">
-										<div class="row d-flex align-items-stretch justify-content-center">
-											<div class="s_col_no_bgcolor pb16 pt0 col-sm-12 col-md-6">
-												<div class="card bg-light-blue" style="">
-													<img class="card-img-top d-block mx-auto o_we_custom_image padding-xl" style="height:150px" src="/theme_econombud/static/src/img/common/icons/i-g-advantage-1.svg"/>
-													<!-- <span class="card-img-top d-block fa fa-tree mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/> -->
-													<h3 class="card-title text-center p-1">
-														<b>Собственная технология															<br/>
-нанесения</b>
-													</h3>
-													<p class="card-text text-left p-3">В результате работы над десятками проектов, мы создали собственную технологию напыления. Она повышает срок эксплуатации до 30%, исключая все технические ошибки при нанесении. Также слой ППУ получается ровным без характерных бугров и готовым к нанесению декора.</p>
-												</div>
-											</div>
-										</div>
-									</div>
-								</section>
-								<section class="s_three_columns pt8 pb16" data-name="Columns" style="">
-									<div class="container">
-										<div class="row d-flex align-items-stretch">
-											<div class="s_col_no_bgcolor pb16 pt0 col-sm-12 col-md-6">
-												<div class="card bg-light-blue" style="">
-													<img class="card-img-top d-block mx-auto o_we_custom_image padding-xl" style="height:150px" src="/theme_econombud/static/src/img/common/icons/i-g-advantage-3.svg"/>
-													<!-- <span class="card-img-top d-block fa fa-rocket mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/> -->
-													<h3 class="card-title text-center p-1">
-														<b>Компоненты из Европы</b>
-													</h3>
-													<p class="card-text text-left p-3">От выбора производителя компонентов напрямую зависит качество, долговечность и гарантийный срок теплоизоляции. Мы являемся официальным представителем немецкого завода ВА8Р, лидера по производству пенополиуретана в Европе.</p>
-												</div>
-											</div>
-											<div class="s_col_no_bgcolor pb16 pt0 col-sm-12 col-md-6">
-												<div class="card bg-light-blue" style="">
-													<img class="card-img-top d-block mx-auto o_we_custom_image padding-xl" style="height:150px" src="/theme_econombud/static/src/img/common/icons/i-g-advantage-4.svg"/>
-													<!-- <span class="card-img-top d-block fa fa-thumbs-up mx-auto fa-5x padding-xl" data-original-title="" title="" aria-describedby="tooltip813259" style=""/> -->
-													<h3 class="card-title text-center p-1">
-														<b>Собственное оборудование</b>
-													</h3>
-													<p class="card-text text-left p-3">Для повышения эффективности работы мы создали собственную линейку оборудования. Характеристики наших установок не имеют аналогов в Украине. Они равномерно наносят слой ППУ и гарантируют точное дозирование материала.</p>
-												</div>
-											</div>
-										</div>
-									</div>
-								</section>
-
-
-								<section class="pb0 pt0 bg-light-blue" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed">
-											<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
-												<h2 class="s_title_default">
-													<strong>Примеры выполненных работ</strong>
-												</h2>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<section class="pt0 pb0 bg-light-blue" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed">
-											<div class="col-lg-12 s_title pt0 pb0" style="text-align: center;">
-												<h3 class="s_title_default">Как пенополиуретан решает проблему теплоизоляции разных покрытий</h3>
-											</div>											
-										</div>
-									</div>
-								</section>
-
-								<section class="container-fluid bg-light-blue">
-									<div class="row d-flex justify-content-center">
-										<div class="col-6 col-lg-3 blue-line">
-											<hr/>
-										</div>
-									</div>
-								</section>
-								
-								<!-- Gallery -->
-								<section class="s_three_columns bg-light-blue pt0 pb32" data-name="Columns">
-									<div class="container-fluid">
-										<div class="row d-flex align-items-stretch justify-content-around">
-											<div class="col-xl-3 col-lg-5 col-sm-5 col-12 pt16 pb16 row align-items-stetch no-gutters">
-												<section class="pt0 pb0 col-12 row align-items-stretch no-gutters" data-name="Banner" style="border-radius: 0.7rem; background-image: url('/theme_econombud/static/src/img/teplo/image-1-600x400.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
-													<div class="bg-black-50" style="border-radius: 0.7rem;">
-														<div class="d-flex flex-column justify-content-between" style="height:20rem;">
-															<div class="pt32">
-																<h3 class="my_grid_title px-3" data-name="Text">Утепление церкви</h3>
-															</div>
-															<div class="pt16 pb16 my_grid_text" data-name="Text">
-																<p class="px-3" style="text-align: left;">Покрытие: кирпич, бетон</p>
-																<p class="px-3" style="text-align: left;">Задача: 40% тепла из здания уходит через крышу</p>
-																<p class="px-3" style="text-align: left;">Утеплить помещение</p>
-																<p class="px-3" style="text-align: left;">Решение: пенополиуретан прекрасно вспенивается и выполняет свою функцию</p>
-															</div>															
-														</div>
-													</div>
-												</section>
-											</div>
-											<div class="col-xl-3 col-lg-5 col-sm-5 col-12 pt16 pb16 row align-items-stetch no-gutters">
-												<section class="pt0 pb0 col-12 row align-items-stretch no-gutters" data-name="Banner" style="border-radius: 0.7rem; background-image: url('/theme_econombud/static/src/img/teplo/886_original.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
-													<div class="bg-black-50" style="border-radius: 0.7rem;">
-														<div class="d-flex flex-column justify-content-between" style="height:20rem;">
-															<div class="pt32">
-																<h3 class="my_grid_title px-3" data-name="Text">ППУ против пенопласта</h3>
-															</div>
-															<div class="pt16 pb16 my_grid_text" data-name="Text">
-																<p class="px-3" style="text-align: left;">Покрытие: гидробарьер</p>
-																<p class="px-3" style="text-align: left;">Задача: тепло- и звукоизоляция жилого дома</p>																
-																<p class="px-3" style="text-align: left;">Решение: решили передуть стены и крышу пенополиуретаном</p>
-															</div>															
-														</div>
-													</div>
-												</section>
-											</div>
-											<div class="col-xl-3 col-lg-5 col-sm-5 col-12 pt16 pb16 row align-items-stetch no-gutters">
-												<section class="pt0 pb0 col-12 row align-items-stretch no-gutters" data-name="Banner" style="border-radius: 0.7rem; background-image: url('/theme_econombud/static/src/img/teplo/teplo_1.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
-													<div class="bg-black-50" style="border-radius: 0.7rem;">
-														<div class="d-flex flex-column justify-content-between" style="height:20rem;">
-															<div class="pt32">
-																<h3 class="my_grid_title px-3" data-name="Text">Утепление фундамента</h3>
-															</div>
-															<div class="pt16 pb16 my_grid_text" data-name="Text">
-																<p class="px-3" style="text-align: left;">Покрытие: бетонная поверхность</p>
-																<p class="px-3" style="text-align: left;">Задача: тепло- и гидроизоляции фундамента, сохранение тепла в подвале и дома в целом</p>																
-																<p class="px-3" style="text-align: left;">Решение: покрытие жесткой пеной</p>
-															</div>															
-														</div>
-													</div>
-												</section>
-											</div>
-											<div class="col-xl-3 col-lg-5 col-sm-5 col-12 pt16 pb16 row align-items-stetch no-gutters">
-												<section class="pt0 pb0 col-12 row align-items-stretch no-gutters" data-name="Banner" style="border-radius: 0.7rem; background-image: url('/theme_econombud/static/src/img/teplo/stena.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
-													<div class="bg-black-50" style="border-radius: 0.7rem;">
-														<div class="d-flex flex-column justify-content-between" style="height:20rem;">
-															<div class="pt32">
-																<h3 class="my_grid_title px-3" data-name="Text">Утепление жилого дома</h3>
-															</div>
-															<div class="pt16 pb16 my_grid_text" data-name="Text">
-																<p class="px-3" style="text-align: left;">Покрытие: гидробарьер</p>
-																<p class="px-3" style="text-align: left;">Задача: утеплить квартиру на последнем этаже 8-этажного здания</p>																
-																<p class="px-3" style="text-align: left;">Решение: пенополиуретан идеально подходит для решения задач</p>
-															</div>															
-														</div>
-													</div>
-												</section>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<section class="pb0 pt16 bg-200" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed">
-											<div class="col-lg-12 s_title pb0 pt16" style="text-align: center;">
-												<h2 class="s_title_default">
-													<b>Нам														<span class="blue-text">доверяют</span> теплоизоляцию своих объектов,
-													</b>
-													<!-- <br/> -->
-												</h2>
-											</div>
-										</div>
-									</div>
-								</section>
-								<section class="pb0 pt0 bg-200" data-name="Title">
-									<div class="container">
-										<div class="row s_nb_column_fixed">
-											<div class="col-lg-12 s_title pb0 pt0" style="text-align: center;">
-												<h3 class="s_title_default">
-													<b>и мы гордимся,</b> что оправдываем ожидания наших клиентов
-												</h3>
-											</div>
-										</div>
-									</div>
-								</section>
-
-								<section class="container-fluid bg-200">
-									<div class="row d-flex justify-content-center">
-										<div class="col-6 col-lg-3 blue-line">
-											<hr/>
-										</div>
-									</div>
-								</section>
-
-								<!--YT Video-->
+								<!-- You tube-->
 								<section class="s_three_columns bg-200 pt16 pb0" data-name="Columns">
 									<div class="container">
 										<div class="row d-flex align-items-stretch">
@@ -1440,57 +593,40 @@
 													<div class="container">
 														<div class="row s_nb_column_fixed">
 															<div class="pb0 col-lg-12">
-																<figure class="figure">
-																</figure>
-																<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/lU6y3lbKh6g?autoplay=0&amp;rel=0">
-																	<div class="css_editable_mode_display" data-original-title="Утепление церкви" title="Утепление церкви"></div>
+																<figure class="figure"/>
+																<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/amS3yXj4JNs?autoplay=0&amp;rel=0">
+																	<div class="css_editable_mode_display" data-original-title="Гидроизоляция" title="Гидроизоляция"/>
 																	<div class="media_iframe_video_size">&amp;nbsp;</div>
-																	<iframe src="//www.youtube.com/embed/lU6y3lbKh6g?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
+																	<iframe src="//www.youtube.com/embed/amS3yXj4JNs?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
 																</div>
-																<figure class="figure">
-																	<figcaption class="figure-caption py-3 text-center">
-																		<i class="fa fa-1x fa-picture-o mr-2"/>
-Утепление церкви
-																	</figcaption>
-																</figure>
 															</div>
 														</div>
 													</div>
 												</section>
-
 											</div>
 											<div class="s_col_no_bgcolor pt16 col-lg-6 pb16">
 												<section class="s_picture bg-200 pt0 pb0" data-name="Picture">
 													<div class="container">
 														<div class="row s_nb_column_fixed">
 															<div class="pb0 col-lg-12">
-																<figure class="figure">
-																</figure>
-																<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/H740RDFGG1s?autoplay=0&amp;rel=0">
-																	<div class="css_editable_mode_display" data-original-title="Теплоизоляция дома" title="Теплоизоляция дома"></div>
+																<figure class="figure"/>
+																<div class="media_iframe_video" data-oe-expression="//www.youtube.com/embed/nkSQQn4z2z4?autoplay=0&amp;rel=0">
+																	<div class="css_editable_mode_display" data-original-title="Экономбуд отзывы" title="Экономбуд отзывы"/>
 																	<div class="media_iframe_video_size">&amp;nbsp;</div>
-																	<iframe src="//www.youtube.com/embed/H740RDFGG1s?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
+																	<iframe src="//www.youtube.com/embed/nkSQQn4z2z4?autoplay=0&amp;rel=0" frameborder="0" allowfullscreen="allowfullscreen"/>
 																</div>
-																<figure class="figure">
-																	<figcaption class="figure-caption py-3 text-center">
-																		<i class="fa fa-1x fa-picture-o mr-2"/>
-Теплоизоляция дома
-																	</figcaption>
-																</figure>
 															</div>
 														</div>
 													</div>
-
 												</section>
 											</div>
 										</div>
 									</div>
 								</section>
-
 								<section class="bg-200">
 									<div class="container">
 										<div class="row">
-											<div class="col-lg-12 s_btn text-center pb64 pt0" data-name="Button">
+											<div class="col-lg-12 s_btn text-center pb64 pt32" data-name="Button">
 												<a href="https://www.youtube.com/channel/UC_aaPRLlHnnrukEefOJF3rg" class="btn btn-danger rounded-circle btn-lg" target="_blank">
 													<b>БОЛЬШЕ НА НАШЕМ YOUTUBE КАНАЛЕ</b>
 												</a>
@@ -1498,7 +634,6 @@
 										</div>
 									</div>
 								</section>
-
 
 							</div>
 						</div>
@@ -1513,12 +648,12 @@
 			<field name="view_id" ref="page_audit_view" />
 			<field name="is_homepage">False</field>
 		</record>
-		<!-- <record id="menu_audit" model="website.menu">
-			<field name="name">Агент</field>
+		<record id="menu_audit" model="website.menu">
+			<field name="name">Энергоаудит</field>
 			<field name="url">/audit</field>
 			<field name="parent_id" ref="website.main_menu" />
 			<field name="sequence" type="int">50</field>
-			<field name="page_id" ref="page_audit_page" />			
-		</record> -->
+			<field name="page_id" ref="page_audit_page" />
+		</record>
 	</data>
 </odoo>
