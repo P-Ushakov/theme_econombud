@@ -1,5 +1,5 @@
 //HAMBURGER
-odoo.define("website.user_custom_code", function (require) {
+odoo.define("website.hamburger_animation_code", function (require) {
   "use strict";
 
   //var Dialog = require('web.Dialog');

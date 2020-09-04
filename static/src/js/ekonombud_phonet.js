@@ -1,5 +1,5 @@
 //EkonombudPhonetScript
-odoo.define("website.user_custom_code", function (require) {
+odoo.define("website.ekonombud_phonet_code", function (require) {
     "use strict";
   
     //var Dialog = require('web.Dialog');
